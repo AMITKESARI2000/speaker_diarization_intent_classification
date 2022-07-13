@@ -1,0 +1,4 @@
+{"audio_filepath": "/home/DATA/amit_kesari/SD1/NeMo-Nvidia/data/afjiv.wav", "offset": 41.12, "duration": 39.36, "label": "UNK"}
+{"audio_filepath": "/home/DATA/amit_kesari/SD1/NeMo-Nvidia/data/afjiv.wav", "offset": 140.64, "duration": 1.0, "label": "UNK"}
+{"audio_filepath": "/home/DATA/amit_kesari/SD1/NeMo-Nvidia/data/afjiv.wav", "offset": 142.2, "duration": 2.12, "label": "UNK"}
+{"audio_filepath": "/home/DATA/amit_kesari/SD1/NeMo-Nvidia/data/afjiv.wav", "offset": 5.28, "duration": 140.04, "label": "UNK"}

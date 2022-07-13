@@ -1,0 +1,6015 @@
+{
+    "schemaVersion": 2.0,
+    "monologues": [
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 1.8,
+                    "end": 1.82,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 2.0,
+                    "end": 2.09,
+                    "text": "year",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 2.4,
+                    "end": 2.42,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 2.5,
+                    "end": 2.57,
+                    "text": "year",
+                    "type": "WORD"
+                },
+                {
+                    "start": 2.61,
+                    "end": 2.65,
+                    "text": "or",
+                    "type": "WORD"
+                },
+                {
+                    "start": 2.68,
+                    "end": 2.76,
+                    "text": "two",
+                    "type": "WORD"
+                },
+                {
+                    "start": 2.88,
+                    "end": 2.92,
+                    "text": "in",
+                    "type": "WORD"
+                },
+                {
+                    "start": 3.04,
+                    "end": 3.22,
+                    "text": "public",
+                    "type": "WORD"
+                },
+                {
+                    "start": 3.36,
+                    "end": 3.61,
+                    "text": "service",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 4.04,
+                    "end": 4.05,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 4.08,
+                    "end": 4.16,
+                    "text": "don",
+                    "type": "WORD"
+                },
+                {
+                    "start": 4.18,
+                    "end": 4.2,
+                    "text": "t",
+                    "type": "WORD"
+                },
+                {
+                    "start": 4.24,
+                    "end": 4.32,
+                    "text": "know",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 4.62,
+                    "end": 4.7,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 4.8,
+                    "end": 4.96,
+                    "text": "seems",
+                    "type": "WORD"
+                },
+                {
+                    "start": 5.01,
+                    "end": 5.09,
+                    "text": "like",
+                    "type": "WORD"
+                },
+                {
+                    "start": 5.16,
+                    "end": 5.22,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 5.26,
+                    "end": 5.38,
+                    "text": "lot",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 7.32,
+                    "end": 7.34,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 7.4,
+                    "end": 7.5,
+                    "text": "mean",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 7.62,
+                    "end": 7.63,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 7.7,
+                    "end": 7.8,
+                    "text": "think",
+                    "type": "WORD"
+                },
+                {
+                    "start": 7.85,
+                    "end": 7.92,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 7.95,
+                    "end": 8.03,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 8.11,
+                    "end": 8.16,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 8.22,
+                    "end": 8.34,
+                    "text": "would",
+                    "type": "WORD"
+                },
+                {
+                    "start": 8.38,
+                    "end": 8.43,
+                    "text": "be",
+                    "type": "WORD"
+                },
+                {
+                    "start": 8.48,
+                    "end": 8.58,
+                    "text": "nice",
+                    "type": "WORD"
+                },
+                {
+                    "start": 8.61,
+                    "end": 8.92,
+                    "text": "especially",
+                    "type": "WORD"
+                },
+                {
+                    "start": 9.0,
+                    "end": 9.08,
+                    "text": "like",
+                    "type": "WORD"
+                },
+                {
+                    "start": 9.14,
+                    "end": 9.19,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 9.22,
+                    "end": 9.3,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 9.35,
+                    "end": 9.46,
+                    "text": "when",
+                    "type": "WORD"
+                },
+                {
+                    "start": 9.51,
+                    "end": 9.66,
+                    "text": "people",
+                    "type": "WORD"
+                },
+                {
+                    "start": 9.74,
+                    "end": 9.8,
+                    "text": "are",
+                    "type": "WORD"
+                },
+                {
+                    "start": 10.03,
+                    "end": 10.18,
+                    "text": "kids",
+                    "type": "WORD"
+                },
+                {
+                    "start": 10.32,
+                    "end": 10.38,
+                    "text": "go",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 10.46,
+                    "end": 10.5,
+                    "text": "in",
+                    "type": "WORD"
+                },
+                {
+                    "start": 10.59,
+                    "end": 10.82,
+                    "text": "college",
+                    "type": "WORD"
+                },
+                {
+                    "start": 10.93,
+                    "end": 11.01,
+                    "text": "they",
+                    "type": "WORD"
+                },
+                {
+                    "start": 11.09,
+                    "end": 11.24,
+                    "text": "should",
+                    "type": "WORD"
+                },
+                {
+                    "start": 11.3,
+                    "end": 11.34,
+                    "text": "do",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 11.48,
+                    "end": 11.58,
+                    "text": "some",
+                    "type": "WORD"
+                },
+                {
+                    "start": 11.69,
+                    "end": 11.88,
+                    "text": "public",
+                    "type": "WORD"
+                },
+                {
+                    "start": 12.01,
+                    "end": 12.27,
+                    "text": "service",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 13.43,
+                    "end": 13.5,
+                    "text": "um",
+                    "type": "WORD"
+                },
+                {
+                    "start": 15.24,
+                    "end": 15.35,
+                    "text": "part",
+                    "type": "WORD"
+                },
+                {
+                    "start": 15.43,
+                    "end": 15.48,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 15.62,
+                    "end": 15.64,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 15.76,
+                    "end": 15.87,
+                    "text": "part",
+                    "type": "WORD"
+                },
+                {
+                    "start": 15.93,
+                    "end": 15.97,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 16.07,
+                    "end": 16.11,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 16.18,
+                    "end": 16.31,
+                    "text": "though",
+                    "type": "WORD"
+                },
+                {
+                    "start": 17.43,
+                    "end": 17.45,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 17.51,
+                    "end": 17.69,
+                    "text": "agree",
+                    "type": "WORD"
+                },
+                {
+                    "start": 17.75,
+                    "end": 17.84,
+                    "text": "with",
+                    "type": "WORD"
+                },
+                {
+                    "start": 17.89,
+                    "end": 17.95,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 18.11,
+                    "end": 18.41,
+                    "text": "sometimes",
+                    "type": "WORD"
+                },
+                {
+                    "start": 18.51,
+                    "end": 18.55,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 18.66,
+                    "end": 18.81,
+                    "text": "sounds",
+                    "type": "WORD"
+                },
+                {
+                    "start": 18.93,
+                    "end": 19.01,
+                    "text": "like",
+                    "type": "WORD"
+                },
+                {
+                    "start": 19.09,
+                    "end": 19.13,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 19.19,
+                    "end": 19.31,
+                    "text": "lot",
+                    "type": "WORD"
+                },
+                {
+                    "start": 19.45,
+                    "end": 19.53,
+                    "text": "but",
+                    "type": "WORD"
+                },
+                {
+                    "start": 20.16,
+                    "end": 20.19,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 20.29,
+                    "end": 20.41,
+                    "text": "think",
+                    "type": "WORD"
+                },
+                {
+                    "start": 20.59,
+                    "end": 20.73,
+                    "text": "less",
+                    "type": "WORD"
+                },
+                {
+                    "start": 20.81,
+                    "end": 20.91,
+                    "text": "than",
+                    "type": "WORD"
+                },
+                {
+                    "start": 21.03,
+                    "end": 21.05,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 21.13,
+                    "end": 21.23,
+                    "text": "year",
+                    "type": "WORD"
+                },
+                {
+                    "start": 22.37,
+                    "end": 22.45,
+                    "text": "they",
+                    "type": "WORD"
+                },
+                {
+                    "start": 22.55,
+                    "end": 22.68,
+                    "text": "don't",
+                    "type": "WORD"
+                },
+                {
+                    "start": 22.75,
+                    "end": 22.87,
+                    "text": "learn",
+                    "type": "WORD"
+                },
+                {
+                    "start": 22.97,
+                    "end": 23.19,
+                    "text": "enough",
+                    "type": "WORD"
+                },
+                {
+                    "start": 24.71,
+                    "end": 24.75,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 24.82,
+                    "end": 24.93,
+                    "text": "think",
+                    "type": "WORD"
+                },
+                {
+                    "start": 25.01,
+                    "end": 25.07,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 25.19,
+                    "end": 25.29,
+                    "text": "just",
+                    "type": "WORD"
+                },
+                {
+                    "start": 25.34,
+                    "end": 25.51,
+                    "text": "about",
+                    "type": "WORD"
+                },
+                {
+                    "start": 25.63,
+                    "end": 25.71,
+                    "text": "have",
+                    "type": "WORD"
+                },
+                {
+                    "start": 25.75,
+                    "end": 25.79,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 25.85,
+                    "end": 25.89,
+                    "text": "be",
+                    "type": "WORD"
+                },
+                {
+                    "start": 26.0,
+                    "end": 26.11,
+                    "text": "away",
+                    "type": "WORD"
+                },
+                {
+                    "start": 26.21,
+                    "end": 26.32,
+                    "text": "from",
+                    "type": "WORD"
+                },
+                {
+                    "start": 26.43,
+                    "end": 26.57,
+                    "text": "home",
+                    "type": "WORD"
+                },
+                {
+                    "start": 26.93,
+                    "end": 27.03,
+                    "text": "for",
+                    "type": "WORD"
+                },
+                {
+                    "start": 27.11,
+                    "end": 27.13,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 27.25,
+                    "end": 27.39,
+                    "text": "full",
+                    "type": "WORD"
+                },
+                {
+                    "start": 27.53,
+                    "end": 27.63,
+                    "text": "year",
+                    "type": "WORD"
+                },
+                {
+                    "start": 29.0,
+                    "end": 29.19,
+                    "text": "under",
+                    "type": "WORD"
+                },
+                {
+                    "start": 29.29,
+                    "end": 29.43,
+                    "text": "left",
+                    "type": "WORD"
+                },
+                {
+                    "start": 29.57,
+                    "end": 29.63,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 29.77,
+                    "end": 30.03,
+                    "text": "ideal",
+                    "type": "WORD"
+                },
+                {
+                    "start": 30.16,
+                    "end": 30.57,
+                    "text": "conditions",
+                    "type": "WORD"
+                },
+                {
+                    "start": 32.83,
+                    "end": 32.89,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 33.03,
+                    "end": 33.15,
+                    "text": "learn",
+                    "type": "WORD"
+                },
+                {
+                    "start": 33.28,
+                    "end": 33.37,
+                    "text": "some",
+                    "type": "WORD"
+                },
+                {
+                    "start": 33.43,
+                    "end": 33.47,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 33.53,
+                    "end": 33.61,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 33.75,
+                    "end": 33.79,
+                    "text": "uh",
+                    "type": "WORD"
+                },
+                {
+                    "start": 34.39,
+                    "end": 34.46,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 34.5,
+                    "end": 34.57,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 34.68,
+                    "end": 34.89,
+                    "text": "lessons",
+                    "type": "WORD"
+                },
+                {
+                    "start": 34.97,
+                    "end": 35.06,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 35.18,
+                    "end": 35.37,
+                    "text": "really",
+                    "type": "WORD"
+                },
+                {
+                    "start": 35.43,
+                    "end": 35.53,
+                    "text": "need",
+                    "type": "WORD"
+                },
+                {
+                    "start": 35.6,
+                    "end": 35.65,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 35.71,
+                    "end": 35.75,
+                    "text": "be",
+                    "type": "WORD"
+                },
+                {
+                    "start": 35.85,
+                    "end": 36.01,
+                    "text": "learned",
+                    "type": "WORD"
+                },
+                {
+                    "start": 37.0,
+                    "end": 37.1,
+                    "text": "may",
+                    "type": "WORD"
+                },
+                {
+                    "start": 37.29,
+                    "end": 37.37,
+                    "text": "may",
+                    "type": "WORD"
+                },
+                {
+                    "start": 37.5,
+                    "end": 37.51,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 37.65,
+                    "end": 37.78,
+                    "text": "have",
+                    "type": "WORD"
+                },
+                {
+                    "start": 37.87,
+                    "end": 37.93,
+                    "text": "how",
+                    "type": "WORD"
+                },
+                {
+                    "start": 38.06,
+                    "end": 38.14,
+                    "text": "old",
+                    "type": "WORD"
+                },
+                {
+                    "start": 38.24,
+                    "end": 38.32,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 38.37,
+                    "end": 38.46,
+                    "text": "are",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 38.83,
+                    "end": 38.93,
+                    "text": "i'm",
+                    "type": "WORD"
+                },
+                {
+                    "start": 38.96,
+                    "end": 39.18,
+                    "text": "twenty",
+                    "type": "WORD"
+                },
+                {
+                    "start": 39.25,
+                    "end": 39.35,
+                    "text": "six",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 39.61,
+                    "end": 39.83,
+                    "text": "twenty",
+                    "type": "WORD"
+                },
+                {
+                    "start": 39.92,
+                    "end": 40.01,
+                    "text": "six",
+                    "type": "WORD"
+                },
+                {
+                    "start": 40.18,
+                    "end": 40.33,
+                    "text": "you're",
+                    "type": "WORD"
+                },
+                {
+                    "start": 40.37,
+                    "end": 40.5,
+                    "text": "young",
+                    "type": "WORD"
+                },
+                {
+                    "start": 40.53,
+                    "end": 40.74,
+                    "text": "enough",
+                    "type": "WORD"
+                },
+                {
+                    "start": 40.82,
+                    "end": 40.85,
+                    "text": "so",
+                    "type": "WORD"
+                },
+                {
+                    "start": 40.97,
+                    "end": 41.03,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 41.07,
+                    "end": 41.19,
+                    "text": "might",
+                    "type": "WORD"
+                },
+                {
+                    "start": 41.24,
+                    "end": 41.32,
+                    "text": "have",
+                    "type": "WORD"
+                },
+                {
+                    "start": 41.35,
+                    "end": 41.47,
+                    "text": "been",
+                    "type": "WORD"
+                },
+                {
+                    "start": 41.53,
+                    "end": 41.87,
+                    "text": "affected",
+                    "type": "WORD"
+                },
+                {
+                    "start": 45.11,
+                    "end": 45.18,
+                    "text": "so",
+                    "type": "WORD"
+                },
+                {
+                    "start": 45.85,
+                    "end": 45.93,
+                    "text": "yeah",
+                    "type": "WORD"
+                },
+                {
+                    "start": 46.07,
+                    "end": 46.1,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 46.21,
+                    "end": 46.35,
+                    "text": "really",
+                    "type": "WORD"
+                },
+                {
+                    "start": 46.51,
+                    "end": 46.53,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 46.68,
+                    "end": 46.85,
+                    "text": "really",
+                    "type": "WORD"
+                },
+                {
+                    "start": 46.97,
+                    "end": 47.11,
+                    "text": "feel",
+                    "type": "WORD"
+                },
+                {
+                    "start": 47.24,
+                    "end": 47.32,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 47.56,
+                    "end": 47.6,
+                    "text": "um",
+                    "type": "WORD"
+                },
+                {
+                    "start": 47.97,
+                    "end": 48.01,
+                    "text": "if",
+                    "type": "WORD"
+                },
+                {
+                    "start": 48.15,
+                    "end": 48.32,
+                    "text": "every",
+                    "type": "WORD"
+                },
+                {
+                    "start": 48.39,
+                    "end": 48.46,
+                    "text": "kid",
+                    "type": "WORD"
+                },
+                {
+                    "start": 48.57,
+                    "end": 48.65,
+                    "text": "had",
+                    "type": "WORD"
+                },
+                {
+                    "start": 48.71,
+                    "end": 48.78,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 48.83,
+                    "end": 48.88,
+                    "text": "be",
+                    "type": "WORD"
+                },
+                {
+                    "start": 48.96,
+                    "end": 49.11,
+                    "text": "away",
+                    "type": "WORD"
+                },
+                {
+                    "start": 49.19,
+                    "end": 49.28,
+                    "text": "from",
+                    "type": "WORD"
+                },
+                {
+                    "start": 49.39,
+                    "end": 49.51,
+                    "text": "home",
+                    "type": "WORD"
+                },
+                {
+                    "start": 50.6,
+                    "end": 50.69,
+                    "text": "boy",
+                    "type": "WORD"
+                },
+                {
+                    "start": 50.83,
+                    "end": 50.92,
+                    "text": "when",
+                    "type": "WORD"
+                },
+                {
+                    "start": 50.97,
+                    "end": 51.06,
+                    "text": "they",
+                    "type": "WORD"
+                },
+                {
+                    "start": 51.15,
+                    "end": 51.24,
+                    "text": "got",
+                    "type": "WORD"
+                },
+                {
+                    "start": 51.29,
+                    "end": 51.42,
+                    "text": "back",
+                    "type": "WORD"
+                },
+                {
+                    "start": 51.51,
+                    "end": 51.6,
+                    "text": "they",
+                    "type": "WORD"
+                },
+                {
+                    "start": 51.82,
+                    "end": 52.07,
+                    "text": "certainly",
+                    "type": "WORD"
+                },
+                {
+                    "start": 52.14,
+                    "end": 52.28,
+                    "text": "would",
+                    "type": "WORD"
+                },
+                {
+                    "start": 52.35,
+                    "end": 52.46,
+                    "text": "have",
+                    "type": "WORD"
+                },
+                {
+                    "start": 52.53,
+                    "end": 52.57,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 52.61,
+                    "end": 52.85,
+                    "text": "different",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 53.03,
+                    "end": 53.07,
+                    "text": "uh",
+                    "type": "WORD"
+                },
+                {
+                    "start": 53.35,
+                    "end": 53.51,
+                    "text": "that's",
+                    "type": "WORD"
+                },
+                {
+                    "start": 53.57,
+                    "end": 53.69,
+                    "text": "true",
+                    "type": "WORD"
+                },
+                {
+                    "start": 53.89,
+                    "end": 54.39,
+                    "text": "verica",
+                    "type": "WORD"
+                },
+                {
+                    "start": 54.68,
+                    "end": 54.75,
+                    "text": "some",
+                    "type": "WORD"
+                },
+                {
+                    "start": 54.79,
+                    "end": 55.01,
+                    "text": "pupil",
+                    "type": "WORD"
+                },
+                {
+                    "start": 55.06,
+                    "end": 55.19,
+                    "text": "spend",
+                    "type": "WORD"
+                },
+                {
+                    "start": 55.28,
+                    "end": 55.38,
+                    "text": "far",
+                    "type": "WORD"
+                },
+                {
+                    "start": 55.46,
+                    "end": 55.57,
+                    "text": "too",
+                    "type": "WORD"
+                },
+                {
+                    "start": 55.61,
+                    "end": 55.71,
+                    "text": "much",
+                    "type": "WORD"
+                },
+                {
+                    "start": 55.82,
+                    "end": 55.96,
+                    "text": "time",
+                    "type": "WORD"
+                },
+                {
+                    "start": 58.47,
+                    "end": 58.53,
+                    "text": "in",
+                    "type": "WORD"
+                },
+                {
+                    "start": 58.6,
+                    "end": 58.68,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 58.69,
+                    "end": 58.82,
+                    "text": "same",
+                    "type": "WORD"
+                },
+                {
+                    "start": 58.88,
+                    "end": 58.97,
+                    "text": "thing",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 59.06,
+                    "end": 59.11,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 59.15,
+                    "end": 59.24,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 59.42,
+                    "end": 59.47,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 59.56,
+                    "end": 59.64,
+                    "text": "not",
+                    "type": "WORD"
+                },
+                {
+                    "start": 59.71,
+                    "end": 59.89,
+                    "text": "really",
+                    "type": "WORD"
+                },
+                {
+                    "start": 60.1,
+                    "end": 60.15,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 60.19,
+                    "end": 60.28,
+                    "text": "know",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 60.43,
+                    "end": 60.64,
+                    "text": "seeing",
+                    "type": "WORD"
+                },
+                {
+                    "start": 60.69,
+                    "end": 60.83,
+                    "text": "any",
+                    "type": "WORD"
+                },
+                {
+                    "start": 60.89,
+                    "end": 61.06,
+                    "text": "other",
+                    "type": "WORD"
+                },
+                {
+                    "start": 61.1,
+                    "end": 61.21,
+                    "text": "part",
+                    "type": "WORD"
+                },
+                {
+                    "start": 61.28,
+                    "end": 61.32,
+                    "text": "of",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 61.38,
+                    "end": 61.43,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 61.51,
+                    "end": 61.64,
+                    "text": "world",
+                    "type": "WORD"
+                },
+                {
+                    "start": 61.83,
+                    "end": 61.92,
+                    "text": "yeah",
+                    "type": "WORD"
+                },
+                {
+                    "start": 62.65,
+                    "end": 62.71,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 62.82,
+                    "end": 62.88,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 62.92,
+                    "end": 63.0,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 63.14,
+                    "end": 63.24,
+                    "text": "mom",
+                    "type": "WORD"
+                },
+                {
+                    "start": 63.29,
+                    "end": 63.38,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 63.42,
+                    "end": 63.51,
+                    "text": "dad",
+                    "type": "WORD"
+                },
+                {
+                    "start": 63.61,
+                    "end": 63.68,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 63.75,
+                    "end": 63.88,
+                    "text": "home",
+                    "type": "WORD"
+                },
+                {
+                    "start": 63.99,
+                    "end": 64.1,
+                    "text": "look",
+                    "type": "WORD"
+                },
+                {
+                    "start": 64.22,
+                    "end": 64.24,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 64.27,
+                    "end": 64.33,
+                    "text": "lot",
+                    "type": "WORD"
+                },
+                {
+                    "start": 64.46,
+                    "end": 64.63,
+                    "text": "better",
+                    "type": "WORD"
+                },
+                {
+                    "start": 65.27,
+                    "end": 65.33,
+                    "text": "oh",
+                    "type": "WORD"
+                },
+                {
+                    "start": 65.41,
+                    "end": 65.49,
+                    "text": "yeah",
+                    "type": "WORD"
+                },
+                {
+                    "start": 65.94,
+                    "end": 65.97,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 66.02,
+                    "end": 66.03,
+                    "text": "s",
+                    "type": "WORD"
+                },
+                {
+                    "start": 66.11,
+                    "end": 66.13,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 66.18,
+                    "end": 66.49,
+                    "text": "pentiful",
+                    "type": "WORD"
+                },
+                {
+                    "start": 66.55,
+                    "end": 66.66,
+                    "text": "way",
+                    "type": "WORD"
+                },
+                {
+                    "start": 66.94,
+                    "end": 66.99,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 67.05,
+                    "end": 67.1,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 67.16,
+                    "end": 67.32,
+                    "text": "don't",
+                    "type": "WORD"
+                },
+                {
+                    "start": 67.35,
+                    "end": 67.44,
+                    "text": "mean",
+                    "type": "WORD"
+                },
+                {
+                    "start": 67.55,
+                    "end": 67.69,
+                    "text": "even",
+                    "type": "WORD"
+                },
+                {
+                    "start": 67.77,
+                    "end": 67.83,
+                    "text": "in",
+                    "type": "WORD"
+                },
+                {
+                    "start": 67.91,
+                    "end": 67.94,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 67.99,
+                    "end": 68.22,
+                    "text": "foreign",
+                    "type": "WORD"
+                },
+                {
+                    "start": 68.33,
+                    "end": 68.55,
+                    "text": "country",
+                    "type": "WORD"
+                },
+                {
+                    "start": 69.39,
+                    "end": 69.46,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 69.52,
+                    "end": 69.6,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 69.72,
+                    "end": 69.74,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 69.77,
+                    "end": 69.86,
+                    "text": "mean",
+                    "type": "WORD"
+                },
+                {
+                    "start": 69.94,
+                    "end": 69.97,
+                    "text": "if",
+                    "type": "WORD"
+                },
+                {
+                    "start": 70.05,
+                    "end": 70.11,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 70.16,
+                    "end": 70.25,
+                    "text": "were",
+                    "type": "WORD"
+                },
+                {
+                    "start": 70.36,
+                    "end": 70.44,
+                    "text": "just",
+                    "type": "WORD"
+                },
+                {
+                    "start": 70.52,
+                    "end": 70.69,
+                    "text": "away",
+                    "type": "WORD"
+                },
+                {
+                    "start": 70.8,
+                    "end": 70.89,
+                    "text": "from",
+                    "type": "WORD"
+                },
+                {
+                    "start": 70.99,
+                    "end": 71.11,
+                    "text": "home",
+                    "type": "WORD"
+                },
+                {
+                    "start": 71.22,
+                    "end": 71.32,
+                    "text": "for",
+                    "type": "WORD"
+                },
+                {
+                    "start": 71.39,
+                    "end": 71.44,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 71.49,
+                    "end": 71.6,
+                    "text": "year",
+                    "type": "WORD"
+                },
+                {
+                    "start": 72.33,
+                    "end": 72.36,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 72.46,
+                    "end": 72.53,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 73.03,
+                    "end": 73.33,
+                    "text": "without",
+                    "type": "WORD"
+                },
+                {
+                    "start": 73.41,
+                    "end": 73.47,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 73.55,
+                    "end": 73.86,
+                    "text": "comfort",
+                    "type": "WORD"
+                },
+                {
+                    "start": 73.97,
+                    "end": 74.05,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 74.16,
+                    "end": 74.24,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 74.38,
+                    "end": 74.49,
+                    "text": "mom",
+                    "type": "WORD"
+                },
+                {
+                    "start": 74.55,
+                    "end": 74.63,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 74.68,
+                    "end": 74.77,
+                    "text": "dad",
+                    "type": "WORD"
+                },
+                {
+                    "start": 74.96,
+                    "end": 75.19,
+                    "text": "provide",
+                    "type": "WORD"
+                },
+                {
+                    "start": 75.32,
+                    "end": 75.36,
+                    "text": "if",
+                    "type": "WORD"
+                },
+                {
+                    "start": 75.58,
+                    "end": 75.6,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 75.63,
+                    "end": 75.72,
+                    "text": "mean",
+                    "type": "WORD"
+                },
+                {
+                    "start": 75.77,
+                    "end": 75.82,
+                    "text": "if",
+                    "type": "WORD"
+                },
+                {
+                    "start": 75.86,
+                    "end": 76.02,
+                    "text": "you're",
+                    "type": "WORD"
+                },
+                {
+                    "start": 76.03,
+                    "end": 76.22,
+                    "text": "lucky",
+                    "type": "WORD"
+                },
+                {
+                    "start": 76.27,
+                    "end": 76.46,
+                    "text": "enough",
+                    "type": "WORD"
+                },
+                {
+                    "start": 76.47,
+                    "end": 76.53,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 76.6,
+                    "end": 76.68,
+                    "text": "have",
+                    "type": "WORD"
+                },
+                {
+                    "start": 76.77,
+                    "end": 76.91,
+                    "text": "both",
+                    "type": "WORD"
+                },
+                {
+                    "start": 77.1,
+                    "end": 77.18,
+                    "text": "but",
+                    "type": "WORD"
+                },
+                {
+                    "start": 78.46,
+                    "end": 78.55,
+                    "text": "but",
+                    "type": "WORD"
+                },
+                {
+                    "start": 78.75,
+                    "end": 78.8,
+                    "text": "um",
+                    "type": "WORD"
+                },
+                {
+                    "start": 79.18,
+                    "end": 79.25,
+                    "text": "yeah",
+                    "type": "WORD"
+                },
+                {
+                    "start": 79.33,
+                    "end": 79.38,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 79.69,
+                    "end": 79.72,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 79.75,
+                    "end": 79.88,
+                    "text": "think",
+                    "type": "WORD"
+                },
+                {
+                    "start": 79.91,
+                    "end": 79.97,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 80.03,
+                    "end": 80.16,
+                    "text": "would",
+                    "type": "WORD"
+                },
+                {
+                    "start": 80.19,
+                    "end": 80.24,
+                    "text": "be",
+                    "type": "WORD"
+                },
+                {
+                    "start": 80.36,
+                    "end": 80.68,
+                    "text": "wonderful",
+                    "type": "WORD"
+                },
+                {
+                    "start": 82.91,
+                    "end": 82.97,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 83.05,
+                    "end": 83.11,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 83.18,
+                    "end": 83.3,
+                    "text": "think",
+                    "type": "WORD"
+                },
+                {
+                    "start": 83.36,
+                    "end": 83.41,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 83.47,
+                    "end": 83.6,
+                    "text": "would",
+                    "type": "WORD"
+                },
+                {
+                    "start": 83.69,
+                    "end": 83.96,
+                    "text": "broaden",
+                    "type": "WORD"
+                },
+                {
+                    "start": 84.02,
+                    "end": 84.1,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 84.32,
+                    "end": 84.39,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 84.63,
+                    "end": 85.08,
+                    "text": "horizon",
+                    "type": "WORD"
+                },
+                {
+                    "start": 86.19,
+                    "end": 86.24,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 86.38,
+                    "end": 86.44,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 86.55,
+                    "end": 86.69,
+                    "text": "kids",
+                    "type": "WORD"
+                },
+                {
+                    "start": 86.96,
+                    "end": 87.08,
+                    "text": "for",
+                    "type": "WORD"
+                },
+                {
+                    "start": 87.24,
+                    "end": 87.46,
+                    "text": "really",
+                    "type": "WORD"
+                },
+                {
+                    "start": 88.66,
+                    "end": 88.74,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 88.8,
+                    "end": 88.88,
+                    "text": "way",
+                    "type": "WORD"
+                },
+                {
+                    "start": 88.97,
+                    "end": 89.03,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 89.11,
+                    "end": 89.22,
+                    "text": "rest",
+                    "type": "WORD"
+                },
+                {
+                    "start": 89.3,
+                    "end": 89.33,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 89.39,
+                    "end": 89.46,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 89.53,
+                    "end": 89.68,
+                    "text": "world",
+                    "type": "WORD"
+                },
+                {
+                    "start": 90.08,
+                    "end": 90.13,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 90.19,
+                    "end": 90.33,
+                    "text": "rest",
+                    "type": "WORD"
+                },
+                {
+                    "start": 90.41,
+                    "end": 90.46,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 90.52,
+                    "end": 90.58,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 90.66,
+                    "end": 90.88,
+                    "text": "country",
+                    "type": "WORD"
+                },
+                {
+                    "start": 91.05,
+                    "end": 91.22,
+                    "text": "lives",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 92.74,
+                    "end": 92.77,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 92.88,
+                    "end": 93.16,
+                    "text": "certainly",
+                    "type": "WORD"
+                },
+                {
+                    "start": 93.24,
+                    "end": 93.36,
+                    "text": "would",
+                    "type": "WORD"
+                },
+                {
+                    "start": 93.82,
+                    "end": 93.89,
+                    "text": "but",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 96.11,
+                    "end": 96.38,
+                    "text": "appro",
+                    "type": "WORD"
+                },
+                {
+                    "start": 97.47,
+                    "end": 97.68,
+                    "text": "getting",
+                    "type": "WORD"
+                },
+                {
+                    "start": 97.75,
+                    "end": 97.77,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 97.89,
+                    "end": 98.16,
+                    "text": "feeling",
+                    "type": "WORD"
+                },
+                {
+                    "start": 98.27,
+                    "end": 98.33,
+                    "text": "for",
+                    "type": "WORD"
+                },
+                {
+                    "start": 98.5,
+                    "end": 98.89,
+                    "text": "humanity",
+                    "type": "WORD"
+                },
+                {
+                    "start": 99.0,
+                    "end": 99.25,
+                    "text": "itself",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 99.39,
+                    "end": 99.44,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 99.5,
+                    "end": 99.61,
+                    "text": "think",
+                    "type": "WORD"
+                },
+                {
+                    "start": 100.61,
+                    "end": 100.69,
+                    "text": "yeah",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 101.97,
+                    "end": 102.08,
+                    "text": "have",
+                    "type": "WORD"
+                },
+                {
+                    "start": 102.13,
+                    "end": 102.19,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 102.27,
+                    "end": 102.38,
+                    "text": "been",
+                    "type": "WORD"
+                },
+                {
+                    "start": 102.44,
+                    "end": 102.47,
+                    "text": "in",
+                    "type": "WORD"
+                },
+                {
+                    "start": 102.68,
+                    "end": 102.96,
+                    "text": "arles",
+                    "type": "WORD"
+                },
+                {
+                    "start": 103.02,
+                    "end": 103.08,
+                    "text": "at",
+                    "type": "WORD"
+                },
+                {
+                    "start": 103.13,
+                    "end": 103.24,
+                    "text": "all",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 103.77,
+                    "end": 103.82,
+                    "text": "no",
+                    "type": "WORD"
+                },
+                {
+                    "start": 103.94,
+                    "end": 103.96,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 104.02,
+                    "end": 104.25,
+                    "text": "haven't",
+                    "type": "WORD"
+                },
+                {
+                    "start": 105.68,
+                    "end": 105.69,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 106.0,
+                    "end": 106.1,
+                    "text": "just",
+                    "type": "WORD"
+                },
+                {
+                    "start": 106.19,
+                    "end": 106.22,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 106.3,
+                    "end": 106.38,
+                    "text": "just",
+                    "type": "WORD"
+                },
+                {
+                    "start": 106.44,
+                    "end": 106.72,
+                    "text": "survived",
+                    "type": "WORD"
+                },
+                {
+                    "start": 106.82,
+                    "end": 106.89,
+                    "text": "los",
+                    "type": "WORD"
+                },
+                {
+                    "start": 107.0,
+                    "end": 107.32,
+                    "text": "angeles",
+                    "type": "WORD"
+                },
+                {
+                    "start": 108.97,
+                    "end": 109.05,
+                    "text": "i",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 109.38,
+                    "end": 109.5,
+                    "text": "told",
+                    "type": "WORD"
+                },
+                {
+                    "start": 109.6,
+                    "end": 109.63,
+                    "text": "me",
+                    "type": "WORD"
+                },
+                {
+                    "start": 109.8,
+                    "end": 109.91,
+                    "text": "last",
+                    "type": "WORD"
+                },
+                {
+                    "start": 110.03,
+                    "end": 110.18,
+                    "text": "week",
+                    "type": "WORD"
+                },
+                {
+                    "start": 110.39,
+                    "end": 110.61,
+                    "text": "listen",
+                    "type": "WORD"
+                },
+                {
+                    "start": 110.97,
+                    "end": 111.05,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 111.13,
+                    "end": 111.3,
+                    "text": "isn't",
+                    "type": "WORD"
+                },
+                {
+                    "start": 111.36,
+                    "end": 111.52,
+                    "text": "even",
+                    "type": "WORD"
+                },
+                {
+                    "start": 111.55,
+                    "end": 111.75,
+                    "text": "funny",
+                    "type": "WORD"
+                },
+                {
+                    "start": 111.82,
+                    "end": 111.86,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 111.91,
+                    "end": 112.03,
+                    "text": "don't",
+                    "type": "WORD"
+                },
+                {
+                    "start": 112.1,
+                    "end": 112.18,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 112.25,
+                    "end": 112.33,
+                    "text": "why",
+                    "type": "WORD"
+                },
+                {
+                    "start": 112.39,
+                    "end": 112.41,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 112.55,
+                    "end": 112.68,
+                    "text": "laugh",
+                    "type": "WORD"
+                },
+                {
+                    "start": 112.88,
+                    "end": 113.02,
+                    "text": "please",
+                    "type": "WORD"
+                },
+                {
+                    "start": 113.16,
+                    "end": 113.41,
+                    "text": "forgive",
+                    "type": "WORD"
+                },
+                {
+                    "start": 113.52,
+                    "end": 113.55,
+                    "text": "me",
+                    "type": "WORD"
+                },
+                {
+                    "start": 113.66,
+                    "end": 113.69,
+                    "text": "in",
+                    "type": "WORD"
+                },
+                {
+                    "start": 114.55,
+                    "end": 114.6,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 114.66,
+                    "end": 114.77,
+                    "text": "would",
+                    "type": "WORD"
+                },
+                {
+                    "start": 114.88,
+                    "end": 114.97,
+                    "text": "have",
+                    "type": "WORD"
+                },
+                {
+                    "start": 115.03,
+                    "end": 115.1,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 115.18,
+                    "end": 115.27,
+                    "text": "have",
+                    "type": "WORD"
+                },
+                {
+                    "start": 115.33,
+                    "end": 115.46,
+                    "text": "been",
+                    "type": "WORD"
+                },
+                {
+                    "start": 115.58,
+                    "end": 115.82,
+                    "text": "awful",
+                    "type": "WORD"
+                },
+                {
+                    "start": 116.19,
+                    "end": 116.24,
+                    "text": "it",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 116.46,
+                    "end": 116.52,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 116.63,
+                    "end": 116.74,
+                    "text": "was",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 118.83,
+                    "end": 118.89,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 118.94,
+                    "end": 119.02,
+                    "text": "know",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 119.1,
+                    "end": 119.11,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 119.18,
+                    "end": 119.27,
+                    "text": "heard",
+                    "type": "WORD"
+                },
+                {
+                    "start": 119.33,
+                    "end": 119.72,
+                    "text": "gunfire",
+                    "type": "WORD"
+                },
+                {
+                    "start": 119.82,
+                    "end": 119.91,
+                    "text": "it's",
+                    "type": "WORD"
+                },
+                {
+                    "start": 120.16,
+                    "end": 120.22,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 120.27,
+                    "end": 120.39,
+                    "text": "first",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 120.44,
+                    "end": 120.55,
+                    "text": "time",
+                    "type": "WORD"
+                },
+                {
+                    "start": 120.63,
+                    "end": 120.66,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 120.75,
+                    "end": 120.88,
+                    "text": "felt",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 121.02,
+                    "end": 121.05,
+                    "text": "my",
+                    "type": "WORD"
+                },
+                {
+                    "start": 121.13,
+                    "end": 121.27,
+                    "text": "life",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 121.41,
+                    "end": 121.47,
+                    "text": "was",
+                    "type": "WORD"
+                },
+                {
+                    "start": 121.94,
+                    "end": 122.0,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 122.03,
+                    "end": 122.11,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 122.36,
+                    "end": 122.38,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 122.44,
+                    "end": 122.63,
+                    "text": "little",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 122.66,
+                    "end": 122.72,
+                    "text": "bit",
+                    "type": "WORD"
+                },
+                {
+                    "start": 122.83,
+                    "end": 123.16,
+                    "text": "threatened",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 124.44,
+                    "end": 124.5,
+                    "text": "so",
+                    "type": "WORD"
+                },
+                {
+                    "start": 124.94,
+                    "end": 125.0,
+                    "text": "so",
+                    "type": "WORD"
+                },
+                {
+                    "start": 125.83,
+                    "end": 125.86,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 125.94,
+                    "end": 126.0,
+                    "text": "am",
+                    "type": "WORD"
+                },
+                {
+                    "start": 126.1,
+                    "end": 126.16,
+                    "text": "so",
+                    "type": "WORD"
+                },
+                {
+                    "start": 126.32,
+                    "end": 126.69,
+                    "text": "distressed",
+                    "type": "WORD"
+                },
+                {
+                    "start": 126.8,
+                    "end": 126.89,
+                    "text": "with",
+                    "type": "WORD"
+                },
+                {
+                    "start": 126.96,
+                    "end": 127.03,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 127.11,
+                    "end": 127.33,
+                    "text": "media",
+                    "type": "WORD"
+                },
+                {
+                    "start": 128.6,
+                    "end": 128.66,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 128.8,
+                    "end": 128.86,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 129.02,
+                    "end": 129.08,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 129.16,
+                    "end": 129.34,
+                    "text": "people",
+                    "type": "WORD"
+                },
+                {
+                    "start": 129.42,
+                    "end": 129.46,
+                    "text": "in",
+                    "type": "WORD"
+                },
+                {
+                    "start": 129.56,
+                    "end": 129.62,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 129.72,
+                    "end": 130.2,
+                    "text": "helicopter",
+                    "type": "WORD"
+                },
+                {
+                    "start": 130.3,
+                    "end": 130.38,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 130.48,
+                    "end": 130.58,
+                    "text": "did",
+                    "type": "WORD"
+                },
+                {
+                    "start": 130.68,
+                    "end": 130.78,
+                    "text": "not",
+                    "type": "WORD"
+                },
+                {
+                    "start": 130.98,
+                    "end": 131.12,
+                    "text": "land",
+                    "type": "WORD"
+                },
+                {
+                    "start": 131.36,
+                    "end": 131.42,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 131.54,
+                    "end": 131.7,
+                    "text": "see",
+                    "type": "WORD"
+                },
+                {
+                    "start": 131.82,
+                    "end": 131.92,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 131.98,
+                    "end": 132.06,
+                    "text": "guy",
+                    "type": "WORD"
+                },
+                {
+                    "start": 132.16,
+                    "end": 132.24,
+                    "text": "from",
+                    "type": "WORD"
+                },
+                {
+                    "start": 132.36,
+                    "end": 132.54,
+                    "text": "being",
+                    "type": "WORD"
+                },
+                {
+                    "start": 132.6,
+                    "end": 132.8,
+                    "text": "killed",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 133.5,
+                    "end": 133.54,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 133.64,
+                    "end": 133.74,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 135.96,
+                    "end": 136.02,
+                    "text": "but",
+                    "type": "WORD"
+                },
+                {
+                    "start": 136.08,
+                    "end": 136.16,
+                    "text": "they",
+                    "type": "WORD"
+                },
+                {
+                    "start": 136.34,
+                    "end": 136.42,
+                    "text": "they",
+                    "type": "WORD"
+                },
+                {
+                    "start": 136.52,
+                    "end": 136.7,
+                    "text": "never",
+                    "type": "WORD"
+                },
+                {
+                    "start": 136.8,
+                    "end": 136.9,
+                    "text": "they",
+                    "type": "WORD"
+                },
+                {
+                    "start": 136.96,
+                    "end": 137.12,
+                    "text": "never",
+                    "type": "WORD"
+                },
+                {
+                    "start": 137.18,
+                    "end": 137.5,
+                    "text": "interfere",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 137.7,
+                    "end": 137.74,
+                    "text": "he",
+                    "type": "WORD"
+                },
+                {
+                    "start": 137.88,
+                    "end": 137.98,
+                    "text": "just",
+                    "type": "WORD"
+                },
+                {
+                    "start": 138.5,
+                    "end": 138.6,
+                    "text": "well",
+                    "type": "WORD"
+                },
+                {
+                    "start": 138.72,
+                    "end": 138.74,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 138.78,
+                    "end": 138.9,
+                    "text": "mean",
+                    "type": "WORD"
+                },
+                {
+                    "start": 139.0,
+                    "end": 139.04,
+                    "text": "if",
+                    "type": "WORD"
+                },
+                {
+                    "start": 139.14,
+                    "end": 139.3,
+                    "text": "it's",
+                    "type": "WORD"
+                },
+                {
+                    "start": 139.36,
+                    "end": 139.44,
+                    "text": "not",
+                    "type": "WORD"
+                },
+                {
+                    "start": 139.56,
+                    "end": 139.66,
+                    "text": "like",
+                    "type": "WORD"
+                },
+                {
+                    "start": 139.76,
+                    "end": 139.9,
+                    "text": "we're",
+                    "type": "WORD"
+                },
+                {
+                    "start": 140.02,
+                    "end": 140.28,
+                    "text": "fighting",
+                    "type": "WORD"
+                },
+                {
+                    "start": 140.32,
+                    "end": 140.38,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 140.46,
+                    "end": 140.58,
+                    "text": "war",
+                    "type": "WORD"
+                },
+                {
+                    "start": 140.96,
+                    "end": 141.08,
+                    "text": "some",
+                    "type": "WORD"
+                },
+                {
+                    "start": 141.16,
+                    "end": 141.3,
+                    "text": "place",
+                    "type": "WORD"
+                },
+                {
+                    "start": 141.46,
+                    "end": 141.58,
+                    "text": "else",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 142.16,
+                    "end": 142.18,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 142.28,
+                    "end": 142.38,
+                    "text": "know",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 144.48,
+                    "end": 144.56,
+                    "text": "this",
+                    "type": "WORD"
+                },
+                {
+                    "start": 144.68,
+                    "end": 144.72,
+                    "text": "is",
+                    "type": "WORD"
+                },
+                {
+                    "start": 144.82,
+                    "end": 144.88,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 144.98,
+                    "end": 145.1,
+                    "text": "bad",
+                    "type": "WORD"
+                },
+                {
+                    "start": 145.22,
+                    "end": 145.34,
+                    "text": "guys",
+                    "type": "WORD"
+                },
+                {
+                    "start": 145.46,
+                    "end": 145.62,
+                    "text": "were",
+                    "type": "WORD"
+                },
+                {
+                    "start": 145.68,
+                    "end": 145.94,
+                    "text": "killing",
+                    "type": "WORD"
+                },
+                {
+                    "start": 146.08,
+                    "end": 146.14,
+                    "text": "us",
+                    "type": "WORD"
+                },
+                {
+                    "start": 146.68,
+                    "end": 146.76,
+                    "text": "i'm",
+                    "type": "WORD"
+                },
+                {
+                    "start": 146.88,
+                    "end": 147.1,
+                    "text": "sorry",
+                    "type": "WORD"
+                },
+                {
+                    "start": 147.34,
+                    "end": 147.4,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 147.46,
+                    "end": 147.54,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 147.92,
+                    "end": 147.98,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 148.06,
+                    "end": 148.16,
+                    "text": "just",
+                    "type": "WORD"
+                },
+                {
+                    "start": 148.22,
+                    "end": 148.38,
+                    "text": "can't",
+                    "type": "WORD"
+                },
+                {
+                    "start": 148.42,
+                    "end": 148.62,
+                    "text": "believe",
+                    "type": "WORD"
+                },
+                {
+                    "start": 148.7,
+                    "end": 148.74,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 148.8,
+                    "end": 148.88,
+                    "text": "they",
+                    "type": "WORD"
+                },
+                {
+                    "start": 148.92,
+                    "end": 149.1,
+                    "text": "didn't",
+                    "type": "WORD"
+                },
+                {
+                    "start": 149.16,
+                    "end": 149.2,
+                    "text": "go",
+                    "type": "WORD"
+                },
+                {
+                    "start": 149.28,
+                    "end": 149.36,
+                    "text": "down",
+                    "type": "WORD"
+                },
+                {
+                    "start": 149.42,
+                    "end": 149.52,
+                    "text": "there",
+                    "type": "WORD"
+                },
+                {
+                    "start": 149.58,
+                    "end": 149.66,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 149.78,
+                    "end": 149.86,
+                    "text": "stop",
+                    "type": "WORD"
+                },
+                {
+                    "start": 150.0,
+                    "end": 150.08,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 150.16,
+                    "end": 150.26,
+                    "text": "from",
+                    "type": "WORD"
+                },
+                {
+                    "start": 150.36,
+                    "end": 150.7,
+                    "text": "happening",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 151.6,
+                    "end": 151.68,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 151.76,
+                    "end": 151.8,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 151.88,
+                    "end": 152.02,
+                    "text": "seems",
+                    "type": "WORD"
+                },
+                {
+                    "start": 152.1,
+                    "end": 152.2,
+                    "text": "like",
+                    "type": "WORD"
+                },
+                {
+                    "start": 152.26,
+                    "end": 152.32,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 152.36,
+                    "end": 152.44,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 152.58,
+                    "end": 152.6,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 152.76,
+                    "end": 152.9,
+                    "text": "base",
+                    "type": "WORD"
+                },
+                {
+                    "start": 153.26,
+                    "end": 153.5,
+                    "text": "basic",
+                    "type": "WORD"
+                },
+                {
+                    "start": 153.6,
+                    "end": 153.96,
+                    "text": "decency",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 154.08,
+                    "end": 154.2,
+                    "text": "would",
+                    "type": "WORD"
+                },
+                {
+                    "start": 154.28,
+                    "end": 154.34,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 154.36,
+                    "end": 154.44,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 154.58,
+                    "end": 154.82,
+                    "text": "require",
+                    "type": "WORD"
+                },
+                {
+                    "start": 154.94,
+                    "end": 155.02,
+                    "text": "them",
+                    "type": "WORD"
+                },
+                {
+                    "start": 155.08,
+                    "end": 155.14,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 155.22,
+                    "end": 155.26,
+                    "text": "do",
+                    "type": "WORD"
+                },
+                {
+                    "start": 155.36,
+                    "end": 155.4,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 155.62,
+                    "end": 155.68,
+                    "text": "but",
+                    "type": "WORD"
+                },
+                {
+                    "start": 156.76,
+                    "end": 156.8,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 156.88,
+                    "end": 156.98,
+                    "text": "would",
+                    "type": "WORD"
+                },
+                {
+                    "start": 157.08,
+                    "end": 157.18,
+                    "text": "think",
+                    "type": "WORD"
+                },
+                {
+                    "start": 157.32,
+                    "end": 157.36,
+                    "text": "so",
+                    "type": "WORD"
+                },
+                {
+                    "start": 157.58,
+                    "end": 157.64,
+                    "text": "but",
+                    "type": "WORD"
+                },
+                {
+                    "start": 157.84,
+                    "end": 157.88,
+                    "text": "uh",
+                    "type": "WORD"
+                },
+                {
+                    "start": 158.46,
+                    "end": 158.52,
+                    "text": "are",
+                    "type": "WORD"
+                },
+                {
+                    "start": 158.58,
+                    "end": 158.64,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 158.76,
+                    "end": 158.98,
+                    "text": "married",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 159.28,
+                    "end": 159.32,
+                    "text": "no",
+                    "type": "WORD"
+                },
+                {
+                    "start": 159.48,
+                    "end": 159.58,
+                    "text": "not",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 159.98,
+                    "end": 160.02,
+                    "text": "so",
+                    "type": "WORD"
+                },
+                {
+                    "start": 160.14,
+                    "end": 160.2,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 160.26,
+                    "end": 160.42,
+                    "text": "don't",
+                    "type": "WORD"
+                },
+                {
+                    "start": 160.46,
+                    "end": 160.54,
+                    "text": "have",
+                    "type": "WORD"
+                },
+                {
+                    "start": 160.64,
+                    "end": 160.92,
+                    "text": "anybody",
+                    "type": "WORD"
+                },
+                {
+                    "start": 161.02,
+                    "end": 161.08,
+                    "text": "yet",
+                    "type": "WORD"
+                },
+                {
+                    "start": 161.22,
+                    "end": 161.32,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 161.4,
+                    "end": 161.46,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 161.56,
+                    "end": 161.64,
+                    "text": "have",
+                    "type": "WORD"
+                },
+                {
+                    "start": 161.66,
+                    "end": 161.72,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 161.78,
+                    "end": 161.9,
+                    "text": "feel",
+                    "type": "WORD"
+                },
+                {
+                    "start": 161.98,
+                    "end": 162.06,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 162.14,
+                    "end": 162.2,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 162.32,
+                    "end": 162.4,
+                    "text": "have",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 162.42,
+                    "end": 162.48,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 162.56,
+                    "end": 162.86,
+                    "text": "protect",
+                    "type": "WORD"
+                },
+                {
+                    "start": 163.04,
+                    "end": 163.18,
+                    "text": "race",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 164.08,
+                    "end": 164.16,
+                    "text": "but",
+                    "type": "WORD"
+                },
+                {
+                    "start": 164.4,
+                    "end": 164.44,
+                    "text": "um",
+                    "type": "WORD"
+                },
+                {
+                    "start": 165.86,
+                    "end": 165.98,
+                    "text": "well",
+                    "type": "WORD"
+                },
+                {
+                    "start": 166.84,
+                    "end": 166.96,
+                    "text": "let's",
+                    "type": "WORD"
+                },
+                {
+                    "start": 167.08,
+                    "end": 167.2,
+                    "text": "think",
+                    "type": "WORD"
+                },
+                {
+                    "start": 167.3,
+                    "end": 167.34,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 167.44,
+                    "end": 167.52,
+                    "text": "this",
+                    "type": "WORD"
+                },
+                {
+                    "start": 167.62,
+                    "end": 167.68,
+                    "text": "for",
+                    "type": "WORD"
+                },
+                {
+                    "start": 167.78,
+                    "end": 167.8,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 167.86,
+                    "end": 168.08,
+                    "text": "moment",
+                    "type": "WORD"
+                },
+                {
+                    "start": 168.32,
+                    "end": 168.36,
+                    "text": "if",
+                    "type": "WORD"
+                },
+                {
+                    "start": 169.06,
+                    "end": 169.08,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 169.36,
+                    "end": 169.38,
+                    "text": "e",
+                    "type": "WORD"
+                },
+                {
+                    "start": 169.52,
+                    "end": 169.62,
+                    "text": "had",
+                    "type": "WORD"
+                },
+                {
+                    "start": 169.74,
+                    "end": 169.84,
+                    "text": "been",
+                    "type": "WORD"
+                },
+                {
+                    "start": 169.92,
+                    "end": 170.26,
+                    "text": "required",
+                    "type": "WORD"
+                },
+                {
+                    "start": 170.5,
+                    "end": 170.62,
+                    "text": "some",
+                    "type": "WORD"
+                },
+                {
+                    "start": 170.74,
+                    "end": 170.86,
+                    "text": "time",
+                    "type": "WORD"
+                },
+                {
+                    "start": 171.86,
+                    "end": 172.04,
+                    "text": "around",
+                    "type": "WORD"
+                },
+                {
+                    "start": 172.12,
+                    "end": 172.18,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 172.26,
+                    "end": 172.36,
+                    "text": "age",
+                    "type": "WORD"
+                },
+                {
+                    "start": 172.42,
+                    "end": 172.46,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 172.58,
+                    "end": 172.78,
+                    "text": "twenty",
+                    "type": "WORD"
+                },
+                {
+                    "start": 172.88,
+                    "end": 172.94,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 173.04,
+                    "end": 173.2,
+                    "text": "spend",
+                    "type": "WORD"
+                },
+                {
+                    "start": 173.28,
+                    "end": 173.3,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 173.38,
+                    "end": 173.48,
+                    "text": "year",
+                    "type": "WORD"
+                },
+                {
+                    "start": 173.66,
+                    "end": 173.76,
+                    "text": "some",
+                    "type": "WORD"
+                },
+                {
+                    "start": 173.84,
+                    "end": 173.96,
+                    "text": "place",
+                    "type": "WORD"
+                },
+                {
+                    "start": 174.18,
+                    "end": 174.38,
+                    "text": "doing",
+                    "type": "WORD"
+                },
+                {
+                    "start": 174.48,
+                    "end": 174.74,
+                    "text": "something",
+                    "type": "WORD"
+                },
+                {
+                    "start": 175.66,
+                    "end": 175.74,
+                    "text": "what",
+                    "type": "WORD"
+                },
+                {
+                    "start": 175.96,
+                    "end": 176.06,
+                    "text": "what",
+                    "type": "WORD"
+                },
+                {
+                    "start": 176.18,
+                    "end": 176.28,
+                    "text": "sort",
+                    "type": "WORD"
+                },
+                {
+                    "start": 176.34,
+                    "end": 176.38,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 176.46,
+                    "end": 176.58,
+                    "text": "things",
+                    "type": "WORD"
+                },
+                {
+                    "start": 176.76,
+                    "end": 176.9,
+                    "text": "might",
+                    "type": "WORD"
+                },
+                {
+                    "start": 177.0,
+                    "end": 177.06,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 177.24,
+                    "end": 177.38,
+                    "text": "feel",
+                    "type": "WORD"
+                },
+                {
+                    "start": 177.52,
+                    "end": 177.64,
+                    "text": "would",
+                    "type": "WORD"
+                },
+                {
+                    "start": 177.76,
+                    "end": 177.82,
+                    "text": "be",
+                    "type": "WORD"
+                },
+                {
+                    "start": 177.98,
+                    "end": 178.02,
+                    "text": "uh",
+                    "type": "WORD"
+                },
+                {
+                    "start": 179.04,
+                    "end": 179.1,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 179.2,
+                    "end": 179.32,
+                    "text": "type",
+                    "type": "WORD"
+                },
+                {
+                    "start": 179.4,
+                    "end": 179.44,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 179.54,
+                    "end": 179.66,
+                    "text": "things",
+                    "type": "WORD"
+                },
+                {
+                    "start": 179.76,
+                    "end": 179.84,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 179.94,
+                    "end": 180.04,
+                    "text": "would",
+                    "type": "WORD"
+                },
+                {
+                    "start": 180.12,
+                    "end": 180.16,
+                    "text": "do",
+                    "type": "WORD"
+                },
+                {
+                    "start": 180.28,
+                    "end": 180.38,
+                    "text": "good",
+                    "type": "WORD"
+                },
+                {
+                    "start": 180.46,
+                    "end": 180.52,
+                    "text": "for",
+                    "type": "WORD"
+                },
+                {
+                    "start": 180.6,
+                    "end": 180.66,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 180.74,
+                    "end": 180.94,
+                    "text": "country",
+                    "type": "WORD"
+                },
+                {
+                    "start": 182.74,
+                    "end": 182.76,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 182.8,
+                    "end": 182.92,
+                    "text": "don't",
+                    "type": "WORD"
+                },
+                {
+                    "start": 182.96,
+                    "end": 183.04,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 183.76,
+                    "end": 183.78,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 183.84,
+                    "end": 183.96,
+                    "text": "think",
+                    "type": "WORD"
+                },
+                {
+                    "start": 184.04,
+                    "end": 184.08,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 184.34,
+                    "end": 184.38,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 184.44,
+                    "end": 184.5,
+                    "text": "lot",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 184.56,
+                    "end": 184.6,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 184.68,
+                    "end": 184.8,
+                    "text": "it's",
+                    "type": "WORD"
+                },
+                {
+                    "start": 184.86,
+                    "end": 184.96,
+                    "text": "just",
+                    "type": "WORD"
+                },
+                {
+                    "start": 185.0,
+                    "end": 185.08,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 185.1,
+                    "end": 185.18,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 185.6,
+                    "end": 185.72,
+                    "text": "see",
+                    "type": "WORD"
+                },
+                {
+                    "start": 185.82,
+                    "end": 185.88,
+                    "text": "how",
+                    "type": "WORD"
+                },
+                {
+                    "start": 185.98,
+                    "end": 186.14,
+                    "text": "other",
+                    "type": "WORD"
+                },
+                {
+                    "start": 186.18,
+                    "end": 186.36,
+                    "text": "people",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 186.46,
+                    "end": 186.56,
+                    "text": "live",
+                    "type": "WORD"
+                },
+                {
+                    "start": 186.76,
+                    "end": 186.78,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 186.82,
+                    "end": 186.94,
+                    "text": "mean",
+                    "type": "WORD"
+                },
+                {
+                    "start": 187.04,
+                    "end": 187.1,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 187.14,
+                    "end": 187.22,
+                    "text": "know",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 187.32,
+                    "end": 187.34,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 187.98,
+                    "end": 188.0,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 188.1,
+                    "end": 188.24,
+                    "text": "tend",
+                    "type": "WORD"
+                },
+                {
+                    "start": 188.3,
+                    "end": 188.34,
+                    "text": "to",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 188.38,
+                    "end": 188.42,
+                    "text": "be",
+                    "type": "WORD"
+                },
+                {
+                    "start": 188.54,
+                    "end": 188.6,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 188.62,
+                    "end": 188.7,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 188.8,
+                    "end": 188.82,
+                    "text": "i",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 189.02,
+                    "end": 189.06,
+                    "text": "in",
+                    "type": "WORD"
+                },
+                {
+                    "start": 189.12,
+                    "end": 189.16,
+                    "text": "my",
+                    "type": "WORD"
+                },
+                {
+                    "start": 189.26,
+                    "end": 189.32,
+                    "text": "own",
+                    "type": "WORD"
+                },
+                {
+                    "start": 189.44,
+                    "end": 189.72,
+                    "text": "circles",
+                    "type": "WORD"
+                },
+                {
+                    "start": 189.8,
+                    "end": 189.84,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 189.94,
+                    "end": 190.08,
+                    "text": "friends",
+                    "type": "WORD"
+                },
+                {
+                    "start": 190.46,
+                    "end": 190.52,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 192.04,
+                    "end": 192.18,
+                    "text": "we're",
+                    "type": "WORD"
+                },
+                {
+                    "start": 192.24,
+                    "end": 192.34,
+                    "text": "all",
+                    "type": "WORD"
+                },
+                {
+                    "start": 192.52,
+                    "end": 192.7,
+                    "text": "pretty",
+                    "type": "WORD"
+                },
+                {
+                    "start": 192.74,
+                    "end": 192.86,
+                    "text": "much",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 192.96,
+                    "end": 193.02,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 193.1,
+                    "end": 193.22,
+                    "text": "same",
+                    "type": "WORD"
+                },
+                {
+                    "start": 193.62,
+                    "end": 193.68,
+                    "text": "up",
+                    "type": "WORD"
+                },
+                {
+                    "start": 193.76,
+                    "end": 193.8,
+                    "text": "in",
+                    "type": "WORD"
+                },
+                {
+                    "start": 193.86,
+                    "end": 193.92,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 193.98,
+                    "end": 194.12,
+                    "text": "middle",
+                    "type": "WORD"
+                },
+                {
+                    "start": 194.28,
+                    "end": 194.42,
+                    "text": "class",
+                    "type": "WORD"
+                },
+                {
+                    "start": 194.58,
+                    "end": 194.9,
+                    "text": "probably",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 196.22,
+                    "end": 196.48,
+                    "text": "probably",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 196.94,
+                    "end": 196.98,
+                    "text": "in",
+                    "type": "WORD"
+                },
+                {
+                    "start": 197.1,
+                    "end": 197.3,
+                    "text": "higher",
+                    "type": "WORD"
+                },
+                {
+                    "start": 197.36,
+                    "end": 197.44,
+                    "text": "than",
+                    "type": "WORD"
+                },
+                {
+                    "start": 197.54,
+                    "end": 197.62,
+                    "text": "that",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 198.28,
+                    "end": 198.32,
+                    "text": "no",
+                    "type": "WORD"
+                },
+                {
+                    "start": 198.62,
+                    "end": 198.84,
+                    "text": "oven",
+                    "type": "WORD"
+                },
+                {
+                    "start": 198.94,
+                    "end": 199.36,
+                    "text": "california",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 199.54,
+                    "end": 199.6,
+                    "text": "so",
+                    "type": "WORD"
+                },
+                {
+                    "start": 199.76,
+                    "end": 199.84,
+                    "text": "what",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 201.4,
+                    "end": 201.5,
+                    "text": "it's",
+                    "type": "WORD"
+                },
+                {
+                    "start": 201.52,
+                    "end": 201.62,
+                    "text": "not",
+                    "type": "WORD"
+                },
+                {
+                    "start": 201.66,
+                    "end": 201.84,
+                    "text": "really",
+                    "type": "WORD"
+                },
+                {
+                    "start": 201.86,
+                    "end": 202.04,
+                    "text": "upper",
+                    "type": "WORD"
+                },
+                {
+                    "start": 202.1,
+                    "end": 202.28,
+                    "text": "middle",
+                    "type": "WORD"
+                },
+                {
+                    "start": 202.34,
+                    "end": 202.48,
+                    "text": "class",
+                    "type": "WORD"
+                },
+                {
+                    "start": 202.54,
+                    "end": 202.64,
+                    "text": "here",
+                    "type": "WORD"
+                },
+                {
+                    "start": 202.76,
+                    "end": 202.84,
+                    "text": "is",
+                    "type": "WORD"
+                },
+                {
+                    "start": 202.92,
+                    "end": 202.98,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 203.04,
+                    "end": 203.26,
+                    "text": "problem",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 204.58,
+                    "end": 204.66,
+                    "text": "yeah",
+                    "type": "WORD"
+                },
+                {
+                    "start": 204.78,
+                    "end": 204.9,
+                    "text": "that's",
+                    "type": "WORD"
+                },
+                {
+                    "start": 205.0,
+                    "end": 205.14,
+                    "text": "true",
+                    "type": "WORD"
+                },
+                {
+                    "start": 205.84,
+                    "end": 205.9,
+                    "text": "um",
+                    "type": "WORD"
+                },
+                {
+                    "start": 207.46,
+                    "end": 207.5,
+                    "text": "do",
+                    "type": "WORD"
+                },
+                {
+                    "start": 207.6,
+                    "end": 207.66,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 207.8,
+                    "end": 207.94,
+                    "text": "feel",
+                    "type": "WORD"
+                },
+                {
+                    "start": 208.04,
+                    "end": 208.12,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 208.36,
+                    "end": 208.38,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 209.38,
+                    "end": 209.5,
+                    "text": "well",
+                    "type": "WORD"
+                },
+                {
+                    "start": 209.62,
+                    "end": 209.64,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 209.78,
+                    "end": 209.8,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 209.9,
+                    "end": 210.24,
+                    "text": "personally",
+                    "type": "WORD"
+                },
+                {
+                    "start": 210.3,
+                    "end": 210.42,
+                    "text": "feel",
+                    "type": "WORD"
+                },
+                {
+                    "start": 210.52,
+                    "end": 210.62,
+                    "text": "about",
+                    "type": "WORD"
+                },
+                {
+                    "start": 210.8,
+                    "end": 210.9,
+                    "text": "six",
+                    "type": "WORD"
+                },
+                {
+                    "start": 211.02,
+                    "end": 211.2,
+                    "text": "weeks",
+                    "type": "WORD"
+                },
+                {
+                    "start": 211.26,
+                    "end": 211.3,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 211.38,
+                    "end": 211.62,
+                    "text": "basic",
+                    "type": "WORD"
+                },
+                {
+                    "start": 211.7,
+                    "end": 211.96,
+                    "text": "training",
+                    "type": "WORD"
+                },
+                {
+                    "start": 212.04,
+                    "end": 212.14,
+                    "text": "ought",
+                    "type": "WORD"
+                },
+                {
+                    "start": 212.18,
+                    "end": 212.24,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 212.28,
+                    "end": 212.32,
+                    "text": "be",
+                    "type": "WORD"
+                },
+                {
+                    "start": 212.38,
+                    "end": 212.44,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 212.54,
+                    "end": 212.56,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 212.66,
+                    "end": 213.14,
+                    "text": "mandatory",
+                    "type": "WORD"
+                },
+                {
+                    "start": 213.26,
+                    "end": 213.38,
+                    "text": "part",
+                    "type": "WORD"
+                },
+                {
+                    "start": 213.44,
+                    "end": 213.48,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 213.6,
+                    "end": 213.7,
+                    "text": "this",
+                    "type": "WORD"
+                },
+                {
+                    "start": 213.86,
+                    "end": 213.94,
+                    "text": "year",
+                    "type": "WORD"
+                },
+                {
+                    "start": 215.28,
+                    "end": 215.32,
+                    "text": "do",
+                    "type": "WORD"
+                },
+                {
+                    "start": 215.4,
+                    "end": 215.48,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 215.54,
+                    "end": 215.62,
+                    "text": "have",
+                    "type": "WORD"
+                },
+                {
+                    "start": 215.68,
+                    "end": 215.76,
+                    "text": "any",
+                    "type": "WORD"
+                },
+                {
+                    "start": 215.84,
+                    "end": 216.12,
+                    "text": "feelings",
+                    "type": "WORD"
+                },
+                {
+                    "start": 216.16,
+                    "end": 216.34,
+                    "text": "about",
+                    "type": "WORD"
+                },
+                {
+                    "start": 216.42,
+                    "end": 216.52,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 218.8,
+                    "end": 218.86,
+                    "text": "but",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 218.98,
+                    "end": 219.06,
+                    "text": "what",
+                    "type": "WORD"
+                },
+                {
+                    "start": 219.12,
+                    "end": 219.26,
+                    "text": "about",
+                    "type": "WORD"
+                },
+                {
+                    "start": 219.32,
+                    "end": 219.38,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 219.44,
+                    "end": 219.6,
+                    "text": "people",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 219.62,
+                    "end": 219.68,
+                    "text": "who",
+                    "type": "WORD"
+                },
+                {
+                    "start": 219.78,
+                    "end": 219.9,
+                    "text": "don't",
+                    "type": "WORD"
+                },
+                {
+                    "start": 219.98,
+                    "end": 220.08,
+                    "text": "make",
+                    "type": "WORD"
+                },
+                {
+                    "start": 220.14,
+                    "end": 220.18,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 220.3,
+                    "end": 220.32,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 220.38,
+                    "end": 220.46,
+                    "text": "mean",
+                    "type": "WORD"
+                },
+                {
+                    "start": 220.6,
+                    "end": 220.7,
+                    "text": "what",
+                    "type": "WORD"
+                },
+                {
+                    "start": 220.9,
+                    "end": 220.98,
+                    "text": "what",
+                    "type": "WORD"
+                },
+                {
+                    "start": 221.0,
+                    "end": 221.06,
+                    "text": "do",
+                    "type": "WORD"
+                },
+                {
+                    "start": 221.14,
+                    "end": 221.2,
+                    "text": "you",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 221.48,
+                    "end": 221.52,
+                    "text": "do",
+                    "type": "WORD"
+                },
+                {
+                    "start": 221.62,
+                    "end": 221.7,
+                    "text": "with",
+                    "type": "WORD"
+                },
+                {
+                    "start": 221.78,
+                    "end": 221.86,
+                    "text": "them",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 223.34,
+                    "end": 223.48,
+                    "text": "well",
+                    "type": "WORD"
+                },
+                {
+                    "start": 223.84,
+                    "end": 223.9,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 224.56,
+                    "end": 224.76,
+                    "text": "okay",
+                    "type": "WORD"
+                },
+                {
+                    "start": 225.0,
+                    "end": 225.06,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 225.16,
+                    "end": 225.28,
+                    "text": "make",
+                    "type": "WORD"
+                },
+                {
+                    "start": 225.36,
+                    "end": 225.4,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 225.48,
+                    "end": 225.52,
+                    "text": "as",
+                    "type": "WORD"
+                },
+                {
+                    "start": 225.6,
+                    "end": 225.96,
+                    "text": "rigorous",
+                    "type": "WORD"
+                },
+                {
+                    "start": 226.02,
+                    "end": 226.08,
+                    "text": "as",
+                    "type": "WORD"
+                },
+                {
+                    "start": 226.16,
+                    "end": 226.22,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 226.34,
+                    "end": 226.42,
+                    "text": "can",
+                    "type": "WORD"
+                },
+                {
+                    "start": 226.84,
+                    "end": 226.88,
+                    "text": "be",
+                    "type": "WORD"
+                },
+                {
+                    "start": 228.0,
+                    "end": 228.08,
+                    "text": "for",
+                    "type": "WORD"
+                },
+                {
+                    "start": 228.28,
+                    "end": 228.66,
+                    "text": "everybody",
+                    "type": "WORD"
+                },
+                {
+                    "start": 228.86,
+                    "end": 228.92,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 228.96,
+                    "end": 229.04,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 229.16,
+                    "end": 229.22,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 229.32,
+                    "end": 229.36,
+                    "text": "if",
+                    "type": "WORD"
+                },
+                {
+                    "start": 229.46,
+                    "end": 229.54,
+                    "text": "they",
+                    "type": "WORD"
+                },
+                {
+                    "start": 229.66,
+                    "end": 229.76,
+                    "text": "just",
+                    "type": "WORD"
+                },
+                {
+                    "start": 229.86,
+                    "end": 230.02,
+                    "text": "can't",
+                    "type": "WORD"
+                },
+                {
+                    "start": 230.14,
+                    "end": 230.24,
+                    "text": "make",
+                    "type": "WORD"
+                },
+                {
+                    "start": 230.34,
+                    "end": 230.38,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 230.64,
+                    "end": 230.68,
+                    "text": "uh",
+                    "type": "WORD"
+                },
+                {
+                    "start": 231.32,
+                    "end": 231.4,
+                    "text": "it's",
+                    "type": "WORD"
+                },
+                {
+                    "start": 231.52,
+                    "end": 231.64,
+                    "text": "like",
+                    "type": "WORD"
+                },
+                {
+                    "start": 231.76,
+                    "end": 231.92,
+                    "text": "other",
+                    "type": "WORD"
+                },
+                {
+                    "start": 231.96,
+                    "end": 232.1,
+                    "text": "things",
+                    "type": "WORD"
+                },
+                {
+                    "start": 232.24,
+                    "end": 232.3,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 232.48,
+                    "end": 232.54,
+                    "text": "use",
+                    "type": "WORD"
+                },
+                {
+                    "start": 232.68,
+                    "end": 232.8,
+                    "text": "less",
+                    "type": "WORD"
+                },
+                {
+                    "start": 232.9,
+                    "end": 232.96,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 233.02,
+                    "end": 233.1,
+                    "text": "not",
+                    "type": "WORD"
+                },
+                {
+                    "start": 233.18,
+                    "end": 233.24,
+                    "text": "so",
+                    "type": "WORD"
+                },
+                {
+                    "start": 233.34,
+                    "end": 233.42,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 233.52,
+                    "end": 233.6,
+                    "text": "they",
+                    "type": "WORD"
+                },
+                {
+                    "start": 233.7,
+                    "end": 233.78,
+                    "text": "can",
+                    "type": "WORD"
+                },
+                {
+                    "start": 233.96,
+                    "end": 234.06,
+                    "text": "make",
+                    "type": "WORD"
+                },
+                {
+                    "start": 234.16,
+                    "end": 234.2,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 235.3,
+                    "end": 235.36,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 235.48,
+                    "end": 235.54,
+                    "text": "try",
+                    "type": "WORD"
+                },
+                {
+                    "start": 235.64,
+                    "end": 235.7,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 235.8,
+                    "end": 236.02,
+                    "text": "demand",
+                    "type": "WORD"
+                },
+                {
+                    "start": 236.14,
+                    "end": 236.24,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 236.32,
+                    "end": 236.4,
+                    "text": "much",
+                    "type": "WORD"
+                },
+                {
+                    "start": 236.5,
+                    "end": 236.54,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 236.68,
+                    "end": 236.76,
+                    "text": "them",
+                    "type": "WORD"
+                },
+                {
+                    "start": 236.84,
+                    "end": 236.9,
+                    "text": "but",
+                    "type": "WORD"
+                },
+                {
+                    "start": 236.98,
+                    "end": 237.02,
+                    "text": "if",
+                    "type": "WORD"
+                },
+                {
+                    "start": 237.1,
+                    "end": 237.18,
+                    "text": "they",
+                    "type": "WORD"
+                },
+                {
+                    "start": 237.26,
+                    "end": 237.4,
+                    "text": "can't",
+                    "type": "WORD"
+                },
+                {
+                    "start": 237.44,
+                    "end": 237.56,
+                    "text": "make",
+                    "type": "WORD"
+                },
+                {
+                    "start": 237.64,
+                    "end": 237.68,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 237.78,
+                    "end": 237.84,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 237.96,
+                    "end": 238.02,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 238.06,
+                    "end": 238.18,
+                    "text": "there",
+                    "type": "WORD"
+                },
+                {
+                    "start": 238.24,
+                    "end": 238.3,
+                    "text": "are",
+                    "type": "WORD"
+                },
+                {
+                    "start": 238.38,
+                    "end": 238.52,
+                    "text": "people",
+                    "type": "WORD"
+                },
+                {
+                    "start": 238.64,
+                    "end": 238.7,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 238.74,
+                    "end": 238.82,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 238.88,
+                    "end": 238.94,
+                    "text": "who",
+                    "type": "WORD"
+                },
+                {
+                    "start": 239.18,
+                    "end": 239.24,
+                    "text": "who",
+                    "type": "WORD"
+                },
+                {
+                    "start": 239.38,
+                    "end": 239.44,
+                    "text": "are",
+                    "type": "WORD"
+                },
+                {
+                    "start": 239.54,
+                    "end": 239.62,
+                    "text": "not",
+                    "type": "WORD"
+                },
+                {
+                    "start": 240.44,
+                    "end": 240.6,
+                    "text": "were",
+                    "type": "WORD"
+                },
+                {
+                    "start": 240.66,
+                    "end": 240.74,
+                    "text": "not",
+                    "type": "WORD"
+                },
+                {
+                    "start": 240.82,
+                    "end": 240.88,
+                    "text": "as",
+                    "type": "WORD"
+                },
+                {
+                    "start": 240.96,
+                    "end": 241.18,
+                    "text": "healthy",
+                    "type": "WORD"
+                },
+                {
+                    "start": 241.28,
+                    "end": 241.34,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 241.4,
+                    "end": 241.46,
+                    "text": "so",
+                    "type": "WORD"
+                },
+                {
+                    "start": 241.58,
+                    "end": 241.62,
+                    "text": "on",
+                    "type": "WORD"
+                },
+                {
+                    "start": 241.72,
+                    "end": 241.78,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 241.84,
+                    "end": 241.88,
+                    "text": "so",
+                    "type": "WORD"
+                },
+                {
+                    "start": 242.02,
+                    "end": 242.16,
+                    "text": "forth",
+                    "type": "WORD"
+                },
+                {
+                    "start": 243.48,
+                    "end": 243.54,
+                    "text": "but",
+                    "type": "WORD"
+                },
+                {
+                    "start": 243.64,
+                    "end": 243.72,
+                    "text": "they",
+                    "type": "WORD"
+                },
+                {
+                    "start": 243.82,
+                    "end": 243.88,
+                    "text": "can",
+                    "type": "WORD"
+                },
+                {
+                    "start": 243.98,
+                    "end": 244.12,
+                    "text": "find",
+                    "type": "WORD"
+                },
+                {
+                    "start": 244.22,
+                    "end": 244.4,
+                    "text": "other",
+                    "type": "WORD"
+                },
+                {
+                    "start": 244.46,
+                    "end": 244.6,
+                    "text": "things",
+                    "type": "WORD"
+                },
+                {
+                    "start": 244.68,
+                    "end": 244.76,
+                    "text": "for",
+                    "type": "WORD"
+                },
+                {
+                    "start": 244.84,
+                    "end": 244.92,
+                    "text": "them",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 244.98,
+                    "end": 245.04,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 245.08,
+                    "end": 245.14,
+                    "text": "do",
+                    "type": "WORD"
+                },
+                {
+                    "start": 245.26,
+                    "end": 245.34,
+                    "text": "all",
+                    "type": "WORD"
+                },
+                {
+                    "start": 245.44,
+                    "end": 245.66,
+                    "text": "service",
+                    "type": "WORD"
+                },
+                {
+                    "start": 245.9,
+                    "end": 245.96,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 246.08,
+                    "end": 246.14,
+                    "text": "the",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 246.3,
+                    "end": 246.42,
+                    "text": "this",
+                    "type": "WORD"
+                },
+                {
+                    "start": 246.48,
+                    "end": 246.62,
+                    "text": "plan",
+                    "type": "WORD"
+                },
+                {
+                    "start": 246.8,
+                    "end": 246.86,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 246.92,
+                    "end": 246.98,
+                    "text": "do",
+                    "type": "WORD"
+                },
+                {
+                    "start": 248.12,
+                    "end": 248.14,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 248.18,
+                    "end": 248.3,
+                    "text": "mean",
+                    "type": "WORD"
+                },
+                {
+                    "start": 248.4,
+                    "end": 248.44,
+                    "text": "if",
+                    "type": "WORD"
+                },
+                {
+                    "start": 248.58,
+                    "end": 248.68,
+                    "text": "it's",
+                    "type": "WORD"
+                },
+                {
+                    "start": 248.78,
+                    "end": 248.86,
+                    "text": "like",
+                    "type": "WORD"
+                },
+                {
+                    "start": 248.94,
+                    "end": 248.98,
+                    "text": "in",
+                    "type": "WORD"
+                },
+                {
+                    "start": 249.08,
+                    "end": 249.18,
+                    "text": "high",
+                    "type": "WORD"
+                },
+                {
+                    "start": 249.24,
+                    "end": 249.4,
+                    "text": "school",
+                    "type": "WORD"
+                },
+                {
+                    "start": 249.74,
+                    "end": 249.78,
+                    "text": "or",
+                    "type": "WORD"
+                },
+                {
+                    "start": 250.3,
+                    "end": 250.54,
+                    "text": "junior",
+                    "type": "WORD"
+                },
+                {
+                    "start": 250.64,
+                    "end": 250.66,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 250.76,
+                    "end": 250.82,
+                    "text": "or",
+                    "type": "WORD"
+                },
+                {
+                    "start": 250.92,
+                    "end": 251.26,
+                    "text": "wherever",
+                    "type": "WORD"
+                },
+                {
+                    "start": 251.76,
+                    "end": 251.86,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 252.0,
+                    "end": 252.2,
+                    "text": "certain",
+                    "type": "WORD"
+                },
+                {
+                    "start": 252.3,
+                    "end": 252.48,
+                    "text": "people",
+                    "type": "WORD"
+                },
+                {
+                    "start": 252.66,
+                    "end": 252.76,
+                    "text": "are",
+                    "type": "WORD"
+                },
+                {
+                    "start": 254.16,
+                    "end": 254.52,
+                    "text": "excused",
+                    "type": "WORD"
+                },
+                {
+                    "start": 254.72,
+                    "end": 254.8,
+                    "text": "from",
+                    "type": "WORD"
+                },
+                {
+                    "start": 254.92,
+                    "end": 255.08,
+                    "text": "going",
+                    "type": "WORD"
+                },
+                {
+                    "start": 255.12,
+                    "end": 255.18,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 255.28,
+                    "end": 255.38,
+                    "text": "gym",
+                    "type": "WORD"
+                },
+                {
+                    "start": 255.52,
+                    "end": 255.7,
+                    "text": "class",
+                    "type": "WORD"
+                },
+                {
+                    "start": 255.8,
+                    "end": 255.83,
+                    "text": "or",
+                    "type": "WORD"
+                },
+                {
+                    "start": 255.93,
+                    "end": 256.24,
+                    "text": "whatever",
+                    "type": "WORD"
+                },
+                {
+                    "start": 256.95,
+                    "end": 257.05,
+                    "text": "but",
+                    "type": "WORD"
+                },
+                {
+                    "start": 257.15,
+                    "end": 257.21,
+                    "text": "in",
+                    "type": "WORD"
+                },
+                {
+                    "start": 257.3,
+                    "end": 257.36,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 257.45,
+                    "end": 257.6,
+                    "text": "mean",
+                    "type": "WORD"
+                },
+                {
+                    "start": 257.86,
+                    "end": 258.07,
+                    "text": "almost",
+                    "type": "WORD"
+                },
+                {
+                    "start": 258.19,
+                    "end": 258.51,
+                    "text": "everybody",
+                    "type": "WORD"
+                },
+                {
+                    "start": 258.61,
+                    "end": 258.69,
+                    "text": "has",
+                    "type": "WORD"
+                },
+                {
+                    "start": 258.81,
+                    "end": 258.87,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 258.95,
+                    "end": 258.99,
+                    "text": "do",
+                    "type": "WORD"
+                },
+                {
+                    "start": 259.1,
+                    "end": 259.13,
+                    "text": "it",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 262.77,
+                    "end": 262.86,
+                    "text": "yeah",
+                    "type": "WORD"
+                },
+                {
+                    "start": 264.19,
+                    "end": 264.21,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 264.27,
+                    "end": 264.37,
+                    "text": "can",
+                    "type": "WORD"
+                },
+                {
+                    "start": 264.49,
+                    "end": 264.71,
+                    "text": "relate",
+                    "type": "WORD"
+                },
+                {
+                    "start": 264.77,
+                    "end": 264.81,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 264.87,
+                    "end": 264.98,
+                    "text": "that",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 266.57,
+                    "end": 266.6,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 266.81,
+                    "end": 266.86,
+                    "text": "do",
+                    "type": "WORD"
+                },
+                {
+                    "start": 266.95,
+                    "end": 267.05,
+                    "text": "think",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 267.15,
+                    "end": 267.21,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 267.25,
+                    "end": 267.33,
+                    "text": "know",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 267.45,
+                    "end": 267.61,
+                    "text": "people",
+                    "type": "WORD"
+                },
+                {
+                    "start": 267.75,
+                    "end": 267.92,
+                    "text": "people",
+                    "type": "WORD"
+                },
+                {
+                    "start": 268.04,
+                    "end": 268.15,
+                    "text": "need",
+                    "type": "WORD"
+                },
+                {
+                    "start": 268.19,
+                    "end": 268.25,
+                    "text": "to",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 268.75,
+                    "end": 268.81,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 268.89,
+                    "end": 269.04,
+                    "text": "meet",
+                    "type": "WORD"
+                },
+                {
+                    "start": 269.11,
+                    "end": 269.27,
+                    "text": "other",
+                    "type": "WORD"
+                },
+                {
+                    "start": 269.33,
+                    "end": 269.51,
+                    "text": "types",
+                    "type": "WORD"
+                },
+                {
+                    "start": 269.57,
+                    "end": 269.61,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 269.71,
+                    "end": 269.89,
+                    "text": "people",
+                    "type": "WORD"
+                },
+                {
+                    "start": 270.89,
+                    "end": 271.04,
+                    "text": "well",
+                    "type": "WORD"
+                },
+                {
+                    "start": 271.11,
+                    "end": 271.13,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 271.45,
+                    "end": 271.55,
+                    "text": "just",
+                    "type": "WORD"
+                },
+                {
+                    "start": 271.95,
+                    "end": 272.01,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 272.04,
+                    "end": 272.11,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 272.18,
+                    "end": 272.39,
+                    "text": "living",
+                    "type": "WORD"
+                },
+                {
+                    "start": 272.54,
+                    "end": 272.74,
+                    "text": "living",
+                    "type": "WORD"
+                },
+                {
+                    "start": 272.77,
+                    "end": 272.83,
+                    "text": "in",
+                    "type": "WORD"
+                },
+                {
+                    "start": 272.92,
+                    "end": 273.13,
+                    "text": "different",
+                    "type": "WORD"
+                },
+                {
+                    "start": 273.18,
+                    "end": 273.3,
+                    "text": "ways",
+                    "type": "WORD"
+                },
+                {
+                    "start": 273.37,
+                    "end": 273.45,
+                    "text": "than",
+                    "type": "WORD"
+                },
+                {
+                    "start": 273.54,
+                    "end": 273.63,
+                    "text": "they",
+                    "type": "WORD"
+                },
+                {
+                    "start": 273.71,
+                    "end": 273.77,
+                    "text": "do",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 275.33,
+                    "end": 275.39,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 275.57,
+                    "end": 275.63,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 275.81,
+                    "end": 275.87,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 275.99,
+                    "end": 276.24,
+                    "text": "college",
+                    "type": "WORD"
+                },
+                {
+                    "start": 276.43,
+                    "end": 276.63,
+                    "text": "doesn't",
+                    "type": "WORD"
+                },
+                {
+                    "start": 276.71,
+                    "end": 276.87,
+                    "text": "really",
+                    "type": "WORD"
+                },
+                {
+                    "start": 276.98,
+                    "end": 277.01,
+                    "text": "do",
+                    "type": "WORD"
+                },
+                {
+                    "start": 277.11,
+                    "end": 277.18,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 277.71,
+                    "end": 277.75,
+                    "text": "no",
+                    "type": "WORD"
+                },
+                {
+                    "start": 277.98,
+                    "end": 278.01,
+                    "text": "no",
+                    "type": "WORD"
+                },
+                {
+                    "start": 278.21,
+                    "end": 278.27,
+                    "text": "not",
+                    "type": "WORD"
+                },
+                {
+                    "start": 278.37,
+                    "end": 278.42,
+                    "text": "at",
+                    "type": "WORD"
+                },
+                {
+                    "start": 278.49,
+                    "end": 278.57,
+                    "text": "all",
+                    "type": "WORD"
+                },
+                {
+                    "start": 278.68,
+                    "end": 278.75,
+                    "text": "yeah",
+                    "type": "WORD"
+                },
+                {
+                    "start": 278.87,
+                    "end": 278.99,
+                    "text": "first",
+                    "type": "WORD"
+                },
+                {
+                    "start": 279.01,
+                    "end": 279.05,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 279.11,
+                    "end": 279.19,
+                    "text": "all",
+                    "type": "WORD"
+                },
+                {
+                    "start": 279.33,
+                    "end": 279.42,
+                    "text": "not",
+                    "type": "WORD"
+                },
+                {
+                    "start": 279.45,
+                    "end": 279.71,
+                    "text": "everybody",
+                    "type": "WORD"
+                },
+                {
+                    "start": 279.86,
+                    "end": 279.93,
+                    "text": "gets",
+                    "type": "WORD"
+                },
+                {
+                    "start": 280.05,
+                    "end": 280.07,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 280.16,
+                    "end": 280.3,
+                    "text": "chance",
+                    "type": "WORD"
+                },
+                {
+                    "start": 280.42,
+                    "end": 280.45,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 280.54,
+                    "end": 280.57,
+                    "text": "go",
+                    "type": "WORD"
+                },
+                {
+                    "start": 280.66,
+                    "end": 280.69,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 280.8,
+                    "end": 281.05,
+                    "text": "college",
+                    "type": "WORD"
+                },
+                {
+                    "start": 281.71,
+                    "end": 281.8,
+                    "text": "but",
+                    "type": "WORD"
+                },
+                {
+                    "start": 281.95,
+                    "end": 281.99,
+                    "text": "in",
+                    "type": "WORD"
+                },
+                {
+                    "start": 282.16,
+                    "end": 282.42,
+                    "text": "college",
+                    "type": "WORD"
+                },
+                {
+                    "start": 282.6,
+                    "end": 282.61,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 282.69,
+                    "end": 282.81,
+                    "text": "mean",
+                    "type": "WORD"
+                },
+                {
+                    "start": 282.89,
+                    "end": 283.1,
+                    "text": "you're",
+                    "type": "WORD"
+                },
+                {
+                    "start": 283.19,
+                    "end": 283.36,
+                    "text": "still",
+                    "type": "WORD"
+                },
+                {
+                    "start": 284.3,
+                    "end": 284.54,
+                    "text": "among",
+                    "type": "WORD"
+                },
+                {
+                    "start": 284.89,
+                    "end": 285.3,
+                    "text": "basically",
+                    "type": "WORD"
+                },
+                {
+                    "start": 285.51,
+                    "end": 285.57,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 285.69,
+                    "end": 285.86,
+                    "text": "same",
+                    "type": "WORD"
+                },
+                {
+                    "start": 286.05,
+                    "end": 286.19,
+                    "text": "class",
+                    "type": "WORD"
+                },
+                {
+                    "start": 286.3,
+                    "end": 286.33,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 286.45,
+                    "end": 286.61,
+                    "text": "people",
+                    "type": "WORD"
+                },
+                {
+                    "start": 286.68,
+                    "end": 286.75,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 286.8,
+                    "end": 286.99,
+                    "text": "you've",
+                    "type": "WORD"
+                },
+                {
+                    "start": 287.04,
+                    "end": 287.18,
+                    "text": "grown",
+                    "type": "WORD"
+                },
+                {
+                    "start": 287.25,
+                    "end": 287.3,
+                    "text": "up",
+                    "type": "WORD"
+                },
+                {
+                    "start": 287.42,
+                    "end": 287.54,
+                    "text": "with",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_1"
+            },
+            "terms": [
+                {
+                    "start": 287.77,
+                    "end": 287.92,
+                    "text": "real",
+                    "type": "WORD"
+                }
+            ]
+        },
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 288.92,
+                    "end": 288.98,
+                    "text": "so",
+                    "type": "WORD"
+                },
+                {
+                    "start": 289.11,
+                    "end": 289.18,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 289.25,
+                    "end": 289.42,
+                    "text": "don't",
+                    "type": "WORD"
+                },
+                {
+                    "start": 289.45,
+                    "end": 289.54,
+                    "text": "get",
+                    "type": "WORD"
+                },
+                {
+                    "start": 289.6,
+                    "end": 289.66,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 289.69,
+                    "end": 289.81,
+                    "text": "see",
+                    "type": "WORD"
+                },
+                {
+                    "start": 289.87,
+                    "end": 289.95,
+                    "text": "how",
+                    "type": "WORD"
+                },
+                {
+                    "start": 290.05,
+                    "end": 290.11,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 290.18,
+                    "end": 290.33,
+                    "text": "other",
+                    "type": "WORD"
+                },
+                {
+                    "start": 290.39,
+                    "end": 290.49,
+                    "text": "half",
+                    "type": "WORD"
+                },
+                {
+                    "start": 290.69,
+                    "end": 290.92,
+                    "text": "lives",
+                    "type": "WORD"
+                },
+                {
+                    "start": 290.98,
+                    "end": 291.04,
+                    "text": "or",
+                    "type": "WORD"
+                },
+                {
+                    "start": 291.13,
+                    "end": 291.19,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 291.25,
+                    "end": 291.42,
+                    "text": "other",
+                    "type": "WORD"
+                },
+                {
+                    "start": 291.89,
+                    "end": 291.98,
+                    "text": "two",
+                    "type": "WORD"
+                },
+                {
+                    "start": 292.11,
+                    "end": 292.31,
+                    "text": "thirds",
+                    "type": "WORD"
+                },
+                {
+                    "start": 292.43,
+                    "end": 292.48,
+                    "text": "or",
+                    "type": "WORD"
+                },
+                {
+                    "start": 292.6,
+                    "end": 292.87,
+                    "text": "however",
+                    "type": "WORD"
+                },
+                {
+                    "start": 292.95,
+                    "end": 293.13,
+                    "text": "many",
+                    "type": "WORD"
+                },
+                {
+                    "start": 293.21,
+                    "end": 293.33,
+                    "text": "there",
+                    "type": "WORD"
+                },
+                {
+                    "start": 293.42,
+                    "end": 293.49,
+                    "text": "are",
+                    "type": "WORD"
+                },
+                {
+                    "start": 293.61,
+                    "end": 293.68,
+                    "text": "now",
+                    "type": "WORD"
+                },
+                {
+                    "start": 295.01,
+                    "end": 295.07,
+                    "text": "um",
+                    "type": "WORD"
+                },
+                {
+                    "start": 296.42,
+                    "end": 296.43,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 296.71,
+                    "end": 296.74,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 296.8,
+                    "end": 296.83,
+                    "text": "am",
+                    "type": "WORD"
+                },
+                {
+                    "start": 296.95,
+                    "end": 297.05,
+                    "text": "old",
+                    "type": "WORD"
+                },
+                {
+                    "start": 297.13,
+                    "end": 297.36,
+                    "text": "enough",
+                    "type": "WORD"
+                },
+                {
+                    "start": 297.63,
+                    "end": 297.69,
+                    "text": "i'm",
+                    "type": "WORD"
+                },
+                {
+                    "start": 297.83,
+                    "end": 297.99,
+                    "text": "over",
+                    "type": "WORD"
+                },
+                {
+                    "start": 298.11,
+                    "end": 298.33,
+                    "text": "fifty",
+                    "type": "WORD"
+                }
+            ]
+        }
+    ]
+}
