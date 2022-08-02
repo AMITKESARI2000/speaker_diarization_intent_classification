@@ -1,0 +1,2269 @@
+{
+    "schemaVersion": 2.0,
+    "monologues": [
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 0.1,
+                    "end": 0.44,
+                    "text": "nobody",
+                    "type": "WORD"
+                },
+                {
+                    "start": 0.46,
+                    "end": 0.56,
+                    "text": "has",
+                    "type": "WORD"
+                },
+                {
+                    "start": 0.66,
+                    "end": 0.78,
+                    "text": "more",
+                    "type": "WORD"
+                },
+                {
+                    "start": 0.86,
+                    "end": 1.36,
+                    "text": "respect",
+                    "type": "WORD"
+                },
+                {
+                    "start": 1.54,
+                    "end": 1.62,
+                    "text": "for",
+                    "type": "WORD"
+                },
+                {
+                    "start": 1.7,
+                    "end": 1.96,
+                    "text": "women",
+                    "type": "WORD"
+                },
+                {
+                    "start": 2.02,
+                    "end": 2.12,
+                    "text": "than",
+                    "type": "WORD"
+                },
+                {
+                    "start": 2.2,
+                    "end": 2.26,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 2.34,
+                    "end": 2.46,
+                    "text": "do",
+                    "type": "WORD"
+                },
+                {
+                    "start": 2.72,
+                    "end": 3.58,
+                    "text": "nobody",
+                    "type": "WORD"
+                },
+                {
+                    "start": 3.8,
+                    "end": 4.1,
+                    "text": "donal",
+                    "type": "WORD"
+                },
+                {
+                    "start": 4.14,
+                    "end": 4.34,
+                    "text": "trump",
+                    "type": "WORD"
+                },
+                {
+                    "start": 4.36,
+                    "end": 4.5,
+                    "text": "has",
+                    "type": "WORD"
+                },
+                {
+                    "start": 4.6,
+                    "end": 4.8,
+                    "text": "tried",
+                    "type": "WORD"
+                },
+                {
+                    "start": 4.86,
+                    "end": 5.4,
+                    "text": "repeatedly",
+                    "type": "WORD"
+                },
+                {
+                    "start": 5.48,
+                    "end": 5.56,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 5.72,
+                    "end": 5.98,
+                    "text": "grill",
+                    "type": "WORD"
+                },
+                {
+                    "start": 6.06,
+                    "end": 6.44,
+                    "text": "hillary",
+                    "type": "WORD"
+                },
+                {
+                    "start": 6.48,
+                    "end": 6.78,
+                    "text": "clinton",
+                    "type": "WORD"
+                },
+                {
+                    "start": 6.8,
+                    "end": 7.02,
+                    "text": "about",
+                    "type": "WORD"
+                },
+                {
+                    "start": 7.08,
+                    "end": 7.18,
+                    "text": "her",
+                    "type": "WORD"
+                },
+                {
+                    "start": 7.32,
+                    "end": 7.76,
+                    "text": "husband's",
+                    "type": "WORD"
+                },
+                {
+                    "start": 7.78,
+                    "end": 8.28,
+                    "text": "relations",
+                    "type": "WORD"
+                },
+                {
+                    "start": 8.34,
+                    "end": 8.44,
+                    "text": "with",
+                    "type": "WORD"
+                },
+                {
+                    "start": 8.56,
+                    "end": 8.8,
+                    "text": "other",
+                    "type": "WORD"
+                },
+                {
+                    "start": 8.84,
+                    "end": 9.2,
+                    "text": "women",
+                    "type": "WORD"
+                },
+                {
+                    "start": 9.36,
+                    "end": 9.5,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 9.72,
+                    "end": 9.86,
+                    "text": "her",
+                    "type": "WORD"
+                },
+                {
+                    "start": 10.0,
+                    "end": 11.04,
+                    "text": "reaction",
+                    "type": "WORD"
+                },
+                {
+                    "start": 11.12,
+                    "end": 11.22,
+                    "text": "but",
+                    "type": "WORD"
+                },
+                {
+                    "start": 11.34,
+                    "end": 11.42,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 11.58,
+                    "end": 11.72,
+                    "text": "new",
+                    "type": "WORD"
+                },
+                {
+                    "start": 11.74,
+                    "end": 12.0,
+                    "text": "york",
+                    "type": "WORD"
+                },
+                {
+                    "start": 12.1,
+                    "end": 12.62,
+                    "text": "millionaire",
+                    "type": "WORD"
+                },
+                {
+                    "start": 12.64,
+                    "end": 12.74,
+                    "text": "was",
+                    "type": "WORD"
+                },
+                {
+                    "start": 12.8,
+                    "end": 12.86,
+                    "text": "on",
+                    "type": "WORD"
+                },
+                {
+                    "start": 12.92,
+                    "end": 13.0,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 13.06,
+                    "end": 13.28,
+                    "text": "hot",
+                    "type": "WORD"
+                },
+                {
+                    "start": 13.32,
+                    "end": 13.66,
+                    "text": "seat",
+                    "type": "WORD"
+                },
+                {
+                    "start": 13.7,
+                    "end": 13.92,
+                    "text": "this",
+                    "type": "WORD"
+                },
+                {
+                    "start": 14.0,
+                    "end": 15.18,
+                    "text": "timee",
+                    "type": "WORD"
+                },
+                {
+                    "start": 15.2,
+                    "end": 15.3,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 15.32,
+                    "end": 15.62,
+                    "text": "started",
+                    "type": "WORD"
+                },
+                {
+                    "start": 15.64,
+                    "end": 15.92,
+                    "text": "kissing",
+                    "type": "WORD"
+                },
+                {
+                    "start": 15.94,
+                    "end": 16.08,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 16.12,
+                    "end": 16.36,
+                    "text": "open",
+                    "type": "WORD"
+                },
+                {
+                    "start": 16.4,
+                    "end": 17.34,
+                    "text": "mouthed",
+                    "type": "WORD"
+                },
+                {
+                    "start": 17.38,
+                    "end": 17.5,
+                    "text": "as",
+                    "type": "WORD"
+                },
+                {
+                    "start": 17.52,
+                    "end": 17.6,
+                    "text": "he",
+                    "type": "WORD"
+                },
+                {
+                    "start": 17.64,
+                    "end": 17.72,
+                    "text": "was",
+                    "type": "WORD"
+                },
+                {
+                    "start": 17.8,
+                    "end": 18.04,
+                    "text": "palming",
+                    "type": "WORD"
+                },
+                {
+                    "start": 18.04,
+                    "end": 18.08,
+                    "text": "m",
+                    "type": "WORD"
+                },
+                {
+                    "start": 18.14,
+                    "end": 18.44,
+                    "text": "towards",
+                    "type": "WORD"
+                },
+                {
+                    "start": 18.48,
+                    "end": 18.96,
+                    "text": "him",
+                    "type": "WORD"
+                },
+                {
+                    "start": 19.12,
+                    "end": 19.44,
+                    "text": "facing",
+                    "type": "WORD"
+                },
+                {
+                    "start": 19.52,
+                    "end": 19.56,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 19.76,
+                    "end": 20.0,
+                    "text": "slew",
+                    "type": "WORD"
+                },
+                {
+                    "start": 20.04,
+                    "end": 20.1,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 20.2,
+                    "end": 20.8,
+                    "text": "accusations",
+                    "type": "WORD"
+                },
+                {
+                    "start": 20.86,
+                    "end": 20.98,
+                    "text": "from",
+                    "type": "WORD"
+                },
+                {
+                    "start": 21.04,
+                    "end": 21.28,
+                    "text": "women",
+                    "type": "WORD"
+                },
+                {
+                    "start": 21.3,
+                    "end": 21.42,
+                    "text": "who",
+                    "type": "WORD"
+                },
+                {
+                    "start": 21.48,
+                    "end": 21.62,
+                    "text": "say",
+                    "type": "WORD"
+                },
+                {
+                    "start": 21.7,
+                    "end": 21.78,
+                    "text": "he",
+                    "type": "WORD"
+                },
+                {
+                    "start": 21.96,
+                    "end": 22.32,
+                    "text": "kissed",
+                    "type": "WORD"
+                },
+                {
+                    "start": 22.5,
+                    "end": 22.84,
+                    "text": "groped",
+                    "type": "WORD"
+                },
+                {
+                    "start": 22.86,
+                    "end": 22.96,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 23.1,
+                    "end": 23.6,
+                    "text": "harassed",
+                    "type": "WORD"
+                },
+                {
+                    "start": 23.66,
+                    "end": 24.06,
+                    "text": "them",
+                    "type": "WORD"
+                },
+                {
+                    "start": 24.22,
+                    "end": 24.28,
+                    "text": "in",
+                    "type": "WORD"
+                },
+                {
+                    "start": 24.34,
+                    "end": 24.42,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 24.48,
+                    "end": 24.78,
+                    "text": "final",
+                    "type": "WORD"
+                },
+                {
+                    "start": 24.82,
+                    "end": 25.18,
+                    "text": "debate",
+                    "type": "WORD"
+                },
+                {
+                    "start": 25.34,
+                    "end": 25.42,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 25.58,
+                    "end": 25.9,
+                    "text": "triggered",
+                    "type": "WORD"
+                },
+                {
+                    "start": 25.94,
+                    "end": 25.98,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 26.18,
+                    "end": 26.52,
+                    "text": "series",
+                    "type": "WORD"
+                },
+                {
+                    "start": 26.56,
+                    "end": 26.62,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 26.8,
+                    "end": 27.42,
+                    "text": "claims",
+                    "type": "WORD"
+                },
+                {
+                    "start": 27.56,
+                    "end": 27.86,
+                    "text": "number",
+                    "type": "WORD"
+                },
+                {
+                    "start": 27.9,
+                    "end": 28.42,
+                    "text": "one",
+                    "type": "WORD"
+                },
+                {
+                    "start": 28.6,
+                    "end": 28.76,
+                    "text": "thos",
+                    "type": "WORD"
+                },
+                {
+                    "start": 28.8,
+                    "end": 29.06,
+                    "text": "sohas",
+                    "type": "WORD"
+                },
+                {
+                    "start": 29.08,
+                    "end": 29.2,
+                    "text": "had",
+                    "type": "WORD"
+                },
+                {
+                    "start": 29.24,
+                    "end": 29.4,
+                    "text": "been",
+                    "type": "WORD"
+                },
+                {
+                    "start": 29.44,
+                    "end": 29.8,
+                    "text": "largely",
+                    "type": "WORD"
+                },
+                {
+                    "start": 29.86,
+                    "end": 30.6,
+                    "text": "debunked",
+                    "type": "WORD"
+                },
+                {
+                    "start": 30.68,
+                    "end": 31.06,
+                    "text": "certainly",
+                    "type": "WORD"
+                },
+                {
+                    "start": 31.18,
+                    "end": 31.44,
+                    "text": "tromp",
+                    "type": "WORD"
+                },
+                {
+                    "start": 31.46,
+                    "end": 31.62,
+                    "text": "has",
+                    "type": "WORD"
+                },
+                {
+                    "start": 31.76,
+                    "end": 32.12,
+                    "text": "swated",
+                    "type": "WORD"
+                },
+                {
+                    "start": 32.18,
+                    "end": 32.34,
+                    "text": "down",
+                    "type": "WORD"
+                },
+                {
+                    "start": 32.58,
+                    "end": 32.94,
+                    "text": "almost",
+                    "type": "WORD"
+                },
+                {
+                    "start": 33.18,
+                    "end": 33.32,
+                    "text": "all",
+                    "type": "WORD"
+                },
+                {
+                    "start": 33.44,
+                    "end": 33.52,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 33.64,
+                    "end": 34.22,
+                    "text": "accusation",
+                    "type": "WORD"
+                },
+                {
+                    "start": 34.34,
+                    "end": 34.56,
+                    "text": "saying",
+                    "type": "WORD"
+                },
+                {
+                    "start": 34.62,
+                    "end": 34.68,
+                    "text": "he",
+                    "type": "WORD"
+                },
+                {
+                    "start": 34.76,
+                    "end": 35.04,
+                    "text": "doesn't",
+                    "type": "WORD"
+                },
+                {
+                    "start": 35.22,
+                    "end": 35.28,
+                    "text": "do",
+                    "type": "WORD"
+                },
+                {
+                    "start": 35.46,
+                    "end": 35.62,
+                    "text": "such",
+                    "type": "WORD"
+                },
+                {
+                    "start": 35.76,
+                    "end": 36.14,
+                    "text": "things",
+                    "type": "WORD"
+                },
+                {
+                    "start": 36.26,
+                    "end": 36.34,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 36.42,
+                    "end": 36.5,
+                    "text": "he",
+                    "type": "WORD"
+                },
+                {
+                    "start": 36.66,
+                    "end": 36.88,
+                    "text": "did",
+                    "type": "WORD"
+                },
+                {
+                    "start": 36.94,
+                    "end": 37.06,
+                    "text": "not",
+                    "type": "WORD"
+                },
+                {
+                    "start": 37.18,
+                    "end": 37.28,
+                    "text": "with",
+                    "type": "WORD"
+                },
+                {
+                    "start": 37.42,
+                    "end": 37.58,
+                    "text": "these",
+                    "type": "WORD"
+                },
+                {
+                    "start": 37.78,
+                    "end": 38.3,
+                    "text": "women",
+                    "type": "WORD"
+                },
+                {
+                    "start": 38.42,
+                    "end": 38.5,
+                    "text": "but",
+                    "type": "WORD"
+                },
+                {
+                    "start": 38.6,
+                    "end": 38.64,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 38.76,
+                    "end": 39.3,
+                    "text": "denial",
+                    "type": "WORD"
+                },
+                {
+                    "start": 39.48,
+                    "end": 39.54,
+                    "text": "is",
+                    "type": "WORD"
+                },
+                {
+                    "start": 39.76,
+                    "end": 39.9,
+                    "text": "not",
+                    "type": "WORD"
+                },
+                {
+                    "start": 40.0,
+                    "end": 40.08,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 40.14,
+                    "end": 40.32,
+                    "text": "same",
+                    "type": "WORD"
+                },
+                {
+                    "start": 40.48,
+                    "end": 40.58,
+                    "text": "as",
+                    "type": "WORD"
+                },
+                {
+                    "start": 40.66,
+                    "end": 40.7,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 40.8,
+                    "end": 41.7,
+                    "text": "debunking",
+                    "type": "WORD"
+                },
+                {
+                    "start": 41.72,
+                    "end": 41.9,
+                    "text": "there",
+                    "type": "WORD"
+                },
+                {
+                    "start": 41.92,
+                    "end": 42.04,
+                    "text": "has",
+                    "type": "WORD"
+                },
+                {
+                    "start": 42.1,
+                    "end": 42.28,
+                    "text": "been",
+                    "type": "WORD"
+                },
+                {
+                    "start": 42.34,
+                    "end": 42.5,
+                    "text": "no",
+                    "type": "WORD"
+                },
+                {
+                    "start": 42.62,
+                    "end": 43.16,
+                    "text": "wholesale",
+                    "type": "WORD"
+                },
+                {
+                    "start": 43.24,
+                    "end": 43.76,
+                    "text": "dismissal",
+                    "type": "WORD"
+                },
+                {
+                    "start": 43.78,
+                    "end": 43.84,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 43.92,
+                    "end": 44.06,
+                    "text": "their",
+                    "type": "WORD"
+                },
+                {
+                    "start": 44.18,
+                    "end": 44.54,
+                    "text": "charges",
+                    "type": "WORD"
+                },
+                {
+                    "start": 44.62,
+                    "end": 44.68,
+                    "text": "by",
+                    "type": "WORD"
+                },
+                {
+                    "start": 44.78,
+                    "end": 45.12,
+                    "text": "people",
+                    "type": "WORD"
+                },
+                {
+                    "start": 45.34,
+                    "end": 45.76,
+                    "text": "outside",
+                    "type": "WORD"
+                },
+                {
+                    "start": 45.9,
+                    "end": 45.98,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 46.12,
+                    "end": 47.06,
+                    "text": "campaign",
+                    "type": "WORD"
+                },
+                {
+                    "start": 47.16,
+                    "end": 47.24,
+                    "text": "so",
+                    "type": "WORD"
+                },
+                {
+                    "start": 47.36,
+                    "end": 47.46,
+                    "text": "his",
+                    "type": "WORD"
+                },
+                {
+                    "start": 47.54,
+                    "end": 48.1,
+                    "text": "statement",
+                    "type": "WORD"
+                },
+                {
+                    "start": 48.18,
+                    "end": 48.32,
+                    "text": "is",
+                    "type": "WORD"
+                },
+                {
+                    "start": 48.44,
+                    "end": 49.08,
+                    "text": "false",
+                    "type": "WORD"
+                },
+                {
+                    "start": 49.24,
+                    "end": 49.48,
+                    "text": "claim",
+                    "type": "WORD"
+                },
+                {
+                    "start": 49.52,
+                    "end": 49.74,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 49.82,
+                    "end": 49.98,
+                    "text": "where",
+                    "type": "WORD"
+                },
+                {
+                    "start": 50.0,
+                    "end": 50.08,
+                    "text": "he",
+                    "type": "WORD"
+                },
+                {
+                    "start": 50.22,
+                    "end": 50.36,
+                    "text": "said",
+                    "type": "WORD"
+                },
+                {
+                    "start": 50.5,
+                    "end": 50.6,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 50.72,
+                    "end": 50.8,
+                    "text": "he",
+                    "type": "WORD"
+                },
+                {
+                    "start": 50.98,
+                    "end": 51.54,
+                    "text": "could",
+                    "type": "WORD"
+                },
+                {
+                    "start": 51.8,
+                    "end": 51.98,
+                    "text": "not",
+                    "type": "WORD"
+                },
+                {
+                    "start": 52.26,
+                    "end": 52.78,
+                    "text": "possibly",
+                    "type": "WORD"
+                },
+                {
+                    "start": 52.92,
+                    "end": 53.02,
+                    "text": "have",
+                    "type": "WORD"
+                },
+                {
+                    "start": 53.14,
+                    "end": 53.94,
+                    "text": "done",
+                    "type": "WORD"
+                },
+                {
+                    "start": 54.1,
+                    "end": 54.18,
+                    "text": "ah",
+                    "type": "WORD"
+                },
+                {
+                    "start": 54.32,
+                    "end": 54.54,
+                    "text": "those",
+                    "type": "WORD"
+                },
+                {
+                    "start": 54.64,
+                    "end": 54.96,
+                    "text": "things",
+                    "type": "WORD"
+                },
+                {
+                    "start": 55.06,
+                    "end": 55.12,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 55.22,
+                    "end": 55.36,
+                    "text": "those",
+                    "type": "WORD"
+                },
+                {
+                    "start": 55.56,
+                    "end": 55.88,
+                    "text": "women",
+                    "type": "WORD"
+                },
+                {
+                    "start": 55.94,
+                    "end": 56.2,
+                    "text": "because",
+                    "type": "WORD"
+                },
+                {
+                    "start": 56.26,
+                    "end": 56.38,
+                    "text": "they",
+                    "type": "WORD"
+                },
+                {
+                    "start": 56.42,
+                    "end": 56.56,
+                    "text": "were",
+                    "type": "WORD"
+                },
+                {
+                    "start": 56.58,
+                    "end": 56.68,
+                    "text": "not",
+                    "type": "WORD"
+                },
+                {
+                    "start": 56.8,
+                    "end": 57.3,
+                    "text": "attractive",
+                    "type": "WORD"
+                },
+                {
+                    "start": 57.36,
+                    "end": 57.86,
+                    "text": "enough",
+                    "type": "WORD"
+                },
+                {
+                    "start": 57.92,
+                    "end": 58.24,
+                    "text": "for",
+                    "type": "WORD"
+                },
+                {
+                    "start": 58.88,
+                    "end": 58.92,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 59.0,
+                    "end": 59.22,
+                    "text": "didt",
+                    "type": "WORD"
+                },
+                {
+                    "start": 59.24,
+                    "end": 59.9,
+                    "text": "necessarily",
+                    "type": "WORD"
+                },
+                {
+                    "start": 59.98,
+                    "end": 60.02,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 60.1,
+                    "end": 60.28,
+                    "text": "thought",
+                    "type": "WORD"
+                },
+                {
+                    "start": 60.54,
+                    "end": 60.72,
+                    "text": "did",
+                    "type": "WORD"
+                },
+                {
+                    "start": 60.76,
+                    "end": 60.94,
+                    "text": "not",
+                    "type": "WORD"
+                },
+                {
+                    "start": 61.04,
+                    "end": 61.24,
+                    "text": "say",
+                    "type": "WORD"
+                },
+                {
+                    "start": 61.3,
+                    "end": 61.4,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 61.68,
+                    "end": 61.76,
+                    "text": "but",
+                    "type": "WORD"
+                },
+                {
+                    "start": 61.98,
+                    "end": 62.28,
+                    "text": "tromp",
+                    "type": "WORD"
+                },
+                {
+                    "start": 62.32,
+                    "end": 62.54,
+                    "text": "has",
+                    "type": "WORD"
+                },
+                {
+                    "start": 62.62,
+                    "end": 62.84,
+                    "text": "called",
+                    "type": "WORD"
+                },
+                {
+                    "start": 63.02,
+                    "end": 63.14,
+                    "text": "one",
+                    "type": "WORD"
+                },
+                {
+                    "start": 63.16,
+                    "end": 63.22,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 63.26,
+                    "end": 63.34,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 63.38,
+                    "end": 63.64,
+                    "text": "women",
+                    "type": "WORD"
+                },
+                {
+                    "start": 63.76,
+                    "end": 64.8,
+                    "text": "disgusting",
+                    "type": "WORD"
+                },
+                {
+                    "start": 64.84,
+                    "end": 65.06,
+                    "text": "about",
+                    "type": "WORD"
+                },
+                {
+                    "start": 65.12,
+                    "end": 65.42,
+                    "text": "another",
+                    "type": "WORD"
+                },
+                {
+                    "start": 65.5,
+                    "end": 65.56,
+                    "text": "he",
+                    "type": "WORD"
+                },
+                {
+                    "start": 65.68,
+                    "end": 65.8,
+                    "text": "said",
+                    "type": "WORD"
+                },
+                {
+                    "start": 66.08,
+                    "end": 66.2,
+                    "text": "she",
+                    "type": "WORD"
+                },
+                {
+                    "start": 66.3,
+                    "end": 66.5,
+                    "text": "would",
+                    "type": "WORD"
+                },
+                {
+                    "start": 66.54,
+                    "end": 66.66,
+                    "text": "not",
+                    "type": "WORD"
+                },
+                {
+                    "start": 66.8,
+                    "end": 66.86,
+                    "text": "be",
+                    "type": "WORD"
+                },
+                {
+                    "start": 66.98,
+                    "end": 67.04,
+                    "text": "my",
+                    "type": "WORD"
+                },
+                {
+                    "start": 67.22,
+                    "end": 67.52,
+                    "text": "first",
+                    "type": "WORD"
+                },
+                {
+                    "start": 67.6,
+                    "end": 68.18,
+                    "text": "choice",
+                    "type": "WORD"
+                },
+                {
+                    "start": 68.34,
+                    "end": 68.48,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 68.56,
+                    "end": 68.78,
+                    "text": "about",
+                    "type": "WORD"
+                },
+                {
+                    "start": 68.82,
+                    "end": 68.86,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 69.0,
+                    "end": 69.3,
+                    "text": "people",
+                    "type": "WORD"
+                },
+                {
+                    "start": 69.36,
+                    "end": 69.82,
+                    "text": "magazine",
+                    "type": "WORD"
+                },
+                {
+                    "start": 69.86,
+                    "end": 70.32,
+                    "text": "reporter",
+                    "type": "WORD"
+                },
+                {
+                    "start": 70.42,
+                    "end": 70.5,
+                    "text": "who",
+                    "type": "WORD"
+                },
+                {
+                    "start": 70.6,
+                    "end": 70.72,
+                    "text": "says",
+                    "type": "WORD"
+                },
+                {
+                    "start": 70.84,
+                    "end": 70.92,
+                    "text": "he",
+                    "type": "WORD"
+                },
+                {
+                    "start": 71.08,
+                    "end": 71.48,
+                    "text": "sexually",
+                    "type": "WORD"
+                },
+                {
+                    "start": 71.52,
+                    "end": 71.96,
+                    "text": "assaulted",
+                    "type": "WORD"
+                },
+                {
+                    "start": 72.04,
+                    "end": 72.12,
+                    "text": "her",
+                    "type": "WORD"
+                },
+                {
+                    "start": 72.26,
+                    "end": 72.38,
+                    "text": "more",
+                    "type": "WORD"
+                },
+                {
+                    "start": 72.44,
+                    "end": 72.56,
+                    "text": "than",
+                    "type": "WORD"
+                },
+                {
+                    "start": 72.64,
+                    "end": 72.68,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 72.88,
+                    "end": 73.22,
+                    "text": "decade",
+                    "type": "WORD"
+                },
+                {
+                    "start": 73.32,
+                    "end": 74.0,
+                    "text": "ago",
+                    "type": "WORD"
+                },
+                {
+                    "start": 74.56,
+                    "end": 74.76,
+                    "text": "look",
+                    "type": "WORD"
+                },
+                {
+                    "start": 74.78,
+                    "end": 74.84,
+                    "text": "at",
+                    "type": "WORD"
+                },
+                {
+                    "start": 74.94,
+                    "end": 75.02,
+                    "text": "her",
+                    "type": "WORD"
+                },
+                {
+                    "start": 75.44,
+                    "end": 75.6,
+                    "text": "look",
+                    "type": "WORD"
+                },
+                {
+                    "start": 75.62,
+                    "end": 75.68,
+                    "text": "at",
+                    "type": "WORD"
+                },
+                {
+                    "start": 75.76,
+                    "end": 75.86,
+                    "text": "her",
+                    "type": "WORD"
+                },
+                {
+                    "start": 75.94,
+                    "end": 76.3,
+                    "text": "words",
+                    "type": "WORD"
+                },
+                {
+                    "start": 76.64,
+                    "end": 76.8,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 76.88,
+                    "end": 77.1,
+                    "text": "tell",
+                    "type": "WORD"
+                },
+                {
+                    "start": 77.12,
+                    "end": 77.2,
+                    "text": "me",
+                    "type": "WORD"
+                },
+                {
+                    "start": 77.54,
+                    "end": 77.64,
+                    "text": "what",
+                    "type": "WORD"
+                },
+                {
+                    "start": 77.78,
+                    "end": 77.88,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 78.0,
+                    "end": 78.38,
+                    "text": "think",
+                    "type": "WORD"
+                },
+                {
+                    "start": 78.54,
+                    "end": 78.58,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 78.7,
+                    "end": 78.9,
+                    "text": "don't",
+                    "type": "WORD"
+                },
+                {
+                    "start": 78.94,
+                    "end": 79.22,
+                    "text": "think",
+                    "type": "WORD"
+                },
+                {
+                    "start": 79.24,
+                    "end": 79.74,
+                    "text": "so",
+                    "type": "WORD"
+                },
+                {
+                    "start": 79.84,
+                    "end": 80.24,
+                    "text": "clinton's",
+                    "type": "WORD"
+                },
+                {
+                    "start": 80.34,
+                    "end": 80.6,
+                    "text": "claim",
+                    "type": "WORD"
+                },
+                {
+                    "start": 80.64,
+                    "end": 81.12,
+                    "text": "appears",
+                    "type": "WORD"
+                },
+                {
+                    "start": 81.22,
+                    "end": 81.9,
+                    "text": "true",
+                    "type": "WORD"
+                },
+                {
+                    "start": 82.04,
+                    "end": 82.34,
+                    "text": "trumps",
+                    "type": "WORD"
+                },
+                {
+                    "start": 82.34,
+                    "end": 82.88,
+                    "text": "denial",
+                    "type": "WORD"
+                },
+                {
+                    "start": 83.1,
+                    "end": 83.98,
+                    "text": "false",
+                    "type": "WORD"
+                },
+                {
+                    "start": 84.02,
+                    "end": 84.16,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 84.42,
+                    "end": 84.46,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 84.66,
+                    "end": 84.98,
+                    "text": "third",
+                    "type": "WORD"
+                },
+                {
+                    "start": 85.1,
+                    "end": 85.74,
+                    "text": "claim",
+                    "type": "WORD"
+                },
+                {
+                    "start": 85.9,
+                    "end": 86.08,
+                    "text": "how",
+                    "type": "WORD"
+                },
+                {
+                    "start": 86.28,
+                    "end": 86.4,
+                    "text": "all",
+                    "type": "WORD"
+                },
+                {
+                    "start": 86.52,
+                    "end": 86.64,
+                    "text": "these",
+                    "type": "WORD"
+                },
+                {
+                    "start": 86.74,
+                    "end": 87.28,
+                    "text": "accusers",
+                    "type": "WORD"
+                },
+                {
+                    "start": 87.38,
+                    "end": 87.58,
+                    "text": "came",
+                    "type": "WORD"
+                },
+                {
+                    "start": 87.7,
+                    "end": 87.8,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 87.92,
+                    "end": 88.74,
+                    "text": "light",
+                    "type": "WORD"
+                },
+                {
+                    "start": 88.8,
+                    "end": 88.88,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 88.92,
+                    "end": 89.04,
+                    "text": "have",
+                    "type": "WORD"
+                },
+                {
+                    "start": 89.08,
+                    "end": 89.12,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 89.22,
+                    "end": 89.52,
+                    "text": "feeling",
+                    "type": "WORD"
+                },
+                {
+                    "start": 89.66,
+                    "end": 89.78,
+                    "text": "how",
+                    "type": "WORD"
+                },
+                {
+                    "start": 89.82,
+                    "end": 89.94,
+                    "text": "they",
+                    "type": "WORD"
+                },
+                {
+                    "start": 89.98,
+                    "end": 90.12,
+                    "text": "came",
+                    "type": "WORD"
+                },
+                {
+                    "start": 90.24,
+                    "end": 90.28,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 90.32,
+                    "end": 90.6,
+                    "text": "believe",
+                    "type": "WORD"
+                },
+                {
+                    "start": 90.64,
+                    "end": 90.7,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 90.74,
+                    "end": 90.82,
+                    "text": "was",
+                    "type": "WORD"
+                },
+                {
+                    "start": 90.9,
+                    "end": 91.02,
+                    "text": "her",
+                    "type": "WORD"
+                },
+                {
+                    "start": 91.1,
+                    "end": 91.48,
+                    "text": "campaign",
+                    "type": "WORD"
+                },
+                {
+                    "start": 91.5,
+                    "end": 91.6,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 91.7,
+                    "end": 91.84,
+                    "text": "did",
+                    "type": "WORD"
+                },
+                {
+                    "start": 91.88,
+                    "end": 91.94,
+                    "text": "it",
+                    "type": "WORD"
+                },
+                {
+                    "start": 92.18,
+                    "end": 92.36,
+                    "text": "it's",
+                    "type": "WORD"
+                },
+                {
+                    "start": 92.56,
+                    "end": 92.98,
+                    "text": "clenton's",
+                    "type": "WORD"
+                },
+                {
+                    "start": 93.04,
+                    "end": 93.74,
+                    "text": "fault",
+                    "type": "WORD"
+                },
+                {
+                    "start": 93.76,
+                    "end": 93.92,
+                    "text": "what",
+                    "type": "WORD"
+                },
+                {
+                    "start": 93.96,
+                    "end": 94.04,
+                    "text": "we",
+                    "type": "WORD"
+                },
+                {
+                    "start": 94.14,
+                    "end": 94.38,
+                    "text": "know",
+                    "type": "WORD"
+                },
+                {
+                    "start": 94.44,
+                    "end": 94.52,
+                    "text": "is",
+                    "type": "WORD"
+                },
+                {
+                    "start": 94.62,
+                    "end": 94.7,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 94.8,
+                    "end": 95.14,
+                    "text": "scandal",
+                    "type": "WORD"
+                },
+                {
+                    "start": 95.18,
+                    "end": 95.46,
+                    "text": "started",
+                    "type": "WORD"
+                },
+                {
+                    "start": 95.5,
+                    "end": 95.6,
+                    "text": "with",
+                    "type": "WORD"
+                },
+                {
+                    "start": 95.66,
+                    "end": 95.72,
+                    "text": "an",
+                    "type": "WORD"
+                },
+                {
+                    "start": 95.8,
+                    "end": 96.04,
+                    "text": "old",
+                    "type": "WORD"
+                },
+                {
+                    "start": 96.12,
+                    "end": 96.3,
+                    "text": "tape",
+                    "type": "WORD"
+                },
+                {
+                    "start": 96.36,
+                    "end": 96.42,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 96.64,
+                    "end": 96.88,
+                    "text": "trumps",
+                    "type": "WORD"
+                },
+                {
+                    "start": 96.96,
+                    "end": 97.24,
+                    "text": "luwe",
+                    "type": "WORD"
+                },
+                {
+                    "start": 97.32,
+                    "end": 97.7,
+                    "text": "commens",
+                    "type": "WORD"
+                },
+                {
+                    "start": 97.74,
+                    "end": 98.18,
+                    "text": "recorded",
+                    "type": "WORD"
+                },
+                {
+                    "start": 98.24,
+                    "end": 98.3,
+                    "text": "by",
+                    "type": "WORD"
+                },
+                {
+                    "start": 98.46,
+                    "end": 98.8,
+                    "text": "access",
+                    "type": "WORD"
+                },
+                {
+                    "start": 98.92,
+                    "end": 99.8,
+                    "text": "hollywood",
+                    "type": "WORD"
+                },
+                {
+                    "start": 99.88,
+                    "end": 100.06,
+                    "text": "then",
+                    "type": "WORD"
+                },
+                {
+                    "start": 100.2,
+                    "end": 100.34,
+                    "text": "some",
+                    "type": "WORD"
+                },
+                {
+                    "start": 100.36,
+                    "end": 100.64,
+                    "text": "women",
+                    "type": "WORD"
+                },
+                {
+                    "start": 100.68,
+                    "end": 100.84,
+                    "text": "saw",
+                    "type": "WORD"
+                },
+                {
+                    "start": 100.94,
+                    "end": 101.02,
+                    "text": "him",
+                    "type": "WORD"
+                },
+                {
+                    "start": 101.12,
+                    "end": 101.52,
+                    "text": "denying",
+                    "type": "WORD"
+                },
+                {
+                    "start": 101.58,
+                    "end": 101.72,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 101.76,
+                    "end": 101.88,
+                    "text": "our",
+                    "type": "WORD"
+                },
+                {
+                    "start": 101.98,
+                    "end": 102.36,
+                    "text": "anderson",
+                    "type": "WORD"
+                },
+                {
+                    "start": 102.44,
+                    "end": 102.76,
+                    "text": "cooper",
+                    "type": "WORD"
+                },
+                {
+                    "start": 102.8,
+                    "end": 103.04,
+                    "text": "he'd",
+                    "type": "WORD"
+                },
+                {
+                    "start": 103.2,
+                    "end": 103.5,
+                    "text": "ever",
+                    "type": "WORD"
+                },
+                {
+                    "start": 103.58,
+                    "end": 103.72,
+                    "text": "do",
+                    "type": "WORD"
+                },
+                {
+                    "start": 103.84,
+                    "end": 103.98,
+                    "text": "what",
+                    "type": "WORD"
+                },
+                {
+                    "start": 104.04,
+                    "end": 104.12,
+                    "text": "was",
+                    "type": "WORD"
+                },
+                {
+                    "start": 104.24,
+                    "end": 104.76,
+                    "text": "described",
+                    "type": "WORD"
+                },
+                {
+                    "start": 104.84,
+                    "end": 104.9,
+                    "text": "on",
+                    "type": "WORD"
+                },
+                {
+                    "start": 104.98,
+                    "end": 105.1,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 105.24,
+                    "end": 105.42,
+                    "text": "tape",
+                    "type": "WORD"
+                },
+                {
+                    "start": 105.58,
+                    "end": 105.62,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 105.7,
+                    "end": 105.76,
+                    "text": "as",
+                    "type": "WORD"
+                },
+                {
+                    "start": 105.88,
+                    "end": 105.92,
+                    "text": "a",
+                    "type": "WORD"
+                },
+                {
+                    "start": 106.06,
+                    "end": 106.96,
+                    "text": "band",
+                    "type": "WORD"
+                },
+                {
+                    "start": 107.0,
+                    "end": 107.08,
+                    "text": "but",
+                    "type": "WORD"
+                },
+                {
+                    "start": 107.18,
+                    "end": 107.22,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 107.28,
+                    "end": 107.38,
+                    "text": "have",
+                    "type": "WORD"
+                },
+                {
+                    "start": 107.5,
+                    "end": 108.0,
+                    "text": "tremendous",
+                    "type": "WORD"
+                },
+                {
+                    "start": 108.06,
+                    "end": 108.38,
+                    "text": "respect",
+                    "type": "WORD"
+                },
+                {
+                    "start": 108.4,
+                    "end": 108.46,
+                    "text": "to",
+                    "type": "WORD"
+                },
+                {
+                    "start": 108.54,
+                    "end": 108.7,
+                    "text": "whom",
+                    "type": "WORD"
+                },
+                {
+                    "start": 108.74,
+                    "end": 108.84,
+                    "text": "have",
+                    "type": "WORD"
+                },
+                {
+                    "start": 108.88,
+                    "end": 108.92,
+                    "text": "u",
+                    "type": "WORD"
+                },
+                {
+                    "start": 108.94,
+                    "end": 109.08,
+                    "text": "ever",
+                    "type": "WORD"
+                },
+                {
+                    "start": 109.1,
+                    "end": 109.22,
+                    "text": "had",
+                    "type": "WORD"
+                },
+                {
+                    "start": 109.24,
+                    "end": 109.32,
+                    "text": "on",
+                    "type": "WORD"
+                },
+                {
+                    "start": 109.34,
+                    "end": 109.46,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 109.48,
+                    "end": 109.9,
+                    "text": "line",
+                    "type": "WORD"
+                },
+                {
+                    "start": 109.92,
+                    "end": 110.04,
+                    "text": "have",
+                    "type": "WORD"
+                },
+                {
+                    "start": 110.1,
+                    "end": 110.48,
+                    "text": "respect",
+                    "type": "WORD"
+                },
+                {
+                    "start": 110.48,
+                    "end": 110.58,
+                    "text": "for",
+                    "type": "WORD"
+                },
+                {
+                    "start": 110.68,
+                    "end": 110.88,
+                    "text": "me",
+                    "type": "WORD"
+                },
+                {
+                    "start": 111.16,
+                    "end": 111.24,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 111.3,
+                    "end": 111.36,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 111.42,
+                    "end": 111.58,
+                    "text": "will",
+                    "type": "WORD"
+                },
+                {
+                    "start": 111.62,
+                    "end": 111.78,
+                    "text": "tell",
+                    "type": "WORD"
+                },
+                {
+                    "start": 111.82,
+                    "end": 111.9,
+                    "text": "you",
+                    "type": "WORD"
+                },
+                {
+                    "start": 112.0,
+                    "end": 112.08,
+                    "text": "no",
+                    "type": "WORD"
+                },
+                {
+                    "start": 112.16,
+                    "end": 112.2,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 112.26,
+                    "end": 112.36,
+                    "text": "have",
+                    "type": "WORD"
+                },
+                {
+                    "start": 112.44,
+                    "end": 112.6,
+                    "text": "not",
+                    "type": "WORD"
+                },
+                {
+                    "start": 113.2,
+                    "end": 113.62,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 113.96,
+                    "end": 114.0,
+                    "text": "i",
+                    "type": "WORD"
+                },
+                {
+                    "start": 114.16,
+                    "end": 114.4,
+                    "text": "jumped",
+                    "type": "WORD"
+                },
+                {
+                    "start": 114.54,
+                    "end": 114.72,
+                    "text": "off",
+                    "type": "WORD"
+                },
+                {
+                    "start": 114.8,
+                    "end": 114.86,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 114.96,
+                    "end": 115.02,
+                    "text": "my",
+                    "type": "WORD"
+                },
+                {
+                    "start": 115.14,
+                    "end": 117.06,
+                    "text": "couch",
+                    "type": "WORD"
+                },
+                {
+                    "start": 117.14,
+                    "end": 117.48,
+                    "text": "ana",
+                    "type": "WORD"
+                },
+                {
+                    "start": 117.52,
+                    "end": 117.74,
+                    "text": "sighe",
+                    "type": "WORD"
+                },
+                {
+                    "start": 117.8,
+                    "end": 119.02,
+                    "text": "kirolier",
+                    "type": "WORD"
+                },
+                {
+                    "start": 119.08,
+                    "end": 119.18,
+                    "text": "and",
+                    "type": "WORD"
+                },
+                {
+                    "start": 119.28,
+                    "end": 119.36,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 119.5,
+                    "end": 120.24,
+                    "text": "accusations",
+                    "type": "WORD"
+                },
+                {
+                    "start": 120.34,
+                    "end": 120.56,
+                    "text": "kept",
+                    "type": "WORD"
+                },
+                {
+                    "start": 120.74,
+                    "end": 121.06,
+                    "text": "flowing",
+                    "type": "WORD"
+                },
+                {
+                    "start": 121.16,
+                    "end": 121.26,
+                    "text": "from",
+                    "type": "WORD"
+                },
+                {
+                    "start": 121.4,
+                    "end": 121.78,
+                    "text": "there",
+                    "type": "WORD"
+                },
+                {
+                    "start": 122.0,
+                    "end": 122.08,
+                    "text": "if",
+                    "type": "WORD"
+                },
+                {
+                    "start": 122.18,
+                    "end": 122.26,
+                    "text": "the",
+                    "type": "WORD"
+                },
+                {
+                    "start": 122.38,
+                    "end": 122.72,
+                    "text": "clinton",
+                    "type": "WORD"
+                },
+                {
+                    "start": 122.78,
+                    "end": 123.1,
+                    "text": "team",
+                    "type": "WORD"
+                },
+                {
+                    "start": 123.14,
+                    "end": 123.26,
+                    "text": "is",
+                    "type": "WORD"
+                },
+                {
+                    "start": 123.32,
+                    "end": 123.38,
+                    "text": "in",
+                    "type": "WORD"
+                },
+                {
+                    "start": 123.62,
+                    "end": 123.82,
+                    "text": "any",
+                    "type": "WORD"
+                },
+                {
+                    "start": 123.86,
+                    "end": 124.0,
+                    "text": "way",
+                    "type": "WORD"
+                },
+                {
+                    "start": 124.1,
+                    "end": 124.48,
+                    "text": "involved",
+                    "type": "WORD"
+                },
+                {
+                    "start": 124.58,
+                    "end": 124.64,
+                    "text": "in",
+                    "type": "WORD"
+                },
+                {
+                    "start": 124.7,
+                    "end": 124.82,
+                    "text": "all",
+                    "type": "WORD"
+                },
+                {
+                    "start": 124.96,
+                    "end": 125.06,
+                    "text": "this",
+                    "type": "WORD"
+                },
+                {
+                    "start": 125.2,
+                    "end": 125.34,
+                    "text": "it's",
+                    "type": "WORD"
+                },
+                {
+                    "start": 125.42,
+                    "end": 125.8,
+                    "text": "certainly",
+                    "type": "WORD"
+                },
+                {
+                    "start": 125.9,
+                    "end": 126.04,
+                    "text": "not",
+                    "type": "WORD"
+                },
+                {
+                    "start": 126.2,
+                    "end": 126.38,
+                    "text": "been",
+                    "type": "WORD"
+                },
+                {
+                    "start": 126.52,
+                    "end": 126.8,
+                    "text": "proven",
+                    "type": "WORD"
+                },
+                {
+                    "start": 126.92,
+                    "end": 127.6,
+                    "text": "yet",
+                    "type": "WORD"
+                },
+                {
+                    "start": 127.68,
+                    "end": 127.74,
+                    "text": "so",
+                    "type": "WORD"
+                },
+                {
+                    "start": 127.84,
+                    "end": 127.94,
+                    "text": "that",
+                    "type": "WORD"
+                },
+                {
+                    "start": 128.06,
+                    "end": 128.22,
+                    "text": "part",
+                    "type": "WORD"
+                },
+                {
+                    "start": 128.24,
+                    "end": 128.3,
+                    "text": "of",
+                    "type": "WORD"
+                },
+                {
+                    "start": 128.38,
+                    "end": 128.66,
+                    "text": "trum's",
+                    "type": "WORD"
+                },
+                {
+                    "start": 128.72,
+                    "end": 129.52,
+                    "text": "claim",
+                    "type": "WORD"
+                },
+                {
+                    "start": 129.56,
+                    "end": 129.66,
+                    "text": "is",
+                    "type": "WORD"
+                },
+                {
+                    "start": 129.82,
+                    "end": 130.1,
+                    "text": "false",
+                    "type": "WORD"
+                },
+                {
+                    "start": 130.14,
+                    "end": 130.62,
+                    "text": "too",
+                    "type": "WORD"
+                }
+            ]
+        }
+    ]
+}

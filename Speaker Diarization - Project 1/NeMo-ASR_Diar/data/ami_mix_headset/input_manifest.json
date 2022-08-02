@@ -1,0 +1,1 @@
+{"audio_filepath": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus/TS3003d/audio/TS3003d.Mix-Headset.wav", "offset": 0, "duration": null, "label": "infer", "text": "-", "num_speakers": 4, "rttm_filepath": "/home/DATA/amit_kesari/SD1/NeMo-ASR_Diar/data/ami_mix_headset/rttms/test/TS3003d.Mix-Headset.rttm", "uem_filepath": null}

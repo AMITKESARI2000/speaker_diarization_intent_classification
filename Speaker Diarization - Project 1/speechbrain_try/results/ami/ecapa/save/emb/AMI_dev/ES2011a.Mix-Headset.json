@@ -1,0 +1,4426 @@
+{
+  "ES2011a_33.802_36.792": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 540832,
+      "stop": 588672
+    }
+  },
+  "ES2011a_35.302_38.292": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 564832,
+      "stop": 612672
+    }
+  },
+  "ES2011a_36.802_39.792": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 588832,
+      "stop": 636672
+    }
+  },
+  "ES2011a_38.302_41.292": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 612832,
+      "stop": 660672
+    }
+  },
+  "ES2011a_39.802_42.792": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 636832,
+      "stop": 684672
+    }
+  },
+  "ES2011a_41.302_44.292": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 660832,
+      "stop": 708672
+    }
+  },
+  "ES2011a_42.802_44.656": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.854,
+      "start": 684832,
+      "stop": 714496
+    }
+  },
+  "ES2011a_46.384_49.374": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 742144,
+      "stop": 789984
+    }
+  },
+  "ES2011a_47.884_50.874": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 766144,
+      "stop": 813984
+    }
+  },
+  "ES2011a_49.384_52.374": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 790144,
+      "stop": 837984
+    }
+  },
+  "ES2011a_50.884_53.874": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 814144,
+      "stop": 861984
+    }
+  },
+  "ES2011a_52.384_55.374": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 838144,
+      "stop": 885984
+    }
+  },
+  "ES2011a_53.884_56.874": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 862144,
+      "stop": 909984
+    }
+  },
+  "ES2011a_55.384_56.896": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.512,
+      "start": 886144,
+      "stop": 910336
+    }
+  },
+  "ES2011a_58.448_61.438": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 935168,
+      "stop": 983008
+    }
+  },
+  "ES2011a_59.948_62.938": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 959168,
+      "stop": 1007008
+    }
+  },
+  "ES2011a_61.448_64.384": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.936,
+      "start": 983168,
+      "stop": 1030144
+    }
+  },
+  "ES2011a_64.976_67.966": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1039616,
+      "stop": 1087456
+    }
+  },
+  "ES2011a_66.476_69.466": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1063616,
+      "stop": 1111456
+    }
+  },
+  "ES2011a_67.976_70.966": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1087616,
+      "stop": 1135456
+    }
+  },
+  "ES2011a_69.476_72.466": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1111616,
+      "stop": 1159456
+    }
+  },
+  "ES2011a_70.976_73.966": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1135616,
+      "stop": 1183456
+    }
+  },
+  "ES2011a_72.476_75.466": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1159616,
+      "stop": 1207456
+    }
+  },
+  "ES2011a_73.976_76.966": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1183616,
+      "stop": 1231456
+    }
+  },
+  "ES2011a_75.476_78.466": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1207616,
+      "stop": 1255456
+    }
+  },
+  "ES2011a_76.976_79.966": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1231616,
+      "stop": 1279456
+    }
+  },
+  "ES2011a_78.476_81.466": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1255616,
+      "stop": 1303456
+    }
+  },
+  "ES2011a_79.976_82.966": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1279616,
+      "stop": 1327456
+    }
+  },
+  "ES2011a_81.476_84.466": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1303616,
+      "stop": 1351456
+    }
+  },
+  "ES2011a_82.976_85.966": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1327616,
+      "stop": 1375456
+    }
+  },
+  "ES2011a_84.476_87.466": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1351616,
+      "stop": 1399456
+    }
+  },
+  "ES2011a_85.976_88.966": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1375616,
+      "stop": 1423456
+    }
+  },
+  "ES2011a_87.476_90.466": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1399616,
+      "stop": 1447456
+    }
+  },
+  "ES2011a_88.976_91.966": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1423616,
+      "stop": 1471456
+    }
+  },
+  "ES2011a_90.476_93.168": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.692,
+      "start": 1447616,
+      "stop": 1490688
+    }
+  },
+  "ES2011a_93.92_96.384": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.464,
+      "start": 1502720,
+      "stop": 1542144
+    }
+  },
+  "ES2011a_98.24_101.23": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1571840,
+      "stop": 1619680
+    }
+  },
+  "ES2011a_99.74_102.73": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1595840,
+      "stop": 1643680
+    }
+  },
+  "ES2011a_101.24_104.23": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1619840,
+      "stop": 1667680
+    }
+  },
+  "ES2011a_102.74_105.73": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1643840,
+      "stop": 1691680
+    }
+  },
+  "ES2011a_104.24_107.23": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1667840,
+      "stop": 1715680
+    }
+  },
+  "ES2011a_105.74_107.808": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.068,
+      "start": 1691840,
+      "stop": 1724928
+    }
+  },
+  "ES2011a_108.896_111.886": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1742336,
+      "stop": 1790176
+    }
+  },
+  "ES2011a_110.396_113.386": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1766336,
+      "stop": 1814176
+    }
+  },
+  "ES2011a_111.896_114.886": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1790336,
+      "stop": 1838176
+    }
+  },
+  "ES2011a_113.396_116.386": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1814336,
+      "stop": 1862176
+    }
+  },
+  "ES2011a_114.896_117.886": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1838336,
+      "stop": 1886176
+    }
+  },
+  "ES2011a_116.396_119.386": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1862336,
+      "stop": 1910176
+    }
+  },
+  "ES2011a_117.896_120.886": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1886336,
+      "stop": 1934176
+    }
+  },
+  "ES2011a_119.396_122.386": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1910336,
+      "stop": 1958176
+    }
+  },
+  "ES2011a_120.896_123.886": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1934336,
+      "stop": 1982176
+    }
+  },
+  "ES2011a_122.396_125.386": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1958336,
+      "stop": 2006176
+    }
+  },
+  "ES2011a_123.896_126.886": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 1982336,
+      "stop": 2030176
+    }
+  },
+  "ES2011a_125.396_128.386": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2006336,
+      "stop": 2054176
+    }
+  },
+  "ES2011a_126.896_129.886": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2030336,
+      "stop": 2078176
+    }
+  },
+  "ES2011a_128.396_131.386": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2054335,
+      "stop": 2102176
+    }
+  },
+  "ES2011a_129.896_132.886": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2078335,
+      "stop": 2126176
+    }
+  },
+  "ES2011a_131.396_134.386": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2102336,
+      "stop": 2150176
+    }
+  },
+  "ES2011a_132.896_135.886": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2126336,
+      "stop": 2174176
+    }
+  },
+  "ES2011a_134.396_137.386": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2150336,
+      "stop": 2198176
+    }
+  },
+  "ES2011a_135.896_138.886": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2174336,
+      "stop": 2222176
+    }
+  },
+  "ES2011a_137.396_140.386": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2198336,
+      "stop": 2246176
+    }
+  },
+  "ES2011a_138.896_141.886": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2222336,
+      "stop": 2270176
+    }
+  },
+  "ES2011a_140.396_143.386": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2246336,
+      "stop": 2294176
+    }
+  },
+  "ES2011a_141.896_144.886": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2270336,
+      "stop": 2318176
+    }
+  },
+  "ES2011a_143.396_146.386": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2294336,
+      "stop": 2342176
+    }
+  },
+  "ES2011a_144.896_147.886": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2318336,
+      "stop": 2366176
+    }
+  },
+  "ES2011a_146.396_149.386": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2342336,
+      "stop": 2390176
+    }
+  },
+  "ES2011a_147.896_150.886": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2366336,
+      "stop": 2414176
+    }
+  },
+  "ES2011a_149.396_152.386": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2390336,
+      "stop": 2438176
+    }
+  },
+  "ES2011a_150.896_153.886": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2414336,
+      "stop": 2462176
+    }
+  },
+  "ES2011a_152.396_154.592": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.196,
+      "start": 2438336,
+      "stop": 2473472
+    }
+  },
+  "ES2011a_157.008_159.998": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2512128,
+      "stop": 2559968
+    }
+  },
+  "ES2011a_158.508_161.498": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2536128,
+      "stop": 2583968
+    }
+  },
+  "ES2011a_160.008_162.998": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2560128,
+      "stop": 2607968
+    }
+  },
+  "ES2011a_161.508_164.192": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.684,
+      "start": 2584128,
+      "stop": 2627072
+    }
+  },
+  "ES2011a_166.112_169.102": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2657792,
+      "stop": 2705632
+    }
+  },
+  "ES2011a_167.612_169.856": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.244,
+      "start": 2681792,
+      "stop": 2717696
+    }
+  },
+  "ES2011a_171.264_171.6": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 0.336,
+      "start": 2740224,
+      "stop": 2745600
+    }
+  },
+  "ES2011a_172.032_175.022": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2752512,
+      "stop": 2800352
+    }
+  },
+  "ES2011a_173.532_176.522": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2776512,
+      "stop": 2824352
+    }
+  },
+  "ES2011a_175.032_178.022": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2800512,
+      "stop": 2848352
+    }
+  },
+  "ES2011a_176.532_179.522": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2824512,
+      "stop": 2872352
+    }
+  },
+  "ES2011a_178.032_181.022": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2848512,
+      "stop": 2896352
+    }
+  },
+  "ES2011a_179.532_182.522": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2872512,
+      "stop": 2920352
+    }
+  },
+  "ES2011a_181.032_184.022": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2896512,
+      "stop": 2944352
+    }
+  },
+  "ES2011a_182.532_185.522": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2920512,
+      "stop": 2968352
+    }
+  },
+  "ES2011a_184.032_187.022": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 2944512,
+      "stop": 2992352
+    }
+  },
+  "ES2011a_185.532_187.728": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.196,
+      "start": 2968512,
+      "stop": 3003648
+    }
+  },
+  "ES2011a_190.432_193.422": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 3046912,
+      "stop": 3094752
+    }
+  },
+  "ES2011a_191.932_194.922": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 3070912,
+      "stop": 3118752
+    }
+  },
+  "ES2011a_193.432_196.422": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 3094912,
+      "stop": 3142752
+    }
+  },
+  "ES2011a_194.932_197.44": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.508,
+      "start": 3118912,
+      "stop": 3159040
+    }
+  },
+  "ES2011a_200.032_201.408": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.376,
+      "start": 3200512,
+      "stop": 3222528
+    }
+  },
+  "ES2011a_203.422_205.408": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.986,
+      "start": 3254752,
+      "stop": 3286528
+    }
+  },
+  "ES2011a_220.565_221.242": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 0.677,
+      "start": 3529040,
+      "stop": 3539872
+    }
+  },
+  "ES2011a_229.399_230.172": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 0.773,
+      "start": 3670384,
+      "stop": 3682752
+    }
+  },
+  "ES2011a_238.93_241.92": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 3822880,
+      "stop": 3870720
+    }
+  },
+  "ES2011a_240.43_243.42": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 3846880,
+      "stop": 3894720
+    }
+  },
+  "ES2011a_241.93_244.064": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.134,
+      "start": 3870880,
+      "stop": 3905024
+    }
+  },
+  "ES2011a_247.856_249.328": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.472,
+      "start": 3965696,
+      "stop": 3989248
+    }
+  },
+  "ES2011a_261.728_262.192": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 0.464,
+      "start": 4187648,
+      "stop": 4195072
+    }
+  },
+  "ES2011a_265.456_268.446": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4247296,
+      "stop": 4295136
+    }
+  },
+  "ES2011a_266.956_269.946": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4271296,
+      "stop": 4319136
+    }
+  },
+  "ES2011a_268.456_271.446": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4295296,
+      "stop": 4343136
+    }
+  },
+  "ES2011a_269.956_272.848": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.892,
+      "start": 4319296,
+      "stop": 4365568
+    }
+  },
+  "ES2011a_278.816_281.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4461056,
+      "stop": 4508896
+    }
+  },
+  "ES2011a_280.316_283.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4485056,
+      "stop": 4532896
+    }
+  },
+  "ES2011a_281.816_284.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4509056,
+      "stop": 4556896
+    }
+  },
+  "ES2011a_283.316_286.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4533056,
+      "stop": 4580896
+    }
+  },
+  "ES2011a_284.816_287.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4557056,
+      "stop": 4604896
+    }
+  },
+  "ES2011a_286.316_289.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4581056,
+      "stop": 4628896
+    }
+  },
+  "ES2011a_287.816_290.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4605056,
+      "stop": 4652896
+    }
+  },
+  "ES2011a_289.316_292.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4629056,
+      "stop": 4676896
+    }
+  },
+  "ES2011a_290.816_293.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4653056,
+      "stop": 4700896
+    }
+  },
+  "ES2011a_292.316_295.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4677056,
+      "stop": 4724896
+    }
+  },
+  "ES2011a_293.816_296.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4701056,
+      "stop": 4748896
+    }
+  },
+  "ES2011a_295.316_298.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4725056,
+      "stop": 4772896
+    }
+  },
+  "ES2011a_296.816_299.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4749056,
+      "stop": 4796896
+    }
+  },
+  "ES2011a_298.316_301.248": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.932,
+      "start": 4773056,
+      "stop": 4819968
+    }
+  },
+  "ES2011a_302.816_305.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4845056,
+      "stop": 4892896
+    }
+  },
+  "ES2011a_304.316_307.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4869056,
+      "stop": 4916896
+    }
+  },
+  "ES2011a_305.816_308.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4893056,
+      "stop": 4940896
+    }
+  },
+  "ES2011a_307.316_310.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4917056,
+      "stop": 4964896
+    }
+  },
+  "ES2011a_308.816_311.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4941056,
+      "stop": 4988896
+    }
+  },
+  "ES2011a_310.316_313.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4965056,
+      "stop": 5012896
+    }
+  },
+  "ES2011a_311.816_314.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 4989056,
+      "stop": 5036896
+    }
+  },
+  "ES2011a_313.316_316.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5013056,
+      "stop": 5060896
+    }
+  },
+  "ES2011a_314.816_317.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5037056,
+      "stop": 5084896
+    }
+  },
+  "ES2011a_316.316_319.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5061056,
+      "stop": 5108896
+    }
+  },
+  "ES2011a_317.816_320.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5085056,
+      "stop": 5132896
+    }
+  },
+  "ES2011a_319.316_322.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5109056,
+      "stop": 5156896
+    }
+  },
+  "ES2011a_320.816_323.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5133056,
+      "stop": 5180896
+    }
+  },
+  "ES2011a_322.316_325.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5157056,
+      "stop": 5204896
+    }
+  },
+  "ES2011a_323.816_326.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5181056,
+      "stop": 5228896
+    }
+  },
+  "ES2011a_325.316_328.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5205056,
+      "stop": 5252896
+    }
+  },
+  "ES2011a_326.816_329.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5229056,
+      "stop": 5276896
+    }
+  },
+  "ES2011a_328.316_331.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5253056,
+      "stop": 5300896
+    }
+  },
+  "ES2011a_329.816_332.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5277056,
+      "stop": 5324896
+    }
+  },
+  "ES2011a_331.316_334.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5301056,
+      "stop": 5348896
+    }
+  },
+  "ES2011a_332.816_335.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5325056,
+      "stop": 5372896
+    }
+  },
+  "ES2011a_334.316_337.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5349056,
+      "stop": 5396896
+    }
+  },
+  "ES2011a_335.816_338.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5373056,
+      "stop": 5420896
+    }
+  },
+  "ES2011a_337.316_340.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5397056,
+      "stop": 5444896
+    }
+  },
+  "ES2011a_338.816_341.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5421056,
+      "stop": 5468896
+    }
+  },
+  "ES2011a_340.316_343.306": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5445056,
+      "stop": 5492896
+    }
+  },
+  "ES2011a_341.816_344.806": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5469056,
+      "stop": 5516896
+    }
+  },
+  "ES2011a_343.316_345.456": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.14,
+      "start": 5493056,
+      "stop": 5527296
+    }
+  },
+  "ES2011a_345.888_348.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5534208,
+      "stop": 5582048
+    }
+  },
+  "ES2011a_347.388_350.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5558208,
+      "stop": 5606048
+    }
+  },
+  "ES2011a_348.888_351.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5582208,
+      "stop": 5630048
+    }
+  },
+  "ES2011a_350.388_353.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5606208,
+      "stop": 5654048
+    }
+  },
+  "ES2011a_351.888_354.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5630208,
+      "stop": 5678048
+    }
+  },
+  "ES2011a_353.388_356.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5654208,
+      "stop": 5702048
+    }
+  },
+  "ES2011a_354.888_357.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5678208,
+      "stop": 5726048
+    }
+  },
+  "ES2011a_356.388_359.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5702208,
+      "stop": 5750048
+    }
+  },
+  "ES2011a_357.888_360.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5726208,
+      "stop": 5774048
+    }
+  },
+  "ES2011a_359.388_362.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5750208,
+      "stop": 5798048
+    }
+  },
+  "ES2011a_360.888_363.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5774208,
+      "stop": 5822048
+    }
+  },
+  "ES2011a_362.388_365.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5798208,
+      "stop": 5846048
+    }
+  },
+  "ES2011a_363.888_366.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5822208,
+      "stop": 5870048
+    }
+  },
+  "ES2011a_365.388_368.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5846208,
+      "stop": 5894048
+    }
+  },
+  "ES2011a_366.888_369.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5870208,
+      "stop": 5918048
+    }
+  },
+  "ES2011a_368.388_371.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5894208,
+      "stop": 5942048
+    }
+  },
+  "ES2011a_369.888_372.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5918208,
+      "stop": 5966048
+    }
+  },
+  "ES2011a_371.388_374.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5942208,
+      "stop": 5990048
+    }
+  },
+  "ES2011a_372.888_375.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5966208,
+      "stop": 6014048
+    }
+  },
+  "ES2011a_374.388_377.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 5990208,
+      "stop": 6038048
+    }
+  },
+  "ES2011a_375.888_378.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6014208,
+      "stop": 6062048
+    }
+  },
+  "ES2011a_377.388_380.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6038208,
+      "stop": 6086048
+    }
+  },
+  "ES2011a_378.888_381.36": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.472,
+      "start": 6062208,
+      "stop": 6101760
+    }
+  },
+  "ES2011a_385.744_388.734": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6171904,
+      "stop": 6219744
+    }
+  },
+  "ES2011a_387.244_389.856": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.612,
+      "start": 6195904,
+      "stop": 6237696
+    }
+  },
+  "ES2011a_394.579_397.569": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6313264,
+      "stop": 6361104
+    }
+  },
+  "ES2011a_396.079_399.069": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6337264,
+      "stop": 6385104
+    }
+  },
+  "ES2011a_397.579_400.569": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6361264,
+      "stop": 6409104
+    }
+  },
+  "ES2011a_399.079_400.912": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.833,
+      "start": 6385264,
+      "stop": 6414592
+    }
+  },
+  "ES2011a_401.36_403.776": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.416,
+      "start": 6421760,
+      "stop": 6460416
+    }
+  },
+  "ES2011a_405.296_408.286": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6484736,
+      "stop": 6532576
+    }
+  },
+  "ES2011a_406.796_409.786": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6508736,
+      "stop": 6556576
+    }
+  },
+  "ES2011a_408.296_410.752": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.456,
+      "start": 6532736,
+      "stop": 6572032
+    }
+  },
+  "ES2011a_414.02_415.44": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.42,
+      "start": 6624320,
+      "stop": 6647040
+    }
+  },
+  "ES2011a_418.96_421.95": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6703360,
+      "stop": 6751200
+    }
+  },
+  "ES2011a_420.46_423.45": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6727360,
+      "stop": 6775200
+    }
+  },
+  "ES2011a_421.96_424.88": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.92,
+      "start": 6751360,
+      "stop": 6798080
+    }
+  },
+  "ES2011a_425.888_428.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6814208,
+      "stop": 6862048
+    }
+  },
+  "ES2011a_427.388_430.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6838208,
+      "stop": 6886048
+    }
+  },
+  "ES2011a_428.888_431.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6862208,
+      "stop": 6910048
+    }
+  },
+  "ES2011a_430.388_433.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6886208,
+      "stop": 6934048
+    }
+  },
+  "ES2011a_431.888_434.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6910208,
+      "stop": 6958048
+    }
+  },
+  "ES2011a_433.388_436.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6934208,
+      "stop": 6982048
+    }
+  },
+  "ES2011a_434.888_437.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6958208,
+      "stop": 7006048
+    }
+  },
+  "ES2011a_436.388_439.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 6982208,
+      "stop": 7030048
+    }
+  },
+  "ES2011a_437.888_440.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 7006208,
+      "stop": 7054048
+    }
+  },
+  "ES2011a_439.388_442.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 7030208,
+      "stop": 7078048
+    }
+  },
+  "ES2011a_440.888_443.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 7054208,
+      "stop": 7102048
+    }
+  },
+  "ES2011a_442.388_445.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 7078208,
+      "stop": 7126048
+    }
+  },
+  "ES2011a_443.888_446.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 7102208,
+      "stop": 7150048
+    }
+  },
+  "ES2011a_445.388_448.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 7126208,
+      "stop": 7174048
+    }
+  },
+  "ES2011a_446.888_449.376": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.488,
+      "start": 7150208,
+      "stop": 7190016
+    }
+  },
+  "ES2011a_449.936_450.752": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 0.816,
+      "start": 7198976,
+      "stop": 7212032
+    }
+  },
+  "ES2011a_458.599_461.016": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.417,
+      "start": 7337584,
+      "stop": 7376256
+    }
+  },
+  "ES2011a_466.215_469.205": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 7459440,
+      "stop": 7507280
+    }
+  },
+  "ES2011a_467.715_470.705": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 7483440,
+      "stop": 7531280
+    }
+  },
+  "ES2011a_469.215_472.205": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 7507440,
+      "stop": 7555280
+    }
+  },
+  "ES2011a_470.715_473.705": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 7531440,
+      "stop": 7579280
+    }
+  },
+  "ES2011a_472.215_475.114": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.899,
+      "start": 7555440,
+      "stop": 7601824
+    }
+  },
+  "ES2011a_487.494_490.484": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 7799904,
+      "stop": 7847744
+    }
+  },
+  "ES2011a_488.994_491.984": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 7823904,
+      "stop": 7871744
+    }
+  },
+  "ES2011a_490.494_493.484": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 7847904,
+      "stop": 7895744
+    }
+  },
+  "ES2011a_491.994_494.832": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.838,
+      "start": 7871904,
+      "stop": 7917312
+    }
+  },
+  "ES2011a_496.144_499.134": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 7938304,
+      "stop": 7986144
+    }
+  },
+  "ES2011a_497.644_500.634": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 7962304,
+      "stop": 8010144
+    }
+  },
+  "ES2011a_499.144_502.134": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 7986304,
+      "stop": 8034144
+    }
+  },
+  "ES2011a_500.644_503.634": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8010304,
+      "stop": 8058144
+    }
+  },
+  "ES2011a_502.144_505.134": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8034304,
+      "stop": 8082144
+    }
+  },
+  "ES2011a_503.644_506.634": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8058304,
+      "stop": 8106144
+    }
+  },
+  "ES2011a_505.144_508.134": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8082304,
+      "stop": 8130144
+    }
+  },
+  "ES2011a_506.644_509.634": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8106304,
+      "stop": 8154144
+    }
+  },
+  "ES2011a_508.144_511.134": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8130304,
+      "stop": 8178144
+    }
+  },
+  "ES2011a_509.644_512.634": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8154304,
+      "stop": 8202144
+    }
+  },
+  "ES2011a_511.144_514.112": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.968,
+      "start": 8178304,
+      "stop": 8225791
+    }
+  },
+  "ES2011a_514.416_517.406": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8230656,
+      "stop": 8278495
+    }
+  },
+  "ES2011a_515.916_518.906": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8254656,
+      "stop": 8302495
+    }
+  },
+  "ES2011a_517.416_520.406": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8278656,
+      "stop": 8326495
+    }
+  },
+  "ES2011a_518.916_520.736": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.82,
+      "start": 8302656,
+      "stop": 8331776
+    }
+  },
+  "ES2011a_521.646_522.96": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.314,
+      "start": 8346335,
+      "stop": 8367360
+    }
+  },
+  "ES2011a_524.32_527.31": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8389120,
+      "stop": 8436960
+    }
+  },
+  "ES2011a_525.82_528.81": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8413120,
+      "stop": 8460960
+    }
+  },
+  "ES2011a_527.32_530.31": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8437120,
+      "stop": 8484960
+    }
+  },
+  "ES2011a_528.82_531.81": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8461120,
+      "stop": 8508960
+    }
+  },
+  "ES2011a_530.32_533.31": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8485120,
+      "stop": 8532960
+    }
+  },
+  "ES2011a_531.82_534.81": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8509120,
+      "stop": 8556960
+    }
+  },
+  "ES2011a_533.32_536.31": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8533120,
+      "stop": 8580960
+    }
+  },
+  "ES2011a_534.82_537.81": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8557120,
+      "stop": 8604960
+    }
+  },
+  "ES2011a_536.32_539.31": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8581120,
+      "stop": 8628960
+    }
+  },
+  "ES2011a_537.82_540.81": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8605120,
+      "stop": 8652960
+    }
+  },
+  "ES2011a_539.32_542.31": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8629120,
+      "stop": 8676960
+    }
+  },
+  "ES2011a_540.82_543.81": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8653120,
+      "stop": 8700960
+    }
+  },
+  "ES2011a_542.32_545.31": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8677120,
+      "stop": 8724960
+    }
+  },
+  "ES2011a_543.82_546.81": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8701120,
+      "stop": 8748960
+    }
+  },
+  "ES2011a_545.32_548.31": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8725120,
+      "stop": 8772960
+    }
+  },
+  "ES2011a_546.82_549.81": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8749120,
+      "stop": 8796960
+    }
+  },
+  "ES2011a_548.32_551.31": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8773120,
+      "stop": 8820960
+    }
+  },
+  "ES2011a_549.82_552.81": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8797120,
+      "stop": 8844960
+    }
+  },
+  "ES2011a_551.32_554.31": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8821120,
+      "stop": 8868960
+    }
+  },
+  "ES2011a_552.82_555.008": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.188,
+      "start": 8845120,
+      "stop": 8880128
+    }
+  },
+  "ES2011a_555.472_558.462": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8887552,
+      "stop": 8935392
+    }
+  },
+  "ES2011a_556.972_559.962": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8911552,
+      "stop": 8959392
+    }
+  },
+  "ES2011a_558.472_561.462": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8935552,
+      "stop": 8983392
+    }
+  },
+  "ES2011a_559.972_562.962": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 8959552,
+      "stop": 9007392
+    }
+  },
+  "ES2011a_561.472_563.248": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.776,
+      "start": 8983552,
+      "stop": 9011968
+    }
+  },
+  "ES2011a_567.872_570.862": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 9085952,
+      "stop": 9133792
+    }
+  },
+  "ES2011a_569.372_572.362": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 9109952,
+      "stop": 9157792
+    }
+  },
+  "ES2011a_570.872_573.862": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 9133952,
+      "stop": 9181792
+    }
+  },
+  "ES2011a_572.372_575.362": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 9157952,
+      "stop": 9205792
+    }
+  },
+  "ES2011a_573.872_576.862": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 9181952,
+      "stop": 9229792
+    }
+  },
+  "ES2011a_575.372_577.632": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.26,
+      "start": 9205952,
+      "stop": 9242112
+    }
+  },
+  "ES2011a_577.888_580.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 9246208,
+      "stop": 9294048
+    }
+  },
+  "ES2011a_579.388_582.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 9270208,
+      "stop": 9318048
+    }
+  },
+  "ES2011a_580.888_583.878": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 9294208,
+      "stop": 9342048
+    }
+  },
+  "ES2011a_582.388_585.378": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 9318208,
+      "stop": 9366048
+    }
+  },
+  "ES2011a_583.888_586.848": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.96,
+      "start": 9342208,
+      "stop": 9389568
+    }
+  },
+  "ES2011a_597.552_599.712": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.16,
+      "start": 9560832,
+      "stop": 9595392
+    }
+  },
+  "ES2011a_613.744_616.734": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 9819904,
+      "stop": 9867744
+    }
+  },
+  "ES2011a_615.244_618.234": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 9843904,
+      "stop": 9891744
+    }
+  },
+  "ES2011a_616.744_618.448": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.704,
+      "start": 9867904,
+      "stop": 9895168
+    }
+  },
+  "ES2011a_619.536_622.526": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 9912576,
+      "stop": 9960416
+    }
+  },
+  "ES2011a_621.036_624.026": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 9936576,
+      "stop": 9984416
+    }
+  },
+  "ES2011a_622.536_625.526": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 9960576,
+      "stop": 10008416
+    }
+  },
+  "ES2011a_624.036_627.026": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 9984576,
+      "stop": 10032416
+    }
+  },
+  "ES2011a_625.536_628.526": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10008576,
+      "stop": 10056416
+    }
+  },
+  "ES2011a_627.036_630.026": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10032576,
+      "stop": 10080416
+    }
+  },
+  "ES2011a_628.536_631.526": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10056576,
+      "stop": 10104416
+    }
+  },
+  "ES2011a_630.036_633.026": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10080576,
+      "stop": 10128416
+    }
+  },
+  "ES2011a_631.536_634.526": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10104576,
+      "stop": 10152416
+    }
+  },
+  "ES2011a_633.036_636.026": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10128576,
+      "stop": 10176416
+    }
+  },
+  "ES2011a_634.536_637.526": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10152576,
+      "stop": 10200416
+    }
+  },
+  "ES2011a_636.036_639.026": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10176576,
+      "stop": 10224416
+    }
+  },
+  "ES2011a_637.536_640.16": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.624,
+      "start": 10200576,
+      "stop": 10242560
+    }
+  },
+  "ES2011a_641.376_644.366": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10262016,
+      "stop": 10309856
+    }
+  },
+  "ES2011a_642.876_645.866": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10286016,
+      "stop": 10333856
+    }
+  },
+  "ES2011a_644.376_647.366": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10310016,
+      "stop": 10357856
+    }
+  },
+  "ES2011a_645.876_648.866": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10334016,
+      "stop": 10381856
+    }
+  },
+  "ES2011a_647.376_650.366": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10358016,
+      "stop": 10405856
+    }
+  },
+  "ES2011a_648.876_651.866": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10382016,
+      "stop": 10429856
+    }
+  },
+  "ES2011a_650.376_653.366": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10406016,
+      "stop": 10453856
+    }
+  },
+  "ES2011a_651.876_654.866": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10430016,
+      "stop": 10477856
+    }
+  },
+  "ES2011a_653.376_656.366": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10454016,
+      "stop": 10501856
+    }
+  },
+  "ES2011a_654.876_657.866": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10478016,
+      "stop": 10525856
+    }
+  },
+  "ES2011a_656.376_659.366": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10502016,
+      "stop": 10549856
+    }
+  },
+  "ES2011a_657.876_660.866": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10526016,
+      "stop": 10573856
+    }
+  },
+  "ES2011a_659.376_662.366": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10550016,
+      "stop": 10597856
+    }
+  },
+  "ES2011a_660.876_663.866": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10574016,
+      "stop": 10621856
+    }
+  },
+  "ES2011a_662.376_665.366": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10598016,
+      "stop": 10645856
+    }
+  },
+  "ES2011a_663.876_666.866": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10622016,
+      "stop": 10669856
+    }
+  },
+  "ES2011a_665.376_668.366": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10646016,
+      "stop": 10693856
+    }
+  },
+  "ES2011a_666.876_669.866": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10670016,
+      "stop": 10717856
+    }
+  },
+  "ES2011a_668.376_671.366": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10694016,
+      "stop": 10741856
+    }
+  },
+  "ES2011a_669.876_672.866": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10718016,
+      "stop": 10765856
+    }
+  },
+  "ES2011a_671.376_674.366": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10742016,
+      "stop": 10789856
+    }
+  },
+  "ES2011a_672.876_675.866": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10766016,
+      "stop": 10813856
+    }
+  },
+  "ES2011a_674.376_676.128": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.752,
+      "start": 10790016,
+      "stop": 10818048
+    }
+  },
+  "ES2011a_676.496_679.486": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10823936,
+      "stop": 10871776
+    }
+  },
+  "ES2011a_677.996_680.986": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10847936,
+      "stop": 10895776
+    }
+  },
+  "ES2011a_679.496_682.486": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10871936,
+      "stop": 10919776
+    }
+  },
+  "ES2011a_680.996_683.986": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10895936,
+      "stop": 10943776
+    }
+  },
+  "ES2011a_682.496_685.486": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10919936,
+      "stop": 10967776
+    }
+  },
+  "ES2011a_683.996_686.986": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10943936,
+      "stop": 10991776
+    }
+  },
+  "ES2011a_685.496_688.486": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10967936,
+      "stop": 11015776
+    }
+  },
+  "ES2011a_686.996_689.986": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 10991936,
+      "stop": 11039776
+    }
+  },
+  "ES2011a_688.496_691.486": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11015936,
+      "stop": 11063776
+    }
+  },
+  "ES2011a_689.996_692.986": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11039936,
+      "stop": 11087776
+    }
+  },
+  "ES2011a_691.496_694.486": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11063936,
+      "stop": 11111776
+    }
+  },
+  "ES2011a_692.996_695.986": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11087936,
+      "stop": 11135776
+    }
+  },
+  "ES2011a_694.496_697.486": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11111936,
+      "stop": 11159776
+    }
+  },
+  "ES2011a_695.996_698.986": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11135936,
+      "stop": 11183776
+    }
+  },
+  "ES2011a_697.496_700.486": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11159936,
+      "stop": 11207776
+    }
+  },
+  "ES2011a_698.996_701.986": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11183936,
+      "stop": 11231776
+    }
+  },
+  "ES2011a_700.496_703.486": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11207936,
+      "stop": 11255776
+    }
+  },
+  "ES2011a_701.996_704.986": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11231936,
+      "stop": 11279776
+    }
+  },
+  "ES2011a_703.496_706.08": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.584,
+      "start": 11255936,
+      "stop": 11297280
+    }
+  },
+  "ES2011a_712.864_715.072": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.208,
+      "start": 11405824,
+      "stop": 11441152
+    }
+  },
+  "ES2011a_716.176_719.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11458816,
+      "stop": 11506656
+    }
+  },
+  "ES2011a_717.676_720.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11482816,
+      "stop": 11530656
+    }
+  },
+  "ES2011a_719.176_722.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11506816,
+      "stop": 11554656
+    }
+  },
+  "ES2011a_720.676_723.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11530816,
+      "stop": 11578656
+    }
+  },
+  "ES2011a_722.176_725.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11554816,
+      "stop": 11602656
+    }
+  },
+  "ES2011a_723.676_726.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11578816,
+      "stop": 11626656
+    }
+  },
+  "ES2011a_725.176_728.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11602816,
+      "stop": 11650656
+    }
+  },
+  "ES2011a_726.676_729.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11626816,
+      "stop": 11674656
+    }
+  },
+  "ES2011a_728.176_731.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11650816,
+      "stop": 11698656
+    }
+  },
+  "ES2011a_729.676_732.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11674816,
+      "stop": 11722656
+    }
+  },
+  "ES2011a_731.176_734.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11698816,
+      "stop": 11746656
+    }
+  },
+  "ES2011a_732.676_735.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11722816,
+      "stop": 11770656
+    }
+  },
+  "ES2011a_734.176_737.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11746816,
+      "stop": 11794656
+    }
+  },
+  "ES2011a_735.676_738.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11770816,
+      "stop": 11818656
+    }
+  },
+  "ES2011a_737.176_740.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11794816,
+      "stop": 11842656
+    }
+  },
+  "ES2011a_738.676_741.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11818816,
+      "stop": 11866656
+    }
+  },
+  "ES2011a_740.176_743.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11842816,
+      "stop": 11890656
+    }
+  },
+  "ES2011a_741.676_744.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11866816,
+      "stop": 11914656
+    }
+  },
+  "ES2011a_743.176_746.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11890816,
+      "stop": 11938656
+    }
+  },
+  "ES2011a_744.676_747.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11914816,
+      "stop": 11962656
+    }
+  },
+  "ES2011a_746.176_749.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11938816,
+      "stop": 11986656
+    }
+  },
+  "ES2011a_747.676_750.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11962816,
+      "stop": 12010656
+    }
+  },
+  "ES2011a_749.176_752.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 11986816,
+      "stop": 12034656
+    }
+  },
+  "ES2011a_750.676_753.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12010816,
+      "stop": 12058656
+    }
+  },
+  "ES2011a_752.176_755.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12034816,
+      "stop": 12082656
+    }
+  },
+  "ES2011a_753.676_756.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12058816,
+      "stop": 12106656
+    }
+  },
+  "ES2011a_755.176_758.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12082816,
+      "stop": 12130656
+    }
+  },
+  "ES2011a_756.676_759.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12106816,
+      "stop": 12154656
+    }
+  },
+  "ES2011a_758.176_761.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12130816,
+      "stop": 12178656
+    }
+  },
+  "ES2011a_759.676_762.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12154816,
+      "stop": 12202656
+    }
+  },
+  "ES2011a_761.176_764.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12178816,
+      "stop": 12226656
+    }
+  },
+  "ES2011a_762.676_765.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12202816,
+      "stop": 12250656
+    }
+  },
+  "ES2011a_764.176_767.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12226816,
+      "stop": 12274656
+    }
+  },
+  "ES2011a_765.676_768.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12250816,
+      "stop": 12298656
+    }
+  },
+  "ES2011a_767.176_770.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12274816,
+      "stop": 12322656
+    }
+  },
+  "ES2011a_768.676_771.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12298816,
+      "stop": 12346656
+    }
+  },
+  "ES2011a_770.176_773.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12322816,
+      "stop": 12370656
+    }
+  },
+  "ES2011a_771.676_774.666": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12346816,
+      "stop": 12394656
+    }
+  },
+  "ES2011a_773.176_776.166": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12370816,
+      "stop": 12418656
+    }
+  },
+  "ES2011a_774.676_777.248": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.572,
+      "start": 12394816,
+      "stop": 12435968
+    }
+  },
+  "ES2011a_777.6_779.376": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.776,
+      "start": 12441600,
+      "stop": 12470016
+    }
+  },
+  "ES2011a_779.456_782.446": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12471296,
+      "stop": 12519136
+    }
+  },
+  "ES2011a_780.956_783.946": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12495296,
+      "stop": 12543136
+    }
+  },
+  "ES2011a_782.456_785.446": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12519296,
+      "stop": 12567136
+    }
+  },
+  "ES2011a_783.956_786.946": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12543296,
+      "stop": 12591136
+    }
+  },
+  "ES2011a_785.456_788.446": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12567296,
+      "stop": 12615136
+    }
+  },
+  "ES2011a_786.956_789.946": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12591296,
+      "stop": 12639136
+    }
+  },
+  "ES2011a_788.456_791.446": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12615296,
+      "stop": 12663136
+    }
+  },
+  "ES2011a_789.956_792.946": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12639296,
+      "stop": 12687136
+    }
+  },
+  "ES2011a_791.456_794.446": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12663296,
+      "stop": 12711136
+    }
+  },
+  "ES2011a_792.956_795.946": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12687296,
+      "stop": 12735136
+    }
+  },
+  "ES2011a_794.456_797.446": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12711296,
+      "stop": 12759136
+    }
+  },
+  "ES2011a_795.956_798.946": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12735296,
+      "stop": 12783136
+    }
+  },
+  "ES2011a_797.456_800.446": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12759296,
+      "stop": 12807136
+    }
+  },
+  "ES2011a_798.956_801.946": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12783296,
+      "stop": 12831136
+    }
+  },
+  "ES2011a_800.456_803.446": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12807296,
+      "stop": 12855136
+    }
+  },
+  "ES2011a_801.956_804.946": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12831296,
+      "stop": 12879136
+    }
+  },
+  "ES2011a_803.456_805.004": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.548,
+      "start": 12855296,
+      "stop": 12880064
+    }
+  },
+  "ES2011a_805.872_808.862": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12893952,
+      "stop": 12941792
+    }
+  },
+  "ES2011a_807.372_810.362": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 12917952,
+      "stop": 12965792
+    }
+  },
+  "ES2011a_808.872_810.432": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.56,
+      "start": 12941952,
+      "stop": 12966912
+    }
+  },
+  "ES2011a_811.952_813.675": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.723,
+      "start": 12991232,
+      "stop": 13018800
+    }
+  },
+  "ES2011a_814.064_816.912": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.848,
+      "start": 13025024,
+      "stop": 13070592
+    }
+  },
+  "ES2011a_818.73_821.72": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13099680,
+      "stop": 13147520
+    }
+  },
+  "ES2011a_820.23_823.22": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13123680,
+      "stop": 13171520
+    }
+  },
+  "ES2011a_821.73_824.72": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13147680,
+      "stop": 13195520
+    }
+  },
+  "ES2011a_823.23_826.22": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13171680,
+      "stop": 13219520
+    }
+  },
+  "ES2011a_824.73_827.72": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13195680,
+      "stop": 13243520
+    }
+  },
+  "ES2011a_826.23_829.22": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13219680,
+      "stop": 13267520
+    }
+  },
+  "ES2011a_827.73_830.72": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13243680,
+      "stop": 13291520
+    }
+  },
+  "ES2011a_829.23_832.22": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13267680,
+      "stop": 13315520
+    }
+  },
+  "ES2011a_830.73_833.72": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13291680,
+      "stop": 13339520
+    }
+  },
+  "ES2011a_832.23_835.22": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13315680,
+      "stop": 13363520
+    }
+  },
+  "ES2011a_833.73_836.72": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13339680,
+      "stop": 13387520
+    }
+  },
+  "ES2011a_835.23_838.22": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13363680,
+      "stop": 13411520
+    }
+  },
+  "ES2011a_836.73_839.72": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13387680,
+      "stop": 13435520
+    }
+  },
+  "ES2011a_838.23_841.22": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13411680,
+      "stop": 13459520
+    }
+  },
+  "ES2011a_839.73_842.72": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13435680,
+      "stop": 13483520
+    }
+  },
+  "ES2011a_841.23_844.22": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13459680,
+      "stop": 13507520
+    }
+  },
+  "ES2011a_842.73_845.72": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13483680,
+      "stop": 13531520
+    }
+  },
+  "ES2011a_844.23_847.22": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13507680,
+      "stop": 13555520
+    }
+  },
+  "ES2011a_845.73_848.72": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13531680,
+      "stop": 13579520
+    }
+  },
+  "ES2011a_847.23_850.22": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13555680,
+      "stop": 13603520
+    }
+  },
+  "ES2011a_848.73_851.72": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13579680,
+      "stop": 13627520
+    }
+  },
+  "ES2011a_850.23_853.22": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13603680,
+      "stop": 13651520
+    }
+  },
+  "ES2011a_851.73_854.72": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13627680,
+      "stop": 13675520
+    }
+  },
+  "ES2011a_853.23_856.22": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13651680,
+      "stop": 13699520
+    }
+  },
+  "ES2011a_854.73_857.72": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13675680,
+      "stop": 13723520
+    }
+  },
+  "ES2011a_856.23_859.22": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13699680,
+      "stop": 13747520
+    }
+  },
+  "ES2011a_857.73_860.72": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13723680,
+      "stop": 13771520
+    }
+  },
+  "ES2011a_859.23_862.22": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13747680,
+      "stop": 13795520
+    }
+  },
+  "ES2011a_860.73_863.72": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13771680,
+      "stop": 13819520
+    }
+  },
+  "ES2011a_862.23_865.22": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13795680,
+      "stop": 13843520
+    }
+  },
+  "ES2011a_863.73_866.72": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13819680,
+      "stop": 13867520
+    }
+  },
+  "ES2011a_865.23_866.88": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.65,
+      "start": 13843680,
+      "stop": 13870080
+    }
+  },
+  "ES2011a_867.056_870.046": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13872896,
+      "stop": 13920736
+    }
+  },
+  "ES2011a_868.556_871.248": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.692,
+      "start": 13896896,
+      "stop": 13939968
+    }
+  },
+  "ES2011a_871.376_874.366": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13942016,
+      "stop": 13989856
+    }
+  },
+  "ES2011a_872.876_875.866": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13966016,
+      "stop": 14013856
+    }
+  },
+  "ES2011a_874.376_877.366": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 13990016,
+      "stop": 14037856
+    }
+  },
+  "ES2011a_875.876_878.866": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14014016,
+      "stop": 14061856
+    }
+  },
+  "ES2011a_877.376_880.366": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14038016,
+      "stop": 14085856
+    }
+  },
+  "ES2011a_878.876_881.866": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14062016,
+      "stop": 14109856
+    }
+  },
+  "ES2011a_880.376_883.366": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14086016,
+      "stop": 14133856
+    }
+  },
+  "ES2011a_881.876_884.866": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14110016,
+      "stop": 14157856
+    }
+  },
+  "ES2011a_883.376_886.366": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14134016,
+      "stop": 14181856
+    }
+  },
+  "ES2011a_884.876_887.866": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14158016,
+      "stop": 14205856
+    }
+  },
+  "ES2011a_886.376_888.176": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.8,
+      "start": 14182016,
+      "stop": 14210816
+    }
+  },
+  "ES2011a_889.76_891.536": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.776,
+      "start": 14236160,
+      "stop": 14264576
+    }
+  },
+  "ES2011a_892.832_895.822": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14285312,
+      "stop": 14333152
+    }
+  },
+  "ES2011a_894.332_897.322": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14309312,
+      "stop": 14357152
+    }
+  },
+  "ES2011a_895.832_898.822": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14333312,
+      "stop": 14381152
+    }
+  },
+  "ES2011a_897.332_899.2": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.868,
+      "start": 14357312,
+      "stop": 14387200
+    }
+  },
+  "ES2011a_900.304_901.36": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.056,
+      "start": 14404864,
+      "stop": 14421760
+    }
+  },
+  "ES2011a_901.616_904.606": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14425856,
+      "stop": 14473696
+    }
+  },
+  "ES2011a_903.116_906.106": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14449856,
+      "stop": 14497696
+    }
+  },
+  "ES2011a_904.616_907.606": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14473856,
+      "stop": 14521696
+    }
+  },
+  "ES2011a_906.116_909.106": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14497856,
+      "stop": 14545696
+    }
+  },
+  "ES2011a_907.616_910.606": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14521856,
+      "stop": 14569696
+    }
+  },
+  "ES2011a_909.116_912.106": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14545856,
+      "stop": 14593696
+    }
+  },
+  "ES2011a_910.616_913.606": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14569856,
+      "stop": 14617696
+    }
+  },
+  "ES2011a_912.116_915.106": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14593856,
+      "stop": 14641696
+    }
+  },
+  "ES2011a_913.616_916.606": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14617856,
+      "stop": 14665696
+    }
+  },
+  "ES2011a_915.116_918.106": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14641856,
+      "stop": 14689696
+    }
+  },
+  "ES2011a_916.616_919.606": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14665856,
+      "stop": 14713696
+    }
+  },
+  "ES2011a_918.116_921.106": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14689856,
+      "stop": 14737696
+    }
+  },
+  "ES2011a_919.616_922.606": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14713856,
+      "stop": 14761696
+    }
+  },
+  "ES2011a_921.116_924.106": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14737856,
+      "stop": 14785696
+    }
+  },
+  "ES2011a_922.616_925.606": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14761856,
+      "stop": 14809696
+    }
+  },
+  "ES2011a_924.116_927.106": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14785856,
+      "stop": 14833696
+    }
+  },
+  "ES2011a_925.616_928.606": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14809856,
+      "stop": 14857696
+    }
+  },
+  "ES2011a_927.116_930.106": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14833856,
+      "stop": 14881696
+    }
+  },
+  "ES2011a_928.616_931.606": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14857856,
+      "stop": 14905696
+    }
+  },
+  "ES2011a_930.116_933.106": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14881856,
+      "stop": 14929696
+    }
+  },
+  "ES2011a_931.616_934.606": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14905856,
+      "stop": 14953696
+    }
+  },
+  "ES2011a_933.116_936.106": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14929856,
+      "stop": 14977696
+    }
+  },
+  "ES2011a_934.616_937.606": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 14953856,
+      "stop": 15001696
+    }
+  },
+  "ES2011a_936.116_938.848": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.732,
+      "start": 14977856,
+      "stop": 15021568
+    }
+  },
+  "ES2011a_940.624_943.614": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15049984,
+      "stop": 15097824
+    }
+  },
+  "ES2011a_942.124_945.114": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15073984,
+      "stop": 15121824
+    }
+  },
+  "ES2011a_943.624_946.614": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15097984,
+      "stop": 15145824
+    }
+  },
+  "ES2011a_945.124_948.114": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15121984,
+      "stop": 15169824
+    }
+  },
+  "ES2011a_946.624_949.614": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15145984,
+      "stop": 15193824
+    }
+  },
+  "ES2011a_948.124_951.114": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15169984,
+      "stop": 15217824
+    }
+  },
+  "ES2011a_949.624_951.568": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.944,
+      "start": 15193984,
+      "stop": 15225088
+    }
+  },
+  "ES2011a_952.864_955.854": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15245824,
+      "stop": 15293664
+    }
+  },
+  "ES2011a_954.364_957.354": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15269824,
+      "stop": 15317664
+    }
+  },
+  "ES2011a_955.864_958.688": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.824,
+      "start": 15293824,
+      "stop": 15339008
+    }
+  },
+  "ES2011a_960.192_963.182": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15363072,
+      "stop": 15410912
+    }
+  },
+  "ES2011a_961.692_964.682": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15387072,
+      "stop": 15434912
+    }
+  },
+  "ES2011a_963.192_966.182": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15411072,
+      "stop": 15458912
+    }
+  },
+  "ES2011a_964.692_967.682": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15435072,
+      "stop": 15482912
+    }
+  },
+  "ES2011a_966.192_969.182": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15459072,
+      "stop": 15506912
+    }
+  },
+  "ES2011a_967.692_970.682": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15483072,
+      "stop": 15530912
+    }
+  },
+  "ES2011a_969.192_972.182": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15507072,
+      "stop": 15554912
+    }
+  },
+  "ES2011a_970.692_973.682": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15531072,
+      "stop": 15578912
+    }
+  },
+  "ES2011a_972.192_975.182": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15555072,
+      "stop": 15602912
+    }
+  },
+  "ES2011a_973.692_976.682": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15579072,
+      "stop": 15626912
+    }
+  },
+  "ES2011a_975.192_976.832": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.64,
+      "start": 15603072,
+      "stop": 15629312
+    }
+  },
+  "ES2011a_980.72_983.71": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15691520,
+      "stop": 15739360
+    }
+  },
+  "ES2011a_982.22_985.21": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15715520,
+      "stop": 15763360
+    }
+  },
+  "ES2011a_983.72_986.71": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15739520,
+      "stop": 15787360
+    }
+  },
+  "ES2011a_985.22_988.21": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15763520,
+      "stop": 15811360
+    }
+  },
+  "ES2011a_986.72_988.688": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.968,
+      "start": 15787520,
+      "stop": 15819008
+    }
+  },
+  "ES2011a_989.184_990.096": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 0.912,
+      "start": 15826944,
+      "stop": 15841536
+    }
+  },
+  "ES2011a_991.52_992.928": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.408,
+      "start": 15864320,
+      "stop": 15886848
+    }
+  },
+  "ES2011a_993.628_994.331": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 0.703,
+      "start": 15898048,
+      "stop": 15909296
+    }
+  },
+  "ES2011a_997.302_1000.292": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15956832,
+      "stop": 16004672
+    }
+  },
+  "ES2011a_998.802_1001.792": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 15980832,
+      "stop": 16028672
+    }
+  },
+  "ES2011a_1000.302_1003.292": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16004832,
+      "stop": 16052672
+    }
+  },
+  "ES2011a_1001.802_1004.792": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16028832,
+      "stop": 16076672
+    }
+  },
+  "ES2011a_1003.302_1006.292": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16052832,
+      "stop": 16100672
+    }
+  },
+  "ES2011a_1004.802_1007.792": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16076832,
+      "stop": 16124672
+    }
+  },
+  "ES2011a_1006.302_1009.292": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16100832,
+      "stop": 16148672
+    }
+  },
+  "ES2011a_1007.802_1010.792": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16124832,
+      "stop": 16172672
+    }
+  },
+  "ES2011a_1009.302_1012.292": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16148832,
+      "stop": 16196672
+    }
+  },
+  "ES2011a_1010.802_1013.328": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.526,
+      "start": 16172832,
+      "stop": 16213248
+    }
+  },
+  "ES2011a_1014.912_1015.68": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 0.768,
+      "start": 16238592,
+      "stop": 16250880
+    }
+  },
+  "ES2011a_1017.36_1018.8": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.44,
+      "start": 16277760,
+      "stop": 16300800
+    }
+  },
+  "ES2011a_1019.872_1022.862": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16317952,
+      "stop": 16365792
+    }
+  },
+  "ES2011a_1021.372_1024.362": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16341952,
+      "stop": 16389792
+    }
+  },
+  "ES2011a_1022.872_1025.862": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16365952,
+      "stop": 16413792
+    }
+  },
+  "ES2011a_1024.372_1027.362": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16389952,
+      "stop": 16437792
+    }
+  },
+  "ES2011a_1025.872_1028.862": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16413952,
+      "stop": 16461792
+    }
+  },
+  "ES2011a_1027.372_1030.362": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16437952,
+      "stop": 16485792
+    }
+  },
+  "ES2011a_1028.872_1031.862": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16461952,
+      "stop": 16509792
+    }
+  },
+  "ES2011a_1030.372_1033.362": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16485952,
+      "stop": 16533792
+    }
+  },
+  "ES2011a_1031.872_1034.862": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16509952,
+      "stop": 16557792
+    }
+  },
+  "ES2011a_1033.372_1036.016": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.644,
+      "start": 16533952,
+      "stop": 16576256
+    }
+  },
+  "ES2011a_1037.424_1040.414": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16598784,
+      "stop": 16646624
+    }
+  },
+  "ES2011a_1038.924_1041.914": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16622784,
+      "stop": 16670624
+    }
+  },
+  "ES2011a_1040.424_1043.414": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16646784,
+      "stop": 16694624
+    }
+  },
+  "ES2011a_1041.924_1044.914": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16670784,
+      "stop": 16718624
+    }
+  },
+  "ES2011a_1043.424_1045.68": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.256,
+      "start": 16694784,
+      "stop": 16730880
+    }
+  },
+  "ES2011a_1047.776_1050.766": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16764416,
+      "stop": 16812256
+    }
+  },
+  "ES2011a_1049.276_1052.266": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16788416,
+      "stop": 16836256
+    }
+  },
+  "ES2011a_1050.776_1053.766": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16812416,
+      "stop": 16860256
+    }
+  },
+  "ES2011a_1052.276_1055.266": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16836416,
+      "stop": 16884256
+    }
+  },
+  "ES2011a_1053.776_1056.766": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16860416,
+      "stop": 16908256
+    }
+  },
+  "ES2011a_1055.276_1058.266": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16884416,
+      "stop": 16932256
+    }
+  },
+  "ES2011a_1056.776_1059.766": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 16908416,
+      "stop": 16956256
+    }
+  },
+  "ES2011a_1058.276_1059.824": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.548,
+      "start": 16932416,
+      "stop": 16957184
+    }
+  },
+  "ES2011a_1060.864_1063.792": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.928,
+      "start": 16973824,
+      "stop": 17020672
+    }
+  },
+  "ES2011a_1063.872_1066.862": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17021952,
+      "stop": 17069792
+    }
+  },
+  "ES2011a_1065.372_1068.362": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17045952,
+      "stop": 17093792
+    }
+  },
+  "ES2011a_1066.872_1069.862": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17069952,
+      "stop": 17117792
+    }
+  },
+  "ES2011a_1068.372_1071.362": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17093952,
+      "stop": 17141792
+    }
+  },
+  "ES2011a_1069.872_1072.53": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.658,
+      "start": 17117952,
+      "stop": 17160480
+    }
+  },
+  "ES2011a_1074.192_1077.182": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17187072,
+      "stop": 17234912
+    }
+  },
+  "ES2011a_1075.692_1078.682": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17211072,
+      "stop": 17258912
+    }
+  },
+  "ES2011a_1077.192_1080.182": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17235072,
+      "stop": 17282912
+    }
+  },
+  "ES2011a_1078.692_1081.682": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17259072,
+      "stop": 17306912
+    }
+  },
+  "ES2011a_1080.192_1083.182": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17283072,
+      "stop": 17330912
+    }
+  },
+  "ES2011a_1081.692_1084.682": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17307072,
+      "stop": 17354912
+    }
+  },
+  "ES2011a_1083.192_1086.182": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17331072,
+      "stop": 17378912
+    }
+  },
+  "ES2011a_1084.692_1087.682": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17355072,
+      "stop": 17402912
+    }
+  },
+  "ES2011a_1086.192_1089.182": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17379072,
+      "stop": 17426912
+    }
+  },
+  "ES2011a_1087.692_1090.682": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17403072,
+      "stop": 17450912
+    }
+  },
+  "ES2011a_1089.192_1091.712": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.52,
+      "start": 17427072,
+      "stop": 17467392
+    }
+  },
+  "ES2011a_1092.006_1092.576": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 0.57,
+      "start": 17472096,
+      "stop": 17481216
+    }
+  },
+  "ES2011a_1092.72_1095.71": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17483520,
+      "stop": 17531360
+    }
+  },
+  "ES2011a_1094.22_1096.208": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 1.988,
+      "start": 17507520,
+      "stop": 17539328
+    }
+  },
+  "ES2011a_1096.848_1099.838": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17549568,
+      "stop": 17597408
+    }
+  },
+  "ES2011a_1098.348_1100.464": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.116,
+      "start": 17573568,
+      "stop": 17607424
+    }
+  },
+  "ES2011a_1102.48_1105.47": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17639680,
+      "stop": 17687520
+    }
+  },
+  "ES2011a_1103.98_1106.97": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17663680,
+      "stop": 17711520
+    }
+  },
+  "ES2011a_1105.48_1108.47": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17687680,
+      "stop": 17735520
+    }
+  },
+  "ES2011a_1106.98_1109.97": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.99,
+      "start": 17711680,
+      "stop": 17759520
+    }
+  },
+  "ES2011a_1108.48_1110.752": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 2.272,
+      "start": 17735680,
+      "stop": 17772032
+    }
+  },
+  "ES2011a_1112.992_1113.84": {
+    "wav": {
+      "file": "/home/DATA/amit_kesari/AMI-diarization-setup/pyannote/amicorpus//ES2011a/audio/ES2011a.Mix-Headset.wav",
+      "duration": 0.848,
+      "start": 17807872,
+      "stop": 17821440
+    }
+  }
+}

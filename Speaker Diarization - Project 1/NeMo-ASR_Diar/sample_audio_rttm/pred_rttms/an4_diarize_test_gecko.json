@@ -1,0 +1,73 @@
+{
+    "schemaVersion": 2.0,
+    "monologues": [
+        {
+            "speaker": {
+                "name": null,
+                "id": "speaker_0"
+            },
+            "terms": [
+                {
+                    "start": 0.4,
+                    "end": 0.84,
+                    "text": "eleven",
+                    "type": "WORD"
+                },
+                {
+                    "start": 0.98,
+                    "end": 1.34,
+                    "text": "twenty",
+                    "type": "WORD"
+                },
+                {
+                    "start": 1.38,
+                    "end": 1.9,
+                    "text": "seven",
+                    "type": "WORD"
+                },
+                {
+                    "start": 1.98,
+                    "end": 2.32,
+                    "text": "fifty",
+                    "type": "WORD"
+                },
+                {
+                    "start": 2.36,
+                    "end": 3.08,
+                    "text": "seven",
+                    "type": "WORD"
+                },
+                {
+                    "start": 3.18,
+                    "end": 3.58,
+                    "text": "october",
+                    "type": "WORD"
+                },
+                {
+                    "start": 3.62,
+                    "end": 3.88,
+                    "text": "twenty",
+                    "type": "WORD"
+                },
+                {
+                    "start": 3.92,
+                    "end": 4.16,
+                    "text": "fourth",
+                    "type": "WORD"
+                },
+                {
+                    "start": 4.3,
+                    "end": 4.64,
+                    "text": "nineteen",
+                    "type": "WORD"
+                },
+                {
+                    "start": 4.66,
+                    "end": 5.02,
+                    "text": "seventy",
+                    "type": "WORD"
+                }
+            ]
+        }
+    ]
+}

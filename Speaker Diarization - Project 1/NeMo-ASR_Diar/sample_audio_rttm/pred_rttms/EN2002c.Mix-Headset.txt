@@ -1,0 +1,1726 @@
+[00:23.08 - 00:49.24] speaker_3: es it es
+[00:49.26 - 00:53.10] speaker_1: comments
+[00:53.18 - 00:53.34] speaker_2: did
+[00:53.34 - 00:53.44] speaker_3: you
+[00:53.46 - 00:53.62] speaker_2: get
+[00:53.66 - 00:53.88] speaker_3: sam
+[00:53.90 - 00:54.06] speaker_1: out
+[00:54.06 - 00:54.24] speaker_2: ten
+[00:54.24 - 00:54.38] speaker_1: for
+[00:54.40 - 00:57.14] speaker_2: yilyh
+[00:57.14 - 01:01.28] speaker_0: goini
+[01:01.34 - 01:01.68] speaker_1: oh
+[01:01.72 - 01:02.12] speaker_3: oky
+[01:02.16 - 01:07.56] speaker_0: okaxcellen
+[01:07.60 - 01:31.82] speaker_2: iget
+[01:31.84 - 01:32.02] speaker_1: ta
+[01:32.06 - 01:32.16] speaker_3: us
+[01:32.18 - 01:32.32] speaker_1: said
+[01:32.32 - 01:32.44] speaker_2: the
+[01:32.46 - 01:32.84] speaker_1: samethings
+[01:32.86 - 01:32.96] speaker_2: he
+[01:32.98 - 01:33.10] speaker_1: just
+[01:33.12 - 01:33.24] speaker_3: said
+[01:33.26 - 01:44.10] speaker_1: to his
+[01:44.10 - 01:44.20] speaker_2: how
+[01:44.22 - 01:44.36] speaker_1: we're
+[01:44.36 - 01:44.58] speaker_0: getting
+[01:44.60 - 01:47.58] speaker_2: alongmad
+[01:48.32 - 01:48.42] speaker_3: one
+[01:48.62 - 01:48.76] speaker_2: thing
+[01:48.82 - 01:48.92] speaker_3: that
+[01:49.00 - 01:49.04] speaker_2: i
+[01:49.28 - 01:49.36] speaker_0: was
+[01:49.60 - 01:55.16] speaker_1: wondering is ther standard control that you used to connect the
+[01:55.22 - 01:55.52] speaker_2: different
+[01:55.90 - 01:56.08] speaker_1: things
+[01:56.14 - 01:56.26] speaker_2: like
+[01:56.38 - 01:58.30] speaker_1: you'rin the topic hat goesnighly to the topic
+[01:58.48 - 01:58.54] speaker_2: in
+[01:58.62 - 01:59.42] speaker_1: the text
+[01:59.54 - 01:59.60] speaker_2: or
+[01:59.66 - 02:01.68] speaker_1: whatever is their particular type of control
+[02:01.82 - 02:01.92] speaker_2: that
+[02:02.04 - 02:06.38] speaker_1: plinkes ar one of these anext orsering home um mik control
+[02:06.54 - 02:09.06] speaker_0: noingi there is just because
+[02:09.20 - 02:09.28] speaker_1: u'm
+[02:10.22 - 02:10.30] speaker_0: the
+[02:11.18 - 02:11.26] speaker_2: the
+[02:11.38 - 02:14.04] speaker_0: topic books and all this ism
+[02:14.58 - 02:14.64] speaker_2: is
+[02:14.80 - 02:15.18] speaker_0: based on
+[02:15.40 - 02:16.52] speaker_2: um what
+[02:16.62 - 02:16.90] speaker_1: was it
+[02:17.00 - 02:23.36] speaker_0: called nomnonite texeaor somethin am
+[02:24.10 - 02:24.16] speaker_1: it
+[02:24.24 - 02:26.08] speaker_0: has some sort of highlighting stuff there
+[02:26.32 - 02:26.40] speaker_2: so
+[02:26.86 - 02:35.16] speaker_0: you should probably look at the
+[02:35.38 - 02:35.50] speaker_2: i'm
+[02:35.52 - 02:35.64] speaker_0: not
+[02:35.66 - 02:35.78] speaker_2: sure
+[02:35.82 - 02:38.46] speaker_0: of hit's indelt day to be honest
+[02:38.48 - 02:40.82] speaker_1: you haven't had to build any new windows
+[02:40.98 - 02:41.04] speaker_2: to
+[02:41.10 - 02:51.42] speaker_1: do that sort of thing like other topics sir what we're going to do it for speaker i guess nd all the restaurant we  oh un kay mom when we talk about speaker characterization how
+[02:51.46 - 02:51.54] speaker_2: are
+[02:51.60 - 02:53.26] speaker_1: we acsessing the list of speakers
+[02:53.36 - 02:53.46] speaker_2: that
+[02:53.68 - 02:54.86] speaker_3: evens do bel that see
+[02:54.92 - 02:55.00] speaker_1: um
+[02:56.16 - 02:58.24] speaker_3: this beun the data processing is fine
+[02:58.32 - 02:58.40] speaker_2: but
+[02:58.54 - 02:59.40] speaker_3: iwhoutd i particularly
+[02:59.42 - 02:59.94] speaker_1: want to do the
+[03:00.36 - 03:01.06] speaker_2: the the
+[03:01.26 - 03:03.00] speaker_0: the guoey for it you don't
+[03:03.30 - 03:05.70] speaker_3: e hsoyoantyi
+[03:05.72 - 03:07.88] speaker_0: was thinking bou hen on tell
+[03:07.90 - 03:07.96] speaker_2: me
+[03:08.06 - 03:08.14] speaker_1: how
+[03:08.24 - 03:12.78] speaker_3: you want e day to presented oe that caus tom mes tell you that minment
+[03:12.84 - 03:13.16] speaker_1: th the
+[03:13.42 - 03:13.50] speaker_2: the
+[03:14.10 - 03:14.36] speaker_3: there
+[03:14.42 - 03:14.48] speaker_2: is
+[03:14.72 - 03:18.48] speaker_3: of gratitude classes one that ropter speakers on the represents
+[03:18.60 - 03:18.68] speaker_2: the
+[03:18.76 - 03:22.88] speaker_3: meetings and the meet and the information about both is contained within each object
+[03:22.96 - 03:23.10] speaker_1: so
+[03:23.50 - 03:25.24] speaker_3: and then they writes objects and
+[03:25.30 - 03:25.38] speaker_1: the
+[03:25.46 - 03:26.32] speaker_3: objects contain
+[03:26.38 - 03:26.50] speaker_1: all
+[03:26.52 - 03:36.80] speaker_3: the information about the meetings and the speakers so that who the speakers that are at the meetings and they mountly speak and then the averages are contained with the speakers of the two separate clasisters
+[03:36.86 - 03:38.02] speaker_0: onkoka
+[03:38.06 - 03:41.50] speaker_3: and ther alac thei two different objects and he can re it can rightly righes
+[03:41.56 - 03:41.64] speaker_2: the
+[03:41.70 - 03:43.34] speaker_3: objects and when he call the objects back
+[03:43.48 - 03:43.56] speaker_2: and
+[03:43.62 - 03:43.72] speaker_1: they
+[03:43.80 - 03:46.30] speaker_3: h those returned objects have all the information
+[03:46.42 - 03:46.52] speaker_2: that
+[03:46.60 - 03:49.10] speaker_3: they need and then you can call methods to return whatever
+[03:49.16 - 03:49.24] speaker_1: you
+[03:49.30 - 03:49.78] speaker_3: want
+[03:49.96 - 03:50.26] speaker_0: okay
+[03:50.40 - 03:50.50] speaker_2: yeah
+[03:50.58 - 03:51.26] speaker_0: i see like me
+[03:51.32 - 03:51.88] speaker_3: orl everything
+[03:51.96 - 03:52.04] speaker_2: but
+[03:52.12 - 03:52.88] speaker_3: that's wha i wanted to
+[03:52.90 - 03:53.00] speaker_1: know
+[03:53.08 - 03:55.20] speaker_3: how what's the easiest way to hvet
+[03:55.24 - 03:55.32] speaker_2: so
+[03:55.54 - 03:59.38] speaker_0: um have you already calculated lest dates i want i esp
+[03:59.44 - 04:01.84] speaker_3: oiseo the old khirac
+[04:02.26 - 04:02.38] speaker_1: and
+[04:02.42 - 04:04.80] speaker_3: all story objects said the object firs
+[04:04.88 - 04:05.78] speaker_1: a anchor
+[04:06.24 - 04:08.66] speaker_3: which meyo just recalled the inour nolk cinstructor
+[04:08.70 - 04:09.12] speaker_1: and call
+[04:09.14 - 04:11.68] speaker_3: the load thinking called it that he can crare list
+[04:11.70 - 04:11.76] speaker_1: of
+[04:11.84 - 04:13.96] speaker_3: the more inpective of the more what we wanted
+[04:14.62 - 04:14.90] speaker_1: and then
+[04:15.30 - 04:18.34] speaker_3: we'll just go to one at a time to popular at window but that's what i want to tell how
+[04:18.52 - 04:18.94] speaker_1: how what
+[04:19.00 - 04:21.60] speaker_3: format do you want the date to come back in cause
+[04:21.64 - 04:21.92] speaker_1: it can
+[04:22.08 - 04:29.38] speaker_3: come back asaingmon
+[04:29.42 - 04:29.76] speaker_0: ahel
+[04:29.78 - 04:29.92] speaker_3: like
+[04:29.96 - 04:36.70] speaker_1: when he was talking about like haven architecture that things are going to plug into yeth i mean so the things are all modular i mean it would be good idea if we used that same idea
+[04:36.78 - 04:36.86] speaker_2: for
+[04:37.10 - 04:41.78] speaker_1: anything else we do on what else are we doing oh yes even the searches or whatever
+[04:41.98 - 04:42.04] speaker_2: an
+[04:42.14 - 04:42.24] speaker_1: just
+[04:42.40 - 04:42.58] speaker_3: yea
+[04:42.64 - 04:50.40] speaker_1: kiyin yo sort of thing i mean search results if hey're all in a predictable thing with a name certain propeties are listed properties of eur whneveryethom
+[04:50.42 - 04:52.80] speaker_3: yet so am
+[04:53.00 - 04:53.12] speaker_2: is
+[04:53.16 - 04:54.08] speaker_3: ikin have it so
+[04:54.10 - 04:54.20] speaker_2: that
+[04:54.28 - 04:54.94] speaker_3: it returns
+[04:55.06 - 04:55.14] speaker_1: you
+[04:55.48 - 04:55.52] speaker_2: a
+[04:56.14 - 04:56.34] speaker_1: is at
+[04:56.40 - 04:58.30] speaker_3: the moment the main data structures
+[04:58.42 - 04:58.52] speaker_1: are
+[04:59.22 - 05:00.06] speaker_3: t hash tables
+[05:00.22 - 05:00.30] speaker_2: for
+[05:00.36 - 05:00.44] speaker_1: the
+[05:00.50 - 05:00.94] speaker_3: meetings
+[05:01.14 - 05:01.24] speaker_1: that
+[05:01.38 - 05:02.64] speaker_3: say it's got
+[05:02.70 - 05:02.78] speaker_1: one
+[05:02.84 - 05:13.80] speaker_3: that sis percent is qalle percent talk once percent noise and one is percent bot is plation to so means and then it's got inside it's got a link o it's got a it's gotlen speakers name
+[05:13.96 - 05:14.04] speaker_2: and
+[05:14.10 - 05:14.20] speaker_1: then
+[05:14.28 - 05:16.10] speaker_3: it's got their percentage for that thing
+[05:16.30 - 05:16.36] speaker_2: ah
+[05:16.62 - 05:16.72] speaker_1: yeah
+[05:16.94 - 05:17.00] speaker_2: so
+[05:17.08 - 05:17.64] speaker_3: i can neither come
+[05:17.66 - 05:17.76] speaker_2: back
+[05:17.82 - 05:19.04] speaker_3: as you can have the has table
+[05:19.14 - 05:19.22] speaker_1: or
+[05:19.28 - 05:21.28] speaker_3: you can have it returned as a vector
+[05:21.34 - 05:21.42] speaker_2: and
+[05:21.48 - 05:29.58] speaker_3: it will say noise it s just a string noise ax per cent you will say victoress cwadela whatever
+[05:29.88 - 05:29.96] speaker_1: you
+[05:29.98 - 05:30.34] speaker_3: can either
+[05:30.38 - 05:31.28] speaker_1: have you
+[05:31.32 - 05:35.10] speaker_3: can even have akitty haver lock anybedded invectorr array of strings
+[05:35.16 - 05:35.22] speaker_2: in
+[05:35.32 - 05:35.46] speaker_0: each
+[05:35.52 - 05:35.60] speaker_1: one
+[05:35.72 - 05:40.88] speaker_3: represents one person wherever i want who thesee
+[05:40.92 - 05:42.30] speaker_0: es blamen i can do it
+[05:42.82 - 05:45.30] speaker_1: ianous manner deciding what we
+[05:45.48 - 05:45.54] speaker_2: at
+[05:45.66 - 05:50.02] speaker_1: would be easiest yeah you get allthe way round
+[05:50.04 - 05:50.24] speaker_3: so
+[05:50.26 - 05:52.16] speaker_0: what we'll whenever
+[05:52.22 - 05:52.30] speaker_1: we
+[05:52.42 - 05:59.54] speaker_0: open a window for one speaker
+[05:59.58 - 05:59.70] speaker_1: see
+[05:59.74 - 05:59.92] speaker_2: that's
+[05:59.94 - 06:01.96] speaker_3: the how do we
+[06:02.22 - 06:02.56] speaker_2: cannot
+[06:02.60 - 06:07.10] speaker_3: look at igan
+[06:07.12 - 06:07.24] speaker_2: if
+[06:07.28 - 06:08.00] speaker_3: it's in that
+[06:08.10 - 06:09.12] speaker_0: formatyes it
+[06:09.26 - 06:09.70] speaker_3: speaker
+[06:09.76 - 06:11.04] speaker_0: petty much e
+[06:11.16 - 06:17.34] speaker_3: spek spekrouly consrolin thing not yet yes
+[06:17.62 - 06:17.68] speaker_2: so
+[06:17.80 - 06:21.34] speaker_3: all of this all that's calculated as well still to speak objects
+[06:21.40 - 06:21.48] speaker_2: oh
+[06:21.54 - 06:21.76] speaker_0: isn't
+[06:21.94 - 06:26.30] speaker_3: yet le said tus easy some who go amusing actually the the influenceso
+[06:26.64 - 06:26.72] speaker_1: had
+[06:26.84 - 06:30.10] speaker_3: lived in germany for six months thounh know if i had any effect to spend too much
+[06:30.16 - 06:30.28] speaker_1: time
+[06:30.36 - 06:38.74] speaker_3: talking to brits witho ey w the
+[06:38.78 - 06:39.02] speaker_0: so
+[06:39.04 - 06:40.88] speaker_3: then til van is calculated
+[06:41.22 - 06:41.32] speaker_1: as
+[06:41.40 - 06:54.32] speaker_3: well all asterdays get the dialoge acen ainedicaem
+[06:54.36 - 06:54.44] speaker_1: so
+[06:54.54 - 06:54.64] speaker_3: then
+[06:54.86 - 06:55.06] speaker_2: does
+[06:55.10 - 06:58.12] speaker_3: this powrders this how is this box populated as it populated by
+[06:58.14 - 06:58.22] speaker_1: the
+[06:58.30 - 07:01.06] speaker_3: one present or the one highlighted
+[07:01.14 - 07:01.46] speaker_2: then
+[07:01.50 - 07:02.18] speaker_0: the one present
+[07:02.30 - 07:02.38] speaker_2: the
+[07:02.48 - 07:03.32] speaker_3: one pesent
+[07:03.38 - 07:05.70] speaker_0: although we get itm
+[07:05.74 - 07:05.82] speaker_1: you
+[07:05.90 - 07:06.04] speaker_2: could
+[07:06.08 - 07:06.14] speaker_0: do
+[07:06.20 - 07:06.28] speaker_1: the
+[07:06.36 - 07:09.32] speaker_0: one highlighted i suppaise
+[07:09.46 - 07:09.60] speaker_2: cause
+[07:09.64 - 07:19.02] speaker_3: at the moment i'm using there is there are methods that say um fothe flo using for othe tosich presidents says like get get told time
+[07:19.06 - 07:19.14] speaker_1: and
+[07:19.22 - 07:22.14] speaker_3: you detect your name so that  that would call
+[07:22.16 - 07:22.28] speaker_2: that
+[07:22.60 - 07:28.04] speaker_3: and call the meetings method that had returned ther and that were popu like that whiul would be an easy thing tohm
+[07:28.24 - 07:28.30] speaker_2: um
+[07:28.70 - 07:29.00] speaker_1: anyo
+[07:29.02 - 07:29.34] speaker_3: side for
+[07:29.36 - 07:30.20] speaker_0: them i mean that would
+[07:30.54 - 07:30.64] speaker_1: that
+[07:30.70 - 07:31.22] speaker_0: would be
+[07:32.16 - 07:32.22] speaker_2: um
+[07:32.58 - 07:33.08] speaker_0: implementing
+[07:33.12 - 07:33.22] speaker_2: what
+[07:33.30 - 07:34.08] speaker_0: he said that
+[07:34.22 - 07:34.38] speaker_1: you
+[07:34.46 - 07:38.58] speaker_0: want to see per topic you want to see which one spoken most something likhat
+[07:38.88 - 07:38.94] speaker_2: so
+[07:39.02 - 07:39.10] speaker_1: you
+[07:39.18 - 07:39.30] speaker_0: could
+[07:39.66 - 07:39.74] speaker_1: you
+[07:39.80 - 07:41.92] speaker_0: could szop through these topics
+[07:42.02 - 07:42.50] speaker_3: misting
+[07:42.64 - 07:44.20] speaker_0: a meeting sirry
+[07:44.22 - 07:44.32] speaker_1: and
+[07:44.44 - 07:44.50] speaker_2: um
+[07:45.22 - 07:45.58] speaker_0: en it would
+[07:45.64 - 07:45.74] speaker_1: come
+[07:45.80 - 07:45.86] speaker_2: up
+[07:45.96 - 07:46.58] speaker_1: with how much they
+[07:46.64 - 07:48.32] speaker_0: spoke and ye can pick the one that
+[07:48.34 - 07:50.74] speaker_3: yet yea yes that'll be easy as ois
+[07:50.76 - 07:51.22] speaker_0: yo e
+[07:51.26 - 07:53.38] speaker_3: othing yeak so li'll just leave
+[07:53.50 - 07:53.56] speaker_2: in
+[07:53.72 - 07:56.62] speaker_3: lots of methods that thet'll just return one number
+[07:57.16 - 07:57.38] speaker_0: yeah
+[07:57.72 - 07:58.82] speaker_3: dwdsis wather
+[07:58.84 - 08:00.22] speaker_0: you yeah definitely
+[08:00.46 - 08:01.74] speaker_3: a theh
+[08:01.74 - 08:06.98] speaker_0: so yeah random things like just return talkin time yet
+[08:07.02 - 08:11.74] speaker_3: get to auto
+[08:11.78 - 08:11.88] speaker_0: yeah
+[08:12.18 - 08:12.24] speaker_2: so
+[08:12.40 - 08:12.54] speaker_0: each
+[08:12.56 - 08:12.68] speaker_2: time
+[08:12.70 - 08:14.36] speaker_1: ar you e going straight to the x mal fils
+[08:14.48 - 08:14.86] speaker_2: for for
+[08:14.92 - 08:15.66] speaker_1: the information are
+[08:15.78 - 08:23.40] speaker_3: not stort as an object fir it praces a whole lot of flawan opeaes an meset and then they're much much smaller than only latter one  without
+[08:23.56 - 08:23.74] speaker_1: one
+[08:23.82 - 08:24.08] speaker_3: k
+[08:24.22 - 08:25.44] speaker_1: sut's all just preprocessed
+[08:25.54 - 08:35.00] speaker_3: the aol precronces and then its just tese o t objects col oreturn bon o return methods yet to gree create the object it's called load method so what you do is you call the nul constructor cause
+[08:35.42 - 08:35.48] speaker_2: if
+[08:35.54 - 08:35.62] speaker_1: you
+[08:35.68 - 08:39.40] speaker_3: call the proper constructor for each meeting it goes off and does all the processing installs
+[08:39.46 - 08:41.80] speaker_1: onoe and then um if
+[08:41.84 - 08:42.16] speaker_3: you call
+[08:42.22 - 08:42.28] speaker_1: an
+[08:42.34 - 08:46.26] speaker_3: all constructor then you pluc al load and you can call e load am whatever one
+[08:46.32 - 08:46.38] speaker_2: or
+[08:46.48 - 08:46.86] speaker_3: all of them
+[08:46.96 - 08:47.02] speaker_1: or
+[08:47.20 - 08:47.48] speaker_3: anything
+[08:47.50 - 08:53.58] speaker_1: like that this is is it for the entire corpus or is yet ast like individual ones like one flaunt one object
+[08:53.62 - 08:55.22] speaker_3: for one on deffhree etween teen mints
+[08:55.34 - 08:55.80] speaker_1: i won't each
+[08:55.88 - 08:57.98] speaker_3: meeting wel a yeah yeah
+[08:58.46 - 09:03.14] speaker_1: wonder if that would be useful for some of the other stuff we're doing well
+[09:03.60 - 09:03.76] speaker_2: it's
+[09:03.80 - 09:10.62] speaker_3: just it tells you who participated at the moment t it has you ha participated in the amounts of particilatic maacar impercentages and
+[09:10.66 - 09:13.86] speaker_0: in times we kee put in there what topic we spaken about o
+[09:13.90 - 09:14.94] speaker_3: yea hat'll be that'
+[09:14.94 - 09:18.36] speaker_0: be  easy i can use that for that for the topic pop up winnow
+[09:18.42 - 09:22.78] speaker_3: oro so that would be that would cause a problem with anything
+[09:22.86 - 09:23.24] speaker_1: that was
+[09:23.26 - 09:25.28] speaker_3: an anadative at topac
+[09:25.32 - 09:25.64] speaker_0: that was
+[09:25.66 - 09:27.54] speaker_1: a or just return an all or a
+[09:27.64 - 09:37.22] speaker_3: yea on tusi specified they'll have a default her there are somedeas o defaoleakivtoae
+[09:37.24 - 09:37.52] speaker_1: because
+[09:37.58 - 09:37.64] speaker_0: at
+[09:37.72 - 09:37.80] speaker_1: the
+[09:37.84 - 09:39.80] speaker_0: moment if yo write clake on the topic windyw
+[09:39.90 - 09:39.96] speaker_2: on
+[09:40.10 - 09:49.78] speaker_0: one of the topics you have the option of pu popping open a window which gives your list of all the meetings containing that topic view sayy
+[09:49.80 - 09:55.58] speaker_3: eencative search over the meetings over the objects ecause that's the thing these these are so small
+[09:55.72 - 09:55.82] speaker_2: that
+[09:55.88 - 10:00.22] speaker_3: it can load itsh all of the whole oppand dheirsearch over the whole lot to find who onders by his i more of no problem
+[10:00.34 - 10:00.44] speaker_1: or
+[10:00.52 - 10:02.00] speaker_3: what topics were importanca
+[10:02.06 - 10:02.12] speaker_2: so
+[10:02.22 - 10:03.40] speaker_3: it doesn't crush the thing
+[10:03.68 - 10:03.74] speaker_2: so
+[10:03.88 - 10:03.96] speaker_1: how
+[10:04.16 - 10:04.24] speaker_2: how
+[10:04.30 - 10:04.42] speaker_0: would
+[10:04.46 - 10:04.54] speaker_1: you
+[10:04.80 - 10:06.36] speaker_0: how would you calculate that would
+[10:06.38 - 10:06.46] speaker_1: you
+[10:06.56 - 10:08.20] speaker_0: do the summarization
+[10:08.28 - 10:08.56] speaker_1: as you
+[10:08.80 - 10:10.14] speaker_0: populate it
+[10:10.28 - 10:15.48] speaker_3: wornat is eliablettates come yano cause te jus for the mete mee be
+[10:15.54 - 10:16.14] speaker_0: all right si
+[10:16.18 - 10:16.52] speaker_2: oh so
+[10:16.64 - 10:18.22] speaker_0: at that is all s stor to
+[10:18.24 - 10:21.74] speaker_3: get speaker closs knows bout all tha t i in i on the meeting closs knowsabut
+[10:21.80 - 10:25.54] speaker_0: ounee
+[10:25.58 - 10:25.92] speaker_2: thatsounds
+[10:25.94 - 10:26.90] speaker_0: good
+[10:27.06 - 10:27.12] speaker_2: so
+[10:27.20 - 10:28.16] speaker_0: have you done these yet
+[10:28.54 - 10:30.96] speaker_3: libotecho
+[10:31.10 - 10:31.26] speaker_2: just
+[10:31.28 - 10:31.82] speaker_0: gotta decide
+[10:31.84 - 10:31.90] speaker_1: on
+[10:31.96 - 10:32.52] speaker_0: what we wantto
+[10:32.84 - 10:32.96] speaker_1: what
+[10:33.02 - 10:33.08] speaker_2: we
+[10:33.16 - 10:35.06] speaker_3: want do
+[10:35.22 - 10:35.26] speaker_2: i
+[10:35.32 - 10:35.48] speaker_3: thought
+[10:35.54 - 10:35.62] speaker_1: the
+[10:35.68 - 10:36.64] speaker_3: other stuff was more important
+[10:36.66 - 10:39.50] speaker_0: than  head o at that first
+[10:39.54 - 10:39.70] speaker_1: so
+[10:39.74 - 10:42.90] speaker_0: it's all all usabl now can i do it to night
+[10:43.98 - 10:44.06] speaker_1: no
+[10:44.32 - 10:46.08] speaker_3: designer ga firstan ecau
+[10:46.64 - 10:46.72] speaker_2: the
+[10:46.82 - 10:47.14] speaker_0: problem
+[10:47.16 - 10:47.36] speaker_1: is if
+[10:47.40 - 10:47.74] speaker_3: heu change
+[10:47.80 - 10:47.88] speaker_1: the
+[10:47.96 - 10:48.28] speaker_3: classes
+[10:48.36 - 10:48.44] speaker_1: tha
+[10:48.90 - 10:48.98] speaker_2: the
+[10:49.08 - 10:55.48] speaker_3: object's cerial numbers chang and you can't rely the object that alethe pricing cast be done oever gear and i haven't quite finishted of it so
+[10:56.02 - 10:56.12] speaker_2: it
+[10:56.14 - 10:59.36] speaker_3: woll become olfsick and get a bit funny
+[10:59.48 - 10:59.70] speaker_2: if i
+[10:59.82 - 10:59.96] speaker_3: gave
+[11:00.02 - 11:00.12] speaker_1: you
+[11:00.26 - 11:01.20] speaker_3: one
+[11:01.36 - 11:01.42] speaker_2: if
+[11:01.48 - 11:01.74] speaker_3: i gave
+[11:01.76 - 11:01.84] speaker_1: you
+[11:01.90 - 11:06.60] speaker_3: it now and you worked on it and then  changed it and run the thing again you would never fe ale to lerd the jest by sup
+[11:06.64 - 11:07.72] speaker_0: oi san he
+[11:07.90 - 11:08.00] speaker_1: he
+[11:08.06 - 11:13.08] speaker_3: lafted and then ned ed with multiple copies of optis rplacing
+[11:13.10 - 11:13.30] speaker_1: well
+[11:13.32 - 11:14.52] speaker_0: let me know when
+[11:14.96 - 11:15.08] speaker_2: when
+[11:15.16 - 11:16.16] speaker_0: it's sort of usable
+[11:16.28 - 11:16.36] speaker_2: but
+[11:16.42 - 11:21.20] speaker_3: if you can if you want to make the picture he can do that without anything
+[11:21.22 - 11:22.64] speaker_0: what do you mean o pitur jus he
+[11:22.66 - 11:24.88] speaker_3: je jes ddoyeah
+[11:24.90 - 11:30.90] speaker_0: but it's not going to take bete those glineman yeah
+[11:31.12 - 11:31.26] speaker_1: whye
+[11:31.34 - 11:31.50] speaker_2: went
+[11:31.56 - 11:31.92] speaker_1: te ber
+[11:31.94 - 11:32.58] speaker_3: altogeter an
+[11:32.60 - 11:34.16] speaker_1: finished mo
+[11:34.20 - 11:43.84] speaker_3: but only i'll need to have done all this stuff too y u first cause othes te objects won't be the same
+[11:43.86 - 11:43.98] speaker_2: so
+[11:44.00 - 11:44.28] speaker_0: where's
+[11:44.28 - 11:44.38] speaker_1: that
+[11:44.50 - 11:46.46] speaker_0: is that stor he
+[11:46.78 - 11:48.88] speaker_3: somewa huned orig
+[11:48.92 - 11:50.70] speaker_0: on your ome diracton not in the
+[11:50.78 - 11:52.60] speaker_3: no longer yo go wi w ish
+[11:54.84 - 12:06.14] speaker_1: actually i cannot load myself as well i just have to make one change to eurfile just to load this one instead of the the default all right so two winescod yea what are you
+[12:06.22 - 12:07.78] speaker_0: wanting to
+[12:07.98 - 12:08.16] speaker_2: write
+[12:08.18 - 12:11.14] speaker_0: that indirectly ou w what do you want to do mama
+[12:11.16 - 12:11.62] speaker_1: what do you mean
+[12:12.00 - 12:12.06] speaker_2: if
+[12:12.12 - 12:13.30] speaker_0: you want to change my code
+[12:13.36 - 12:17.28] speaker_1: oh you're just the one thing that's like the action for loavesration
+[12:17.30 - 12:18.18] speaker_0: do you want to change that
+[12:18.78 - 12:18.86] speaker_2: the
+[12:18.92 - 12:20.52] speaker_0: original embraza falenor
+[12:20.54 - 12:22.94] speaker_1: ya bol your verginer have
+[12:22.96 - 12:23.22] speaker_0: you done
+[12:23.24 - 12:23.34] speaker_1: that
+[12:23.44 - 12:24.00] speaker_2: now oh no
+[12:24.24 - 12:25.58] speaker_1: i did in my directory just
+[12:25.72 - 12:26.58] speaker_0: oh just ocase
+[12:26.62 - 12:27.02] speaker_1: i knot the
+[12:27.10 - 12:27.38] speaker_0: actual
+[12:27.42 - 12:27.50] speaker_2: one
+[12:27.60 - 12:28.76] speaker_0: but a copy of it
+[12:28.82 - 12:29.12] speaker_2: um
+[12:30.16 - 12:32.00] speaker_1: i have a copy ges again
+[12:32.40 - 12:32.48] speaker_2: but
+[12:32.56 - 12:37.54] speaker_1: i will yo i was going to update that one jusca it just make senseell just ur just
+[12:37.60 - 12:39.78] speaker_0: tell me when because i usuallye i usually
+[12:39.84 - 12:40.32] speaker_1: work on my
+[12:40.38 - 12:40.88] speaker_0: own copy
+[12:41.04 - 12:42.16] speaker_1: aroca for ten op to
+[12:42.18 - 12:43.96] speaker_0: all the day and then update it without checking
+[12:44.04 - 12:44.10] speaker_1: if
+[12:44.42 - 12:44.82] speaker_2: if the
+[12:44.90 - 12:45.04] speaker_0: one
+[12:45.06 - 12:49.00] speaker_1: in e sha coaint lifen medingn changes to itno
+[12:49.04 - 12:49.32] speaker_0: um
+[12:49.74 - 12:52.02] speaker_1: 'll just make that one i let you know
+[12:52.06 - 12:52.44] speaker_0: yeah let
+[12:52.46 - 12:52.52] speaker_2: me
+[12:52.58 - 12:55.16] speaker_1: know coe an like i say two wines a colt
+[12:55.20 - 12:58.40] speaker_0: yeah if iaoh
+[12:58.44 - 13:05.64] speaker_1: and then you can play there's not much to do have to get better results i bitter
+[13:05.74 - 13:10.14] speaker_0: say is that what you'r workin on owtopresent theslan
+[13:10.16 - 13:11.44] speaker_1: just um toin
+[13:11.78 - 13:11.86] speaker_2: the
+[13:11.94 - 13:17.10] speaker_1: topics and the  do on some reason
+[13:17.20 - 13:17.28] speaker_2: you
+[13:17.34 - 13:19.42] speaker_0: mean the hav highlighting stuff well
+[13:19.48 - 13:28.90] speaker_1: also yel like that that is well i saeh san disuana find wan kan of objects awas wertha um for the other ones so
+[13:29.36 - 13:29.42] speaker_2: it
+[13:29.48 - 13:32.84] speaker_1: goes in in ighlints casisaei
+[13:32.86 - 13:33.12] speaker_0: know
+[13:33.50 - 13:33.60] speaker_1: as
+[13:33.62 - 13:34.02] speaker_0: she for
+[13:34.06 - 13:34.16] speaker_2: um
+[13:34.64 - 13:42.68] speaker_0: am for an intext area whatever it is an m they they define somehandy highlights on that
+[13:42.86 - 13:42.96] speaker_2: so
+[13:43.02 - 13:44.90] speaker_0: you've got different different highlights you've got
+[13:45.10 - 13:45.20] speaker_2: just
+[13:45.26 - 13:45.50] speaker_0: look at
+[13:45.58 - 13:45.66] speaker_2: the
+[13:46.08 - 13:47.90] speaker_0: the what they wrote about
+[13:47.96 - 13:48.02] speaker_1: it
+[13:48.44 - 13:48.66] speaker_0: they've
+[13:48.70 - 13:48.78] speaker_1: got
+[13:48.98 - 13:55.62] speaker_0: like user highlights um selection highnights time highlights and
+[13:55.66 - 13:55.90] speaker_2: so
+[13:55.94 - 13:58.50] speaker_0: nows
+[13:58.66 - 13:59.00] speaker_2: so you
+[13:59.06 - 13:59.42] speaker_1: can quite
+[13:59.48 - 14:00.02] speaker_0: easily if
+[14:00.18 - 14:00.34] speaker_2: your
+[14:00.46 - 14:08.98] speaker_0: tax arrea is called ayrier ye just do ariadot set highlights or something ala
+[14:09.04 - 14:09.26] speaker_1: that's
+[14:09.32 - 14:09.40] speaker_2: the
+[14:09.44 - 14:10.24] speaker_0: way i did it too
+[14:10.56 - 14:10.62] speaker_2: do
+[14:10.74 - 14:16.36] speaker_0: highlight to cross highlight between topic and an transcripcso
+[14:16.40 - 14:16.62] speaker_2: sai
+[14:16.66 - 14:19.92] speaker_1: he
+[14:20.04 - 14:20.22] speaker_2: tat
+[14:20.26 - 14:24.14] speaker_1: is a few more things to do with hatn an now once prennilla gets to see e
+[14:24.46 - 14:24.54] speaker_2: the
+[14:24.62 - 14:27.94] speaker_1: index sam venatkina e kind of fun
+[14:28.10 - 14:28.20] speaker_2: like
+[14:28.26 - 14:35.88] speaker_1: i'm just wondering if you had to well doyyour do i was going to ask if the way you were doing it you were loading licon new corpus each time for oac meeting but you're doing the object
+[14:35.90 - 14:35.98] speaker_2: so
+[14:36.70 - 14:38.86] speaker_1: you don't need to just uh ecause
+[14:38.90 - 14:38.96] speaker_2: if
+[14:39.02 - 14:39.38] speaker_1: we if
+[14:39.42 - 14:39.48] speaker_2: we
+[14:39.54 - 14:47.18] speaker_1: do have like a thenverted search says that there'sy yonten documents are we going have to load each of these tenncorp corporal just to um
+[14:47.72 - 14:47.84] speaker_2: do
+[14:47.90 - 14:50.00] speaker_1: the individual next  n ex t search
+[14:50.36 - 14:51.30] speaker_3: that way it doesn't crash
+[14:51.40 - 14:51.46] speaker_1: yo
+[14:51.54 - 14:54.58] speaker_3: tohnlidl witteling one at chris
+[14:54.60 - 14:55.02] speaker_1: probably
+[14:55.06 - 14:56.36] speaker_3: it's a bit dumb if you can foole
+[14:56.38 - 14:56.58] speaker_1: it if
+[14:56.60 - 15:00.46] speaker_3: you if you load up ten different engines so multaneously
+[15:00.60 - 15:00.66] speaker_2: it
+[15:00.74 - 15:08.50] speaker_3: can do that cii caredem i don't do them if it fins any one causehe ets about them out that each
+[15:08.60 - 15:08.66] speaker_2: if
+[15:08.84 - 15:09.64] speaker_3: you have to kind of call
+[15:09.68 - 15:09.96] speaker_1: a new
+[15:10.02 - 15:10.26] speaker_3: class
+[15:10.28 - 15:10.36] speaker_1: and
+[15:10.44 - 15:11.98] speaker_3: then it'll derify me but if you dyn
+[15:12.04 - 15:15.00] speaker_0: i i can' oye
+[15:15.00 - 15:15.14] speaker_1: yo
+[15:15.16 - 15:22.02] speaker_3: a got a thi space and thewise te guysno
+[15:22.22 - 15:22.24] speaker_0: 
+[15:22.28 - 15:22.50] speaker_1: talk
+[15:22.50 - 15:25.74] speaker_0: to you o
+[15:25.88 - 15:26.06] speaker_1: sa
+[15:26.12 - 15:26.38] speaker_0: nice
+[15:26.40 - 15:28.94] speaker_3: machin he
+[15:29.22 - 15:29.46] speaker_0: spend
+[15:29.50 - 15:29.68] speaker_2: too
+[15:29.72 - 15:33.62] speaker_0: much timeal right well i've been
+[15:33.68 - 15:33.80] speaker_1: there
+[15:33.90 - 15:42.68] speaker_0: up and doing some rundom pop up windows for their speaker cacterization which is good certain fill that in ointer the windows are all there now after lots filling
+[15:42.72 - 15:44.42] speaker_3: oh they done are they oyto
+[15:44.44 - 15:48.60] speaker_0: well you know jest the pop a pop up when i plu pup is difficult enough because
+[15:48.70 - 15:49.78] speaker_1: um it
+[15:50.38 - 15:50.44] speaker_2: it
+[15:50.76 - 15:51.10] speaker_0: basically
+[15:51.16 - 15:51.24] speaker_1: has
+[15:51.36 - 15:51.42] speaker_2: to
+[15:51.70 - 15:55.74] speaker_0: set up om like whatever ten pop up windows
+[15:55.80 - 15:55.88] speaker_1: in
+[15:55.96 - 16:00.34] speaker_0: memory as in already initialized them because there there might be ten speakers
+[16:00.50 - 16:00.58] speaker_1: and
+[16:00.62 - 16:05.26] speaker_0: no all have to have different mee our windows ando
+[16:05.34 - 16:05.42] speaker_2: and
+[16:06.14 - 16:07.06] speaker_0: and i'm working
+[16:07.14 - 16:07.34] speaker_2: on
+[16:08.04 - 16:08.20] speaker_0: when
+[16:08.26 - 16:08.34] speaker_2: you
+[16:08.82 - 16:09.60] speaker_0: click on a topic
+[16:09.70 - 16:09.76] speaker_2: to
+[16:09.84 - 16:10.28] speaker_0: see a list
+[16:10.34 - 16:10.40] speaker_2: of
+[16:10.46 - 16:10.54] speaker_3: the
+[16:10.96 - 16:11.02] speaker_2: of
+[16:11.10 - 16:11.18] speaker_1: the
+[16:11.26 - 16:11.98] speaker_0: topics
+[16:12.48 - 16:12.54] speaker_2: of
+[16:12.60 - 16:13.04] speaker_0: the meetings
+[16:13.08 - 16:13.18] speaker_1: that
+[16:13.46 - 16:16.28] speaker_0: that topic was mentioned it
+[16:16.32 - 16:16.52] speaker_1: and
+[16:16.80 - 16:19.16] speaker_0: i have a a question about
+[16:19.28 - 16:19.38] speaker_3: the
+[16:19.76 - 16:19.82] speaker_2: we
+[16:20.20 - 16:20.50] speaker_1: said we
+[16:20.60 - 16:22.46] speaker_0: wanted a start screen
+[16:22.58 - 16:23.90] speaker_1: m
+[16:24.00 - 16:27.26] speaker_0: what kind of startscreen do we want i mean do
+[16:27.28 - 16:27.36] speaker_1: we
+[16:27.44 - 16:29.96] speaker_0: want some general blood about welcome to
+[16:30.04 - 16:30.12] speaker_1: the
+[16:30.28 - 16:31.80] speaker_0: browsinsoeenwort
+[16:31.84 - 16:32.50] speaker_1: morelan as
+[16:32.56 - 16:36.28] speaker_3: son as de browser see speeches
+[16:36.36 - 16:36.42] speaker_1: of
+[16:36.56 - 16:39.26] speaker_3: music
+[16:39.36 - 16:48.34] speaker_1: nman doesn't take too long we have to go o we debugging getting sick obut o or something that just sort of guides them
+[16:48.44 - 16:48.72] speaker_2: to the
+[16:48.78 - 16:49.40] speaker_1: most obviously
+[16:50.18 - 16:54.82] speaker_0: say do we want yeah meybe wicked writht onlike that whether it's called
+[16:55.26 - 16:55.34] speaker_2: the
+[16:55.42 - 16:59.16] speaker_0: top of the window saying welcome to the making broser don
+[16:59.22 - 17:00.40] speaker_3: for a switchboard that comes
+[17:00.46 - 17:00.52] speaker_0: up
+[17:00.64 - 17:02.94] speaker_3: ats just a blank form like that with some bontsom
+[17:02.96 - 17:03.42] speaker_1: youknow
+[17:03.86 - 17:05.60] speaker_3: low me a meeting lomia's search lowd
+[17:05.60 - 17:07.10] speaker_1: me someting else ho
+[17:07.16 - 17:09.14] speaker_3: whistled  jhe
+[17:09.28 - 17:09.38] speaker_2: yeah
+[17:09.52 - 17:09.60] speaker_1: but
+[17:09.76 - 17:10.16] speaker_2: how
+[17:10.74 - 17:10.78] speaker_0: i
+[17:10.86 - 17:10.96] speaker_1: mean
+[17:11.44 - 17:11.64] speaker_2: at the
+[17:11.70 - 17:20.06] speaker_0: moment the way it is its up it's a drop down menu as you see and that becauses it's
+[17:20.14 - 17:20.22] speaker_1: the
+[17:21.14 - 17:24.56] speaker_0: dialogue class that you use it
+[17:25.12 - 17:28.14] speaker_1: i just can ask if we should assume that they'll want a load of meeting first
+[17:28.20 - 17:28.42] speaker_2: but not
+[17:28.50 - 17:32.00] speaker_1: necessarily i guestrtyedoing a search on entire yeah i
+[17:32.06 - 17:32.54] speaker_0: mean i think
+[17:32.64 - 17:32.74] speaker_2: they
+[17:32.80 - 17:35.64] speaker_0: should have two options either loid up a meeting
+[17:35.68 - 17:35.78] speaker_1: that
+[17:35.84 - 17:36.56] speaker_0: they choose
+[17:36.74 - 17:36.88] speaker_1: or
+[17:36.94 - 17:40.34] speaker_0: do rasearchgo and thog that once you've got the results you click on something
+[17:40.38 - 17:41.68] speaker_3: and cheaper than ice sea search
+[17:41.90 - 17:41.96] speaker_2: it
+[17:42.02 - 17:42.44] speaker_3: will need
+[17:42.52 - 17:42.60] speaker_1: you
+[17:42.68 - 17:42.74] speaker_2: to
+[17:42.86 - 17:44.88] speaker_3: have a leeting lody before you'll start doing any cersan
+[17:45.50 - 17:48.24] speaker_1: why we cano
+[17:48.44 - 17:52.76] speaker_3: t search is a nice object model an the eany siming et one of those ifyou lden
+[17:52.78 - 17:55.08] speaker_1: i could probably even but they shouldn't be too hard
+[17:55.10 - 17:55.16] speaker_2: to
+[17:55.24 - 17:56.92] speaker_1: ha put a check in there
+[17:57.04 - 17:57.12] speaker_2: and
+[17:57.18 - 17:59.50] speaker_1: if a dhousand loader then force him to load one yeah which
+[17:59.64 - 17:59.70] speaker_2: be
+[17:59.82 - 18:09.38] speaker_3: but doesn't that week you could use the universtryy fire search to return a list of meetings and then use one of those to load in search  but
+[18:10.02 - 18:10.10] speaker_2: you
+[18:10.20 - 18:10.76] speaker_3: won't
+[18:10.90 - 18:11.14] speaker_1: can you
+[18:11.20 - 18:13.20] speaker_0: not get this nonb object and
+[18:13.60 - 18:13.66] speaker_2: it
+[18:13.74 - 18:13.88] speaker_3: has
+[18:13.90 - 18:14.08] speaker_1: to be
+[18:14.14 - 18:14.74] speaker_3: an observation
+[18:14.82 - 18:14.90] speaker_1: and
+[18:14.96 - 18:17.80] speaker_3: even if yo go you can gine such the whole corpus from that but you have
+[18:17.84 - 18:17.90] speaker_1: to
+[18:17.98 - 18:18.08] speaker_2: have
+[18:18.64 - 18:19.76] speaker_3: it has to start with something
+[18:19.82 - 18:19.90] speaker_2: for
+[18:19.98 - 18:24.12] speaker_3: some bizarre reason the engine there 's only one there's only one search method
+[18:24.14 - 18:24.20] speaker_1: to
+[18:24.28 - 18:26.64] speaker_3: the search enginemhm
+[18:26.98 - 18:27.06] speaker_1: the
+[18:27.14 - 18:27.42] speaker_2: engine
+[18:27.46 - 18:28.10] speaker_3: class idhe
+[18:28.12 - 18:28.48] speaker_0: i suppose
+[18:28.54 - 18:28.60] speaker_1: we
+[18:28.68 - 18:29.48] speaker_0: wouldn't want to use
+[18:29.80 - 18:30.04] speaker_2: yeah w
+[18:30.18 - 18:33.70] speaker_0: yea we wouldn't want to use an extay at the beginning anyway because we don't want a search
+[18:33.88 - 18:33.94] speaker_1: an
+[18:34.12 - 18:35.70] speaker_3: lolik olgeuobly
+[18:36.04 - 18:37.18] speaker_0: sa
+[18:37.22 - 18:39.34] speaker_1: i that al as sayn know what meeting it i
+[18:39.94 - 18:39.96] speaker_2: 
+[18:40.20 - 18:43.80] speaker_0: it's one now then they would open the meeting fan rightdeu
+[18:43.84 - 18:43.96] speaker_1: so
+[18:43.98 - 18:46.84] speaker_0: i let's say they have two options either pick one menting
+[18:46.90 - 18:47.06] speaker_2: or
+[18:47.28 - 18:48.20] speaker_0: search globally
+[18:48.34 - 18:48.40] speaker_2: to
+[18:48.52 - 18:48.74] speaker_0: find
+[18:48.94 - 18:49.00] speaker_2: a
+[18:49.08 - 18:54.90] speaker_0: meeting dat they like
+[18:55.44 - 18:55.66] speaker_3: or
+[18:55.68 - 18:55.88] speaker_2: well
+[18:55.88 - 18:58.12] speaker_1: the things i mean just be looking for a word
+[18:58.18 - 18:58.24] speaker_2: of
+[18:58.32 - 18:59.50] speaker_1: a yelg lincoln if it chose
+[18:59.56 - 18:59.62] speaker_2: up
+[18:59.72 - 19:01.04] speaker_1: f ten different meetings
+[19:01.18 - 19:01.30] speaker_2: then
+[19:01.38 - 19:02.82] speaker_1: at that point they'll probably want no
+[19:03.26 - 19:03.76] speaker_2: like do we
+[19:03.82 - 19:04.34] speaker_1: want to like
+[19:04.40 - 19:04.46] speaker_2: if
+[19:04.52 - 19:07.38] speaker_1: it don't by to fault goes with the first one and they want number five
+[19:07.54 - 19:07.82] speaker_2: of the
+[19:07.90 - 19:09.52] speaker_1: ones whot are return to men then  have to go through
+[19:09.54 - 19:11.74] speaker_0: the  why do we want default i mean jest
+[19:11.82 - 19:15.62] speaker_1: ell non't like to lordu like the thing is i think
+[19:15.78 - 19:16.22] speaker_2: um like
+[19:16.26 - 19:29.06] speaker_1: when it loads up it'll load up the transcript window in the whatever on the window wer i think just the topic ones um although the time is probably more um caused by loading the actual data so
+[19:29.52 - 19:29.62] speaker_2: i'm
+[19:29.70 - 19:31.00] speaker_1: just thinking if it's kinda
+[19:31.38 - 19:31.48] speaker_2: like
+[19:31.54 - 19:34.02] speaker_1: you were saying you have to have a norm object
+[19:34.10 - 19:34.16] speaker_2: ri
+[19:34.50 - 19:35.92] speaker_1: i mean before you do
+[19:36.14 - 19:36.22] speaker_2: i
+[19:36.28 - 19:36.88] speaker_1: search it all
+[19:37.06 - 19:37.32] speaker_2: yeah but
+[19:37.44 - 19:38.24] speaker_0: lovto sage
+[19:38.38 - 19:38.42] speaker_2: o
+[19:38.60 - 19:39.02] speaker_0: we can't do
+[19:39.12 - 19:39.36] speaker_1: lov
+[19:39.52 - 19:41.04] speaker_0: i shoul dy anything
+[19:41.28 - 19:41.44] speaker_2: don't
+[19:41.46 - 19:43.84] speaker_3: brea a lon to lie up anyway we can lie the dumb one
+[19:43.86 - 19:43.92] speaker_1: up
+[19:44.00 - 19:44.64] speaker_3: at doesn't have an
+[19:44.70 - 19:44.98] speaker_1: year
+[19:45.00 - 19:45.10] speaker_2: but
+[19:45.20 - 19:53.00] speaker_1: the okay the global one feeds into the local um yeahi'mir fe're getting any delolgeable data it's going to be doing a search on each of those files
+[19:53.10 - 19:53.30] speaker_2: so it
+[19:53.36 - 19:55.16] speaker_1: can be loading up echer those yen at a time
+[19:55.24 - 19:56.02] speaker_0: to gete the depend
+[19:56.04 - 19:56.42] speaker_2: yet the
+[19:56.64 - 20:00.56] speaker_0: the global um invetiphalset gives
+[20:01.24 - 20:01.32] speaker_2: the
+[20:01.38 - 20:02.66] speaker_0: norm objects basically
+[20:02.72 - 20:02.92] speaker_1: to the
+[20:03.08 - 20:04.66] speaker_3: local searchcita
+[20:04.68 - 20:04.76] speaker_1: but
+[20:05.00 - 20:05.26] speaker_2: it it
+[20:05.32 - 20:07.38] speaker_1: could be time consuming like yof throg our ten documents
+[20:07.52 - 20:10.86] speaker_0: sayd wyea that's always going to be the case of such
+[20:10.90 - 20:14.10] speaker_3: en he gives one at a time anyway doesn't it cause of ther wiss who crush the thing
+[20:14.26 - 20:18.00] speaker_1: um yeah well i'm just thinking of some way we could you know cash
+[20:18.06 - 20:18.14] speaker_2: the
+[20:18.20 - 20:18.56] speaker_1: results
+[20:18.58 - 20:18.64] speaker_2: in
+[20:18.92 - 20:27.64] speaker_1: in a niceol format pill make things a bit easier but the thing is i mean if we've got that then it's goingnt be needing really m really to load
+[20:27.86 - 20:27.94] speaker_2: the
+[20:28.02 - 20:37.54] speaker_1: entire corpus for that meeting if uh if it's trying to show us where those were if i trying to highlight those in the text transcript or whatever a were going to have to have all that other day in there
+[20:37.68 - 20:37.76] speaker_2: so
+[20:37.86 - 20:45.58] speaker_1: each time when we have the sh search window and we have like you now tendidfror meetings youow the word wireless comes up go to meeting one than hasto reload
+[20:45.76 - 20:45.84] speaker_2: the
+[20:45.90 - 20:49.60] speaker_1: norm object next one i mean that's kanot
+[20:49.64 - 20:51.88] speaker_3: yea it's aot trea slyther tat thing anit's not
+[20:51.98 - 20:52.06] speaker_1: not
+[20:52.12 - 20:52.54] speaker_3: too bad
+[20:52.58 - 20:53.18] speaker_1: on matter
+[20:53.24 - 20:55.26] speaker_3: an to in not be obtain marulu
+[20:55.30 - 21:06.56] speaker_1: it always seems to be slow loating up the first time at least like i sa yeah lately is just sort of loading it up tested trycemouseand shut down holl it upe
+[21:06.70 - 21:06.82] speaker_3: su
+[21:06.84 - 21:09.66] speaker_1: just sort of based on that ison
+[21:09.74 - 21:10.82] speaker_2: but uh if
+[21:10.86 - 21:14.28] speaker_1: it doesn't take that long each time the'll entepe
+[21:14.34 - 21:14.46] speaker_2: all
+[21:14.48 - 21:15.88] speaker_1: right i mean you
+[21:15.96 - 21:17.12] speaker_0: can you
+[21:17.16 - 21:17.26] speaker_1: know
+[21:17.32 - 21:17.90] speaker_0: the option is
+[21:17.92 - 21:17.98] speaker_1: to
+[21:18.04 - 21:18.62] speaker_0: do a search in
+[21:18.66 - 21:18.88] speaker_1: the way
+[21:18.96 - 21:19.06] speaker_2: that
+[21:19.90 - 21:20.10] speaker_1: if you
+[21:20.14 - 21:22.42] speaker_0: do a global such
+[21:22.68 - 21:22.96] speaker_2: first
+[21:23.00 - 21:25.14] speaker_0: and first step only returned the meetings
+[21:25.20 - 21:25.28] speaker_2: as
+[21:25.38 - 21:25.62] speaker_1: in the
+[21:25.78 - 21:26.64] speaker_0: not even dratings
+[21:26.66 - 21:26.74] speaker_2: but
+[21:26.80 - 21:29.32] speaker_0: the name of the midoners so you know say
+[21:29.56 - 21:29.66] speaker_1: ye
+[21:29.72 - 21:33.16] speaker_0: wan a search for the word language then it gives
+[21:33.22 - 21:33.42] speaker_1: you as
+[21:33.48 - 21:36.58] speaker_0: a result all the meetings that contain the wend language
+[21:36.70 - 21:36.78] speaker_2: and
+[21:36.84 - 21:40.24] speaker_0: then you can decide well i want o search on this and this inisnaty and not only
+[21:40.32 - 21:40.38] speaker_2: on
+[21:40.46 - 21:42.06] speaker_0: this meeting or
+[21:42.10 - 21:44.54] speaker_3: deaye may mi kit strings as for as long as possible
+[21:44.68 - 21:44.76] speaker_1: and
+[21:44.78 - 21:48.12] speaker_3: then o knew realing other things when they actually  sputhen it needs to has tesearch
+[21:48.18 - 21:48.24] speaker_2: it
+[21:48.38 - 21:50.28] speaker_1: these sadlitions
+[21:50.52 - 21:50.60] speaker_2: and
+[21:50.62 - 21:55.20] speaker_1: thatwayh they know specifically which meaning it is yeah also the time because i'm sure they don't want to have
+[21:55.48 - 21:55.56] speaker_2: the
+[21:55.66 - 22:02.58] speaker_1: extra loading time either if they can avoid it definiteor or they can check mark mankimst the ones they want to check did
+[22:02.64 - 22:06.46] speaker_3: we think about um
+[22:06.84 - 22:07.12] speaker_2: better
+[22:07.16 - 22:07.40] speaker_3: names
+[22:07.50 - 22:07.58] speaker_2: for
+[22:07.64 - 22:09.68] speaker_3: the meetings
+[22:09.96 - 22:10.02] speaker_2: i
+[22:10.06 - 22:14.76] speaker_1: think they were in the text we can probably do that ourselves and just sort of bea d b you don't jus to
+[22:14.86 - 22:15.36] speaker_0: there is
+[22:15.46 - 22:15.52] speaker_1: um
+[22:16.34 - 22:17.20] speaker_0: yeadram
+[22:17.48 - 22:17.82] speaker_1: in one of
+[22:17.88 - 22:31.12] speaker_0: the papers they have nameseyea
+[22:31.12 - 22:31.32] speaker_3: we
+[22:31.36 - 22:31.96] speaker_1: at'
+[22:31.98 - 22:32.18] speaker_3: l
+[22:32.28 - 22:32.30] speaker_0: 
+[22:32.32 - 22:39.20] speaker_3: workinggsi nh i want to see the meadings ofa even better understan
+[22:39.24 - 22:39.88] speaker_0: yet
+[22:39.98 - 22:41.28] speaker_1: said phatocceo
+[22:41.34 - 22:41.82] speaker_0: so i
+[22:41.90 - 22:41.94] speaker_1: y
+[22:41.96 - 22:47.88] speaker_0: h i'e put that in already toythough
+[22:48.02 - 22:48.10] speaker_3: so
+[22:48.38 - 22:48.48] speaker_0: yet
+[22:48.62 - 22:49.10] speaker_2: again
+[22:49.28 - 22:49.98] speaker_1: concretely dod
+[22:50.00 - 22:56.14] speaker_0: the start up start up m wimaries window
+[22:56.22 - 23:00.16] speaker_2: m
+[23:00.32 - 23:00.42] speaker_0: so
+[23:00.48 - 23:00.80] speaker_2: who would
+[23:00.84 - 23:04.94] speaker_3: have theum ideas co meet the des
+[23:05.10 - 23:05.60] speaker_2: the document
+[23:05.64 - 23:07.12] speaker_3: frequency for each word well
+[23:07.16 - 23:10.50] speaker_1: um do o actually needothe frequencies
+[23:10.62 - 23:14.24] speaker_3: yea today you are wot tosskape talking about thee to de the topic
+[23:14.50 - 23:16.54] speaker_1: and ey all right that fora downte
+[23:16.56 - 23:17.04] speaker_0: yeah how
+[23:17.08 - 23:17.16] speaker_1: is
+[23:17.22 - 23:19.28] speaker_0: that i mean do you think you would
+[23:19.32 - 23:20.04] speaker_1: have have time
+[23:20.12 - 23:20.94] speaker_0: for that as well
+[23:21.50 - 23:22.40] speaker_1: ell think as if it's bein
+[23:22.42 - 23:24.24] speaker_3: to somebody rodown the keybod so wi
+[23:24.34 - 23:24.42] speaker_1: the
+[23:24.66 - 23:25.00] speaker_3: idea of
+[23:25.08 - 23:25.14] speaker_2: so
+[23:25.38 - 23:25.70] speaker_1: the d
+[23:25.78 - 23:27.80] speaker_3: fs already would be healthy robly there's
+[23:27.84 - 23:32.12] speaker_1: a class he was trying to get to work on friday am
+[23:32.22 - 23:32.32] speaker_2: they
+[23:32.40 - 23:37.44] speaker_1: did have all that news sort of built in and just a handsome trouble getting it running properly um
+[23:37.72 - 23:37.80] speaker_2: but
+[23:37.88 - 23:39.80] speaker_1: it had sort of all tit standards sort of stuff but
+[23:39.86 - 23:39.92] speaker_2: it
+[23:40.44 - 23:50.54] speaker_1: at last i heard he wasn't working so she was going to look at you know more straightforward sort of thing that really just fulfils what we needed to do but if we need the if we do need the frequencies
+[23:50.64 - 23:53.70] speaker_3: cow do you do aninversiv ourserch without the sf idia
+[23:53.74 - 23:56.38] speaker_1: um i don't know
+[23:56.42 - 23:57.80] speaker_3: thinkin ehe  that
+[23:57.88 - 23:59.04] speaker_1: a boy would have been
+[23:59.08 - 24:00.64] speaker_0: like a whisker the
+[24:00.70 - 24:09.38] speaker_3: amount that they accur over turned documents basically the amount they watte san fordier is thid document freguencies amount that each werd occurs um now
+[24:09.80 - 24:10.16] speaker_2: what is it
+[24:10.32 - 24:11.42] speaker_3: term frequency is the amount
+[24:11.48 - 24:12.62] speaker_1: that that it
+[24:13.16 - 24:15.34] speaker_3: occurs
+[24:15.40 - 24:15.78] speaker_2: any
+[24:15.84 - 24:17.76] speaker_3: one of them is inmalikurs in each document
+[24:17.96 - 24:18.04] speaker_1: and
+[24:18.10 - 24:18.38] speaker_3: the other
+[24:18.42 - 24:18.50] speaker_2: one
+[24:18.56 - 24:23.14] speaker_3: is the amont gueceure generally so a weu so
+[24:23.16 - 24:23.54] speaker_0: that more
+[24:23.68 - 24:23.98] speaker_3: occurs
+[24:24.06 - 24:24.12] speaker_2: in
+[24:24.34 - 24:26.78] speaker_3: specific doccuments in pared to parto its general score
+[24:26.96 - 24:27.04] speaker_1: the
+[24:27.10 - 24:28.00] speaker_3: bett more informative
+[24:28.04 - 24:29.88] speaker_0: it is abeutt serace and the general score would
+[24:29.90 - 24:30.12] speaker_1: that be
+[24:30.84 - 24:32.38] speaker_0: um for the holrol language of
+[24:32.38 - 24:39.24] speaker_3: the  efoco cossecasti di
+[24:39.26 - 24:39.56] speaker_0: genera
+[24:39.60 - 24:40.04] speaker_3: onlassi
+[24:40.06 - 24:40.44] speaker_1: topplass
+[24:40.46 - 24:45.50] speaker_3: say h removes staff adozana tloaan than though whith is going to have a a pro base in the equal school
+[24:45.70 - 24:45.76] speaker_2: so
+[24:45.86 - 24:45.98] speaker_0: what
+[24:46.04 - 24:46.18] speaker_1: would
+[24:46.24 - 24:46.74] speaker_2: the if we
+[24:46.84 - 24:46.94] speaker_0: had
+[24:47.08 - 24:47.48] speaker_1: e these
+[24:47.58 - 24:49.20] speaker_0: fane topics wh t what would they look
+[24:49.24 - 24:50.70] speaker_3: like blanee key words
+[24:50.86 - 24:51.94] speaker_0: a bunch
+[24:52.06 - 24:52.96] speaker_3: thats erly thesy
+[24:53.02 - 24:53.12] speaker_1: just
+[24:53.18 - 24:53.50] speaker_0: a list
+[24:53.54 - 24:54.00] speaker_1: of like
+[24:54.12 - 24:56.38] speaker_0: thlee words or something
+[24:56.42 - 24:56.82] speaker_3: raveler
+[24:56.84 - 24:58.16] speaker_1: what's the eyienteov idea
+[24:58.40 - 25:04.06] speaker_3: in this document the term frigesi inves tockin frequency
+[25:04.24 - 25:04.28] speaker_2: i
+[25:04.36 - 25:05.02] speaker_1: did do it once o
+[25:05.08 - 25:07.62] speaker_3: do have a dob of class that does it bfor something o know whether
+[25:07.68 - 25:12.58] speaker_0: awarei but because that will be realy handyd then we can actually test it
+[25:12.64 - 25:12.78] speaker_2: on
+[25:12.78 - 25:14.08] speaker_0: the user
+[25:14.16 - 25:14.24] speaker_2: as
+[25:14.30 - 25:15.78] speaker_0: the posagees doing
+[25:15.82 - 25:16.04] speaker_1: it and
+[25:16.10 - 25:16.54] speaker_0: not using
+[25:16.62 - 25:17.28] speaker_2: it cause
+[25:17.34 - 25:17.40] speaker_0: if
+[25:17.44 - 25:17.52] speaker_1: you
+[25:17.62 - 25:19.42] speaker_0: just have the sagmentation that's great
+[25:19.54 - 25:19.62] speaker_1: but
+[25:19.94 - 25:20.46] speaker_0: we can't do
+[25:20.70 - 25:20.76] speaker_2: we
+[25:20.84 - 25:21.82] speaker_0: can't compare it to the
+[25:22.34 - 25:22.40] speaker_2: to
+[25:22.50 - 25:22.58] speaker_1: the
+[25:22.98 - 25:26.58] speaker_0: hand arnotated you know the handes of segment an itall
+[25:27.02 - 25:27.10] speaker_2: but
+[25:27.24 - 25:28.94] speaker_3: ose our keywords give you an hol a whole
+[25:29.02 - 25:29.26] speaker_1: new
+[25:29.32 - 25:35.54] speaker_3: type ofses ser ne key websetes for ye col d key wardseres could be topice it could be the same thing instead it would ju search
+[25:35.62 - 25:35.70] speaker_2: for
+[25:35.76 - 25:36.10] speaker_3: keywords
+[25:36.40 - 25:36.50] speaker_1: when
+[25:36.56 - 25:36.62] speaker_2: it
+[25:36.68 - 25:41.94] speaker_3: when they youtelimate the robjection wit topics pera to get kebett
+[25:41.96 - 25:42.74] speaker_2: forto
+[25:42.78 - 25:48.38] speaker_1: eme
+[25:48.46 - 25:48.62] speaker_3: you'
+[25:48.64 - 25:48.88] speaker_0: not
+[25:48.90 - 25:49.20] speaker_2: work
+[25:49.24 - 25:53.30] speaker_0: ib you're nice
+[25:53.32 - 25:53.48] speaker_2: what
+[25:53.50 - 25:54.56] speaker_3: suppose
+[25:54.64 - 25:55.72] speaker_0: even
+[25:55.80 - 25:58.06] speaker_3: calculating the
+[25:58.06 - 25:58.48] speaker_2: the the
+[25:58.82 - 26:02.72] speaker_3: tevoisesfaces themselvest the easy bit
+[26:02.74 - 26:02.82] speaker_2: is
+[26:02.88 - 26:15.54] speaker_3: as probably easier to calculate them basedon in their whole occurrences in in the corpus sente is to calculate the per topic because you don't have to integrate as much
+[26:15.58 - 26:19.56] speaker_0: information
+[26:19.70 - 26:19.78] speaker_1: now
+[26:19.86 - 26:19.94] speaker_3: you
+[26:20.02 - 26:20.32] speaker_2: can hat
+[26:20.38 - 26:20.46] speaker_1: you
+[26:20.54 - 26:20.68] speaker_3: can
+[26:20.70 - 26:20.82] speaker_1: do
+[26:20.94 - 26:25.00] speaker_3: seach without trrfity if you just can't rink the search
+[26:25.04 - 26:26.56] speaker_0: yeah that's why thinkido we han
+[26:26.58 - 26:29.72] speaker_1: to mean we're just loring o y your tuff i
+[26:29.92 - 26:34.42] speaker_3: no no but that isn't that what the idea was in the first list to rank these rank le results
+[26:34.52 - 26:34.60] speaker_2: so
+[26:34.68 - 26:34.78] speaker_1: that
+[26:35.08 - 26:35.14] speaker_2: it
+[26:35.30 - 26:37.12] speaker_0: sort of but that the main idea was more like
+[26:37.34 - 26:37.40] speaker_2: to
+[26:37.48 - 26:41.90] speaker_0: speed up to speed the sige ob because annex st was over the mer hole of tha corpese which is
+[26:41.90 - 26:47.32] speaker_3: not feaible dear but that white slide down ranking it was led down
+[26:47.36 - 26:47.54] speaker_2: nay
+[26:47.54 - 26:50.58] speaker_0: bit the general inverted foul
+[26:50.70 - 26:52.70] speaker_3: yo is still uses of the latifar but ranks
+[26:52.76 - 26:52.86] speaker_1: the
+[26:52.96 - 26:54.14] speaker_3: result of ia
+[26:54.18 - 26:55.52] speaker_0: eiy
+[26:55.54 - 26:58.40] speaker_3: yes i thought that was part of it but yeayeah
+[26:58.64 - 27:00.00] speaker_0: i wasn't sure
+[27:00.16 - 27:02.72] speaker_1: oeuno
+[27:02.76 - 27:04.64] speaker_3: e didn't
+[27:04.72 - 27:09.80] speaker_0: sawi anye
+[27:09.82 - 27:09.90] speaker_1: but
+[27:10.00 - 27:10.10] speaker_2: yeah
+[27:10.20 - 27:10.24] speaker_1: i
+[27:10.30 - 27:10.62] speaker_3: guess
+[27:11.20 - 27:11.50] speaker_1: if
+[27:11.90 - 27:11.96] speaker_2: if
+[27:12.02 - 27:13.22] speaker_3: that's not part of it i worry about
+[27:13.28 - 27:13.34] speaker_2: it
+[27:13.66 - 27:13.92] speaker_1: yeah i
+[27:13.98 - 27:14.56] speaker_0: mean if you
+[27:14.58 - 27:17.90] speaker_3: have time they're most somebody gotta do this o me
+[27:17.92 - 27:18.08] speaker_0: 'cause
+[27:18.12 - 27:18.16] speaker_1: i
+[27:18.22 - 27:18.32] speaker_0: mean
+[27:18.38 - 27:18.48] speaker_2: then
+[27:19.12 - 27:19.22] speaker_1: then
+[27:19.30 - 27:20.48] speaker_0: it would give you like
+[27:20.58 - 27:20.64] speaker_2: if
+[27:20.72 - 27:20.82] speaker_1: you
+[27:20.90 - 27:21.92] speaker_0: search for word it will
+[27:21.94 - 27:22.18] speaker_1: give you
+[27:22.24 - 27:22.32] speaker_2: the
+[27:22.80 - 27:24.54] speaker_0: the meetings but also
+[27:24.64 - 27:24.72] speaker_1: how
+[27:24.82 - 27:26.56] speaker_0: often the that word occurred in tat meeting
+[27:26.66 - 27:29.50] speaker_3: would be say useful wel just give you rank it would they'll last the whole point
+[27:29.68 - 27:30.98] speaker_1: i don not acta exacs i
+[27:31.02 - 27:32.84] speaker_3: mean this is your top woe there's you boom
+[27:32.86 - 27:33.56] speaker_2: yeah yeah but
+[27:34.10 - 27:38.66] speaker_1: um the thing is we're just looking for when it happens in a meeting if they're looking for particular term or something
+[27:38.84 - 27:38.96] speaker_2: they
+[27:39.02 - 27:42.50] speaker_1: just want to know if that term exists there and where does it exist now wen to see it
+[27:42.68 - 27:43.80] speaker_0: but even siessfuly
+[27:43.84 - 27:46.80] speaker_3: how how informative that t ffideef is in informative scores
+[27:46.92 - 27:47.06] speaker_1: you k
+[27:47.62 - 27:47.86] speaker_0: if you
+[27:47.92 - 27:48.02] speaker_1: have
+[27:48.50 - 27:48.54] speaker_2: f
+[27:48.72 - 27:48.78] speaker_1: if
+[27:48.84 - 27:50.44] speaker_0: you search for language and you return
+[27:50.50 - 27:50.60] speaker_1: like
+[27:50.80 - 27:55.18] speaker_0: you know basically all of the metainns you want to see where that you spoke about it and where they
+[27:55.26 - 27:55.36] speaker_1: just
+[27:55.42 - 27:55.72] speaker_0: mentione
+[27:56.04 - 27:59.34] speaker_1: ot if it's like a two word term there's a tfif idea of
+[27:59.54 - 28:01.82] speaker_3: penze inil be acombond nem
+[28:01.86 - 28:04.22] speaker_1: it's not a compound mount it is two words together
+[28:04.32 - 28:05.30] speaker_3: vulati
+[28:05.36 - 28:07.02] speaker_1: um
+[28:07.10 - 28:09.20] speaker_2: nion
+[28:09.26 - 28:11.26] speaker_1: is something like ome
+[28:11.34 - 28:11.84] speaker_0: ed'nbrgh
+[28:11.86 - 28:20.38] speaker_1: ununy
+[28:20.42 - 28:22.76] speaker_3: um
+[28:23.00 - 28:23.06] speaker_0: in
+[28:23.16 - 28:23.30] speaker_3: its
+[28:23.34 - 28:23.84] speaker_2: my simple
+[28:23.88 - 28:24.32] speaker_3: form it
+[28:24.38 - 28:24.64] speaker_1: would do
+[28:24.92 - 28:24.96] speaker_2: a
+[28:25.02 - 28:25.60] speaker_3: separate rank
+[28:25.64 - 28:25.96] speaker_1: for each
+[28:26.02 - 28:27.20] speaker_3: one each term
+[28:27.66 - 28:27.92] speaker_2: you could
+[28:28.00 - 28:29.16] speaker_3: make it more complicated and make
+[28:29.20 - 28:29.44] speaker_2: it thet
+[28:29.70 - 28:30.12] speaker_1: not make it
+[28:30.18 - 28:33.74] speaker_3: more competia
+[28:33.76 - 28:34.02] speaker_0: because
+[28:34.06 - 28:35.04] speaker_1: i  thingis
+[28:35.06 - 28:35.16] speaker_2: that
+[28:35.44 - 28:38.20] speaker_1: the way we were having it we were just looking for the words period each word
+[28:38.30 - 28:38.36] speaker_2: in
+[28:39.04 - 28:46.64] speaker_1: the um in the index the olest way wewere thinking and then then intodicing were these two werdsden in any of these documents men apitliz and we go closer indo
+[28:46.66 - 28:46.70] speaker_2: t
+[28:46.86 - 28:47.36] speaker_1: the nex d
+[28:47.42 - 28:48.44] speaker_2: search
+[28:48.52 - 28:48.70] speaker_3: yea
+[28:49.20 - 28:49.28] speaker_2: um
+[28:49.72 - 28:49.90] speaker_1: look
+[28:49.92 - 28:50.00] speaker_2: for
+[28:50.06 - 28:51.98] speaker_1: the exact term or the regular expression
+[28:52.26 - 28:52.48] speaker_3: i guess
+[28:52.52 - 28:52.76] speaker_1: you just
+[28:52.84 - 28:55.00] speaker_3: do some of the um
+[28:55.94 - 28:56.00] speaker_2: of
+[28:56.12 - 28:56.20] speaker_1: the
+[28:56.46 - 28:56.54] speaker_3: the
+[28:56.64 - 28:57.20] speaker_1: individual
+[28:57.22 - 28:58.98] speaker_3: t fi the for each
+[28:59.14 - 28:59.38] speaker_1: term
+[28:59.40 - 28:59.96] speaker_3: returns
+[29:00.14 - 29:00.22] speaker_1: and
+[29:00.30 - 29:01.08] speaker_3: that jeneary
+[29:01.16 - 29:01.30] speaker_1: will
+[29:01.38 - 29:04.54] speaker_3: be a bit crude but it will give you a score and the higher
+[29:04.58 - 29:04.82] speaker_1: the more
+[29:05.14 - 29:09.30] speaker_3: more informative each term is for each thing we give you
+[29:09.34 - 29:09.48] speaker_1: o
+[29:09.48 - 29:13.84] speaker_3: be of you high think it is pretty crude day way is just looking for arm
+[29:13.98 - 29:14.30] speaker_2: givvinc
+[29:14.34 - 29:17.02] speaker_3: all is ckenedays look for sex separace os thet it's going to got into
+[29:17.10 - 29:17.34] speaker_1: the n
+[29:17.48 - 29:18.50] speaker_3: d sensmentn
+[29:19.04 - 29:24.82] speaker_1: for we choose the list of meetings that we wanted to search to dotha yea
+[29:24.86 - 29:25.80] speaker_3: um
+[29:26.02 - 29:26.08] speaker_2: li
+[29:26.08 - 29:26.72] speaker_1: e im just wondein
+[29:26.80 - 29:26.86] speaker_2: if
+[29:26.92 - 29:28.10] speaker_1: it's going to give us something cool
+[29:28.16 - 29:28.26] speaker_2: then
+[29:28.50 - 29:29.22] speaker_1: y absolutely
+[29:29.36 - 29:29.84] speaker_2: but if
+[29:29.92 - 29:33.08] speaker_1: it's sort of like if the nnexty search as still got ta be run
+[29:33.22 - 29:33.28] speaker_2: to
+[29:33.36 - 29:36.08] speaker_1: find these terms wor this andrienv yeah
+[29:36.14 - 29:38.88] speaker_3: without doing any like um
+[29:38.94 - 29:39.52] speaker_2: webpas
+[29:39.52 - 29:42.70] speaker_1: wer also like to um wild cards work for something like
+[29:42.74 - 29:42.84] speaker_2: that
+[29:43.24 - 29:48.54] speaker_1: so if you're looking for a wireless wired wire blubbl blog you do wire with a star and hum
+[29:48.60 - 29:50.92] speaker_3: yeah en that way acsually
+[29:50.94 - 29:53.82] speaker_1: that's a problem for me too so
+[29:53.84 - 29:56.78] speaker_3: that' oyeah
+[29:56.78 - 29:57.14] speaker_1: yeah but
+[29:57.22 - 29:57.78] speaker_3: the idea
+[29:57.86 - 29:57.92] speaker_2: is
+[29:58.02 - 29:59.26] speaker_3: that gives you inforwity score
+[29:59.28 - 29:59.50] speaker_1: or how
+[29:59.62 - 30:01.44] speaker_3: you combine these
+[30:01.54 - 30:01.68] speaker_2: is
+[30:01.70 - 30:02.38] speaker_3: unto you i guess
+[30:02.46 - 30:02.52] speaker_2: it
+[30:02.60 - 30:05.42] speaker_3: there's lost in the literature itiworunkums
+[30:05.46 - 30:05.82] speaker_1: ef you
+[30:05.86 - 30:15.74] speaker_3: waild we tere' dere's a la whole loa bout i in maneing an shoots le go home chunk about a so jus ioi bycnnr
+[30:15.78 - 30:15.92] speaker_1: i've
+[30:15.92 - 30:18.64] speaker_3: god bein a good chatteoner if you haven't got its own cognit
+[30:18.80 - 30:25.78] speaker_1: yeah i've got to i somwher ptfy
+[30:25.84 - 30:29.36] speaker_3: hundreds of petiostiphipedia
+[30:29.38 - 30:30.84] speaker_1: switched postcripts with t bactopei
+[30:30.90 - 30:35.78] speaker_3: p
+[30:35.84 - 30:36.28] speaker_1: a
+[30:36.36 - 30:37.16] speaker_2: hunke
+[30:37.22 - 30:43.52] speaker_1: that's kmitbe good so
+[30:43.70 - 30:43.76] speaker_2: to
+[30:43.86 - 30:43.96] speaker_1: come
+[30:44.02 - 30:44.12] speaker_0: back
+[30:44.18 - 30:44.74] speaker_2: to stop
+[30:44.82 - 30:48.26] speaker_1: screansort ofti'm
+[30:48.40 - 30:48.44] speaker_0: i
+[30:48.68 - 30:48.74] speaker_3: i'
+[30:49.06 - 30:49.24] speaker_1: very
+[30:49.28 - 30:49.56] speaker_0: unsure
+[30:49.58 - 30:49.76] speaker_2: about
+[30:49.78 - 30:49.88] speaker_0: what
+[30:49.96 - 30:50.06] speaker_2: that
+[30:50.12 - 30:53.56] speaker_0: shou look like i mean we want it for the part where
+[30:53.64 - 30:53.72] speaker_2: you
+[30:53.78 - 30:53.88] speaker_1: can
+[30:53.96 - 30:54.68] speaker_0: choose choose
+[30:54.76 - 30:54.84] speaker_2: the
+[30:55.02 - 30:57.80] speaker_0: the meeting what kind of information do you want have about meetig i mean the
+[30:57.98 - 30:58.06] speaker_1: the
+[30:58.42 - 30:58.50] speaker_2: the
+[30:58.56 - 30:59.92] speaker_0: longer name holmostly
+[31:00.06 - 31:00.12] speaker_2: if
+[31:00.20 - 31:03.38] speaker_0: there is one eusethey don't all have long in it
+[31:03.44 - 31:03.76] speaker_1: what the
+[31:03.84 - 31:06.14] speaker_0: users that spoke
+[31:06.32 - 31:06.60] speaker_2: usis
+[31:06.60 - 31:08.32] speaker_0: that took part then that's
+[31:08.38 - 31:09.14] speaker_1: porbe
+[31:09.56 - 31:10.00] speaker_0: pretty much
+[31:10.12 - 31:10.20] speaker_2: the
+[31:10.26 - 31:11.12] speaker_0: same for the same
+[31:11.18 - 31:12.38] speaker_2: group
+[31:12.84 - 31:18.70] speaker_1: probably for the most part i mean there'll be a set of people that to anhounce subsec of jeminpon
+[31:18.74 - 31:19.20] speaker_0: yeah just
+[31:19.28 - 31:19.34] speaker_2: to
+[31:19.44 - 31:19.54] speaker_1: give
+[31:19.60 - 31:19.70] speaker_0: them
+[31:19.76 - 31:19.82] speaker_2: an
+[31:19.90 - 31:21.32] speaker_0: idea general idea what there
+[31:21.36 - 31:21.42] speaker_1: is
+[31:21.64 - 31:22.92] speaker_0: and so they can pick e
+[31:23.20 - 31:27.12] speaker_1: oa esearch for stuff  stard worinyeahi
+[31:27.14 - 31:28.60] speaker_3: guesi yeh i ges a few
+[31:28.66 - 31:33.12] speaker_1: brows okey like search brows um
+[31:33.38 - 31:33.52] speaker_2: like
+[31:33.56 - 31:34.84] speaker_1: if you're looking for something speci
+[31:34.84 - 31:34.94] speaker_2: like
+[31:35.22 - 31:42.60] speaker_1: is what you're thinking like if they if they know exactly where they want to go and they want to go to you know that meeting on december third an they just gott to go there and see stuff then theykin ganle go
+[31:42.62 - 31:46.70] speaker_0: in browsing yeah i want to look at the meeting where soner spoke
+[31:47.60 - 31:47.68] speaker_1: of
+[31:47.78 - 31:48.40] speaker_0: that you
+[31:48.44 - 31:48.54] speaker_1: know
+[31:48.80 - 31:50.18] speaker_0: some some sort of research
+[31:50.24 - 31:51.50] speaker_1: group
+[31:51.66 - 31:52.04] speaker_0: i want
+[31:52.18 - 31:52.28] speaker_2: that
+[31:52.38 - 31:53.74] speaker_0: first meeting look at that
+[31:53.80 - 31:59.52] speaker_1: gi
+[31:59.72 - 31:59.96] speaker_2: browse
+[31:59.96 - 32:00.10] speaker_1: by
+[32:00.12 - 32:00.36] speaker_2: meeting
+[32:00.48 - 32:02.92] speaker_1: browsebi law prasby speaker
+[32:03.00 - 32:03.04] speaker_2: i
+[32:03.04 - 32:06.96] speaker_1: e none just think of different ways we can i'll do that like deviotins on the toplic
+[32:07.16 - 32:07.22] speaker_2: if
+[32:07.28 - 32:12.14] speaker_1: they're looking for particular person particular working group particular whatever i mean we just uh
+[32:12.70 - 32:12.76] speaker_2: we
+[32:12.86 - 32:14.04] speaker_1: could break things down like
+[32:14.08 - 32:14.18] speaker_2: that
+[32:14.46 - 32:17.58] speaker_1: to that level of detail ofd we want or we could
+[32:17.88 - 32:19.70] speaker_0: evermore general because
+[32:19.74 - 32:19.80] speaker_2: we
+[32:19.98 - 32:20.04] speaker_1: we
+[32:20.14 - 32:21.62] speaker_0: just want to have a way
+[32:21.64 - 32:21.74] speaker_2: of
+[32:21.90 - 32:23.60] speaker_0: of because
+[32:23.66 - 32:23.72] speaker_1: as
+[32:23.78 - 32:31.56] speaker_0: soon as they've got loaded their first meeting they can they can browse through that quite nicely
+[32:31.78 - 32:31.84] speaker_2: um
+[32:32.26 - 32:32.36] speaker_3: yeah
+[32:32.62 - 32:32.70] speaker_2: but
+[32:32.78 - 32:38.42] speaker_1: i'm just thinking like initially when they load up what are the range of things that they'd want to do yeah
+[32:38.94 - 32:39.06] speaker_2: like
+[32:39.12 - 32:43.10] speaker_1: if they're part of ex working group the want o get in there
+[32:43.36 - 32:43.54] speaker_2: do we
+[32:43.60 - 32:46.80] speaker_1: want to save preferences
+[32:46.98 - 32:47.08] speaker_2: what
+[32:47.10 - 32:47.66] speaker_0: do you mean
+[32:47.84 - 32:53.96] speaker_1: well if they're part of btd b working group they're going to want ta look at the beauty being ones answered defaultto anna
+[32:53.98 - 32:54.06] speaker_0: how
+[32:54.20 - 32:54.40] speaker_1: how are
+[32:54.40 - 32:55.88] speaker_0: we going to know that
+[32:56.02 - 32:58.40] speaker_1: bestot wantted it last time
+[32:58.74 - 32:58.80] speaker_2: he
+[32:58.96 - 33:04.04] speaker_3: can have his safe preferences kild have a side prescent pereiences i guess
+[33:04.10 - 33:04.36] speaker_2: but that
+[33:04.38 - 33:08.64] speaker_0: would defy the whole point of browsing ight if you nwant us to l or i
+[33:08.70 - 33:13.30] speaker_3: call it favorites
+[33:13.32 - 33:13.44] speaker_1: you
+[33:13.46 - 33:13.76] speaker_3: conhave
+[33:13.80 - 33:15.06] speaker_1: faia to scriri
+[33:15.14 - 33:18.66] speaker_0: on the lest
+[33:18.68 - 33:18.84] speaker_3: it's
+[33:18.86 - 33:20.52] speaker_0: not like they come back every day and
+[33:20.64 - 33:20.70] speaker_1: do
+[33:20.78 - 33:20.86] speaker_2: the
+[33:20.92 - 33:26.04] speaker_0: same oustingi
+[33:26.08 - 33:30.58] speaker_1: forgotokay
+[33:30.58 - 33:30.76] speaker_0: well
+[33:30.78 - 33:45.90] speaker_1: no i'm just getting back to the sort of walk could be on the veo started scream like there's just a range of things we could do we could have like surch options prowse options i mean just oi'm just playing around with ideas
+[33:45.96 - 33:46.04] speaker_2: and
+[33:46.08 - 33:49.96] speaker_1: then we can tie this into our evaluation
+[33:50.08 - 33:50.14] speaker_2: uh
+[33:50.36 - 33:50.90] speaker_1: tasks
+[33:50.94 - 33:51.02] speaker_2: and
+[33:51.12 - 33:51.82] speaker_1: say well if you
+[33:51.88 - 33:51.98] speaker_2: want
+[33:52.06 - 33:56.24] speaker_1: to search for a meeting or search for a user any particular meeting than to this bluobyo ble
+[33:56.64 - 33:59.26] speaker_0: m a rig
+[33:59.30 - 34:01.18] speaker_1: he hey my task is
+[34:01.22 - 34:01.26] speaker_2: o
+[34:01.32 - 34:07.30] speaker_1: do this an there's a button eeetin
+[34:07.38 - 34:08.02] speaker_0: am
+[34:08.04 - 34:08.26] speaker_1: yeah
+[34:08.28 - 34:09.82] speaker_3: iwe quite git a bit hazier
+[34:10.44 - 34:12.70] speaker_0: i wasn't going to put any you know any any help
+[34:12.78 - 34:12.84] speaker_2: in
+[34:12.90 - 34:12.94] speaker_1: t
+[34:12.94 - 34:13.70] speaker_0: e any sort
+[34:13.72 - 34:13.78] speaker_2: of
+[34:14.84 - 34:16.76] speaker_0: an explanation of how the brosel works to be honest
+[34:16.88 - 34:20.10] speaker_1: no to e no ot him said dora so i'm just saying like these are
+[34:20.16 - 34:20.26] speaker_2: just
+[34:20.52 - 34:30.74] speaker_1: like a lot of programs for kind of lame programs do you have that sort of thing first is ecause they don't want people to have to go through all the menus in search themselves and just like do commonly use
+[34:30.82 - 34:31.26] speaker_0: tasks
+[34:31.32 - 34:34.60] speaker_1: or just exit and just let me use the programe as
+[34:34.68 - 34:35.74] speaker_3: one
+[34:35.82 - 34:37.36] speaker_0: dofat i mean the main thing what you want
+[34:37.36 - 34:37.46] speaker_2: to
+[34:37.52 - 34:37.58] speaker_1: do
+[34:37.88 - 34:37.94] speaker_2: is
+[34:38.12 - 34:38.48] speaker_1: to view
+[34:38.66 - 34:39.86] speaker_0: meeting i
+[34:39.90 - 34:41.44] speaker_1: probably or search somean says
+[34:41.48 - 34:42.46] speaker_0: yale sis yam
+[34:42.60 - 34:42.70] speaker_1: says
+[34:42.90 - 34:42.96] speaker_2: an
+[34:43.04 - 34:44.50] speaker_3: evin if it a se two things she
+[34:44.58 - 34:44.68] speaker_2: said
+[34:44.86 - 34:44.98] speaker_1: once
+[34:45.08 - 34:49.72] speaker_3: so one said take me straight to this meeting and have om textbooks uintewould drop dhew menu
+[34:49.92 - 34:49.98] speaker_2: en
+[34:50.06 - 34:52.78] speaker_3: another one a sad serch that ladges intantly legen o the search
+[34:52.82 - 34:56.48] speaker_1: like a fine specific meeting nolesortthinge
+[34:56.52 - 34:58.04] speaker_3: oh one yeah
+[34:58.08 - 34:59.54] speaker_0: e yea that all happens
+[34:59.62 - 34:59.68] speaker_2: to
+[34:59.74 - 35:05.62] speaker_0: the search baicly you basically either that uer knows which meeting he wants to look out eav just cooks on
+[35:05.70 - 35:05.76] speaker_2: it
+[35:06.18 - 35:06.24] speaker_1: or
+[35:06.32 - 35:08.60] speaker_0: he doesn't and any searches for one that
+[35:08.68 - 35:09.94] speaker_1: sort of such
+[35:09.96 - 35:11.08] speaker_3: as rterthing to dois
+[35:11.14 - 35:11.24] speaker_1: just
+[35:11.32 - 35:15.08] speaker_3: have it search es the defult just the opens and the searchwindow opens and that's
+[35:15.16 - 35:15.26] speaker_1: the
+[35:15.36 - 35:16.68] speaker_3: interface and you
+[35:16.76 - 35:16.86] speaker_1: just
+[35:17.26 - 35:18.68] speaker_3: go from there
+[35:18.72 - 35:21.00] speaker_0: yea
+[35:21.16 - 35:21.24] speaker_2: and
+[35:21.28 - 35:21.38] speaker_3: then
+[35:21.48 - 35:21.58] speaker_1: that
+[35:21.68 - 35:25.12] speaker_3: brings up the browser ofty for search for something
+[35:25.22 - 35:25.82] speaker_1: oh with
+[35:25.88 - 35:30.34] speaker_3: a such but the sethment i could have on it something that said jest has a jop down maney that's says
+[35:30.44 - 35:30.54] speaker_1: just
+[35:30.64 - 35:31.96] speaker_3: in a go button that said take me
+[35:32.00 - 35:32.06] speaker_1: to
+[35:32.12 - 35:32.22] speaker_2: this
+[35:32.62 - 35:35.68] speaker_0: oh i see what you mean said that sithe inside the sideman yes
+[35:35.70 - 35:35.76] speaker_1: so
+[35:35.82 - 35:36.76] speaker_3: the only thing that comes
+[35:36.82 - 35:36.88] speaker_1: up
+[35:36.96 - 35:37.56] speaker_3: when you finish
+[35:37.66 - 35:37.92] speaker_1: is a
+[35:38.12 - 35:39.98] speaker_3: um when you start it's
+[35:40.00 - 35:40.32] speaker_1: just one
+[35:40.38 - 35:41.36] speaker_3: window like that
+[35:41.54 - 35:41.62] speaker_2: and
+[35:41.68 - 35:47.02] speaker_3: it's got all the search stuff right down there says  is is search just a little har
+[35:47.08 - 35:47.16] speaker_2: and
+[35:47.24 - 35:50.00] speaker_3: e here is just to go to wherever
+[35:50.10 - 35:50.18] speaker_2: in
+[35:50.24 - 35:51.60] speaker_3: a guy button
+[35:51.64 - 35:51.72] speaker_1: and
+[35:51.78 - 35:52.80] speaker_3: then from there take you
+[35:52.82 - 35:54.00] speaker_0: to ayeah that sats
+[35:54.10 - 35:56.92] speaker_1: yeah
+[35:56.96 - 35:59.68] speaker_3: anhe the topits is welcome to welfume to
+[35:59.78 - 35:59.94] speaker_1: our
+[36:00.02 - 36:02.62] speaker_0: browser yeah that looks bout right
+[36:02.72 - 36:02.78] speaker_2: um
+[36:03.08 - 36:03.16] speaker_1: but
+[36:03.94 - 36:06.48] speaker_0: i'm i'm otsure that how too how
+[36:06.50 - 36:06.56] speaker_2: to
+[36:06.62 - 36:06.70] speaker_1: put
+[36:06.78 - 36:08.00] speaker_0: all the information in there
+[36:08.04 - 36:08.90] speaker_3: eo weneed
+[36:08.94 - 36:12.36] speaker_0: toked the robb dain menu but we want all the information about
+[36:12.52 - 36:12.60] speaker_2: the
+[36:12.68 - 36:16.08] speaker_3: name the longer you are in thwe
+[36:16.08 - 36:20.42] speaker_1: don't actually have user names to it or untel all these codes we times the go os an maraism
+[36:20.62 - 36:21.68] speaker_0: maybe if they need the codes
+[36:21.80 - 36:21.84] speaker_2: a
+[36:22.00 - 36:25.10] speaker_0: in other terrrin athere
+[36:25.12 - 36:25.18] speaker_3: in
+[36:25.28 - 36:26.92] speaker_1: case like that we do want dropdown we don't want
+[36:26.96 - 36:27.06] speaker_2: them
+[36:27.12 - 36:29.62] speaker_1: to type from doing
+[36:29.68 - 36:30.66] speaker_2: yea
+[36:30.78 - 36:33.56] speaker_0: pear drumped onno
+[36:33.62 - 36:33.88] speaker_2: um
+[36:34.10 - 36:37.86] speaker_1: and allow multiple no onkay you're just looking for one specific misses givle
+[36:37.88 - 36:39.58] speaker_3: you'll want to search your search if you want to look
+[36:39.62 - 36:39.70] speaker_1: for
+[36:39.76 - 36:52.40] speaker_3: one meeting and just look at it  a tat's tue e is you have two one the ondest one one there but when you got to he one from meeting one of the speaker and ye can jeeze he
+[36:52.44 - 36:52.52] speaker_1: can
+[36:52.58 - 36:55.32] speaker_3: go go fhor goin go ver the other gan go for bate go
+[36:55.34 - 36:55.64] speaker_0: no no
+[36:55.66 - 36:55.76] speaker_1: no
+[36:55.84 - 36:55.92] speaker_3: i'm
+[36:55.98 - 36:56.32] speaker_1: not i'm
+[36:56.38 - 36:56.78] speaker_0: not saying
+[36:57.16 - 36:57.42] speaker_1: you can
+[36:57.74 - 36:57.96] speaker_2: you can
+[36:58.06 - 36:59.16] speaker_0: pick a user
+[36:59.34 - 36:59.64] speaker_2: but it
+[36:59.72 - 36:59.88] speaker_0: should
+[36:59.96 - 37:00.06] speaker_3: come
+[37:00.12 - 37:00.38] speaker_1: up with
+[37:00.48 - 37:01.10] speaker_0: some list
+[37:01.22 - 37:01.30] speaker_2: but
+[37:01.46 - 37:01.52] speaker_1: an
+[37:01.64 - 37:02.38] speaker_0: extended list
+[37:02.50 - 37:02.56] speaker_2: of
+[37:02.64 - 37:02.72] speaker_1: the
+[37:03.06 - 37:03.12] speaker_2: of
+[37:03.18 - 37:05.30] speaker_0: the meeting so you know you have vediar whatever
+[37:05.36 - 37:05.42] speaker_2: he
+[37:05.48 - 37:05.56] speaker_1: was
+[37:05.66 - 37:06.60] speaker_0: called
+[37:06.70 - 37:06.92] speaker_1: a
+[37:07.00 - 37:08.32] speaker_0: on and then it gives
+[37:08.38 - 37:08.46] speaker_1: you
+[37:08.82 - 37:08.90] speaker_2: the
+[37:08.96 - 37:10.64] speaker_0: longer name law
+[37:10.76 - 37:10.84] speaker_2: and
+[37:10.90 - 37:12.00] speaker_0: then he gives you the you
+[37:12.04 - 37:12.14] speaker_1: know
+[37:12.22 - 37:13.48] speaker_0: the participants
+[37:13.62 - 37:15.42] speaker_3: wo can do microsoft study and hold it over
+[37:15.50 - 37:15.58] speaker_2: and
+[37:15.64 - 37:15.70] speaker_1: it
+[37:15.94 - 37:21.34] speaker_3: pops up a thing
+[37:21.34 - 37:21.98] speaker_1: butthen
+[37:22.02 - 37:22.14] speaker_0: i
+[37:22.18 - 37:22.30] speaker_3: a
+[37:22.32 - 37:22.64] speaker_0: pobic
+[37:22.66 - 37:23.08] speaker_3: cave
+[37:23.10 - 37:24.76] speaker_0: and that is not at all i think
+[37:24.86 - 37:25.82] speaker_1: ontoe i told
+[37:25.88 - 37:31.90] speaker_0: eti have not tried that yet buhui
+[37:31.92 - 37:32.06] speaker_3: see
+[37:32.10 - 37:33.12] speaker_0: at
+[37:33.22 - 37:33.32] speaker_3: yeah
+[37:33.54 - 37:33.62] speaker_1: i'm
+[37:33.70 - 37:33.82] speaker_2: not
+[37:33.86 - 37:34.00] speaker_0: sure
+[37:34.08 - 37:34.18] speaker_1: what
+[37:34.50 - 37:35.32] speaker_0: is that very
+[37:36.00 - 37:36.20] speaker_2: is hi
+[37:36.28 - 37:38.04] speaker_0: not knawing if you have to
+[37:38.42 - 37:42.96] speaker_3: gat ot the budtya oi ye
+[37:43.00 - 37:44.82] speaker_0: o lot then he never
+[37:44.90 - 37:44.96] speaker_2: to
+[37:45.08 - 37:46.02] speaker_0: search for
+[37:46.16 - 37:46.36] speaker_2: ar you
+[37:46.54 - 37:49.66] speaker_0: perceive specific user you have to hold him outsa that
+[37:49.76 - 37:49.84] speaker_1: one
+[37:49.94 - 37:53.56] speaker_3: wait for it to popa yeah
+[37:53.58 - 37:53.70] speaker_1: but
+[37:53.72 - 37:54.92] speaker_3: that's why you could just have a list
+[37:54.94 - 37:55.00] speaker_1: of
+[37:55.06 - 38:00.30] speaker_3: your users then and just you just say i want to look for this season go
+[38:00.50 - 38:00.96] speaker_0: then
+[38:01.16 - 38:01.34] speaker_3: find
+[38:01.36 - 38:01.46] speaker_2: me
+[38:01.54 - 38:01.64] speaker_1: then
+[38:01.82 - 38:05.56] speaker_3: then it pulls up a list of of all the ones who got that deser and then he searched then
+[38:05.92 - 38:05.98] speaker_2: bu
+[38:06.04 - 38:07.54] speaker_3: then he didn't search may me just leave
+[38:07.58 - 38:07.94] speaker_1: it just
+[38:08.02 - 38:09.70] speaker_3: have them leating names there
+[38:09.86 - 38:09.94] speaker_1: and
+[38:10.12 - 38:18.06] speaker_3: don't worry about the speakers if they don't speak as they doing such it's not the same as toing a quick access
+[38:18.22 - 38:18.30] speaker_2: noa
+[38:18.82 - 38:19.00] speaker_1: it'd
+[38:19.00 - 38:19.46] speaker_0: just be nice
+[38:19.48 - 38:19.54] speaker_1: to
+[38:19.60 - 38:21.38] speaker_0: have some basic information onye
+[38:21.42 - 38:21.88] speaker_3: o yecan have
+[38:21.92 - 38:24.72] speaker_0: a text box sta ea inin t updates
+[38:24.76 - 38:25.84] speaker_3: dea as you go over
+[38:25.90 - 38:25.98] speaker_1: the
+[38:26.08 - 38:28.22] speaker_3: veng then tates getting more for ioea
+[38:28.24 - 38:32.30] speaker_0: maybe that's the best idea to ner so you've got to drop din in you
+[38:32.34 - 38:32.38] speaker_2: a
+[38:32.48 - 38:37.14] speaker_0: search a search buta not search goben
+[38:37.18 - 38:37.26] speaker_2: and
+[38:37.30 - 38:39.82] speaker_0: then
+[38:40.02 - 38:40.20] speaker_2: some
+[38:40.24 - 38:40.88] speaker_0: sort of fields
+[38:40.98 - 38:41.10] speaker_1: which
+[38:41.28 - 38:44.64] speaker_0: updates stanaically depending on what you highlighted
+[38:44.64 - 38:45.66] speaker_3: the full name and the
+[38:45.72 - 38:50.02] speaker_1: speakerye
+[38:50.08 - 38:50.18] speaker_0: we
+[38:50.20 - 38:50.34] speaker_1: can
+[38:50.36 - 38:50.44] speaker_2: do
+[38:50.50 - 38:56.28] speaker_3: all of that without even ever going anywhere near loading upper
+[38:56.30 - 38:56.38] speaker_2: i
+[38:56.42 - 38:57.20] speaker_3: think
+[38:57.26 - 38:57.72] speaker_0: unc
+[38:57.74 - 39:03.60] speaker_3: a a thing non a'm meeting anomia what
+[39:03.64 - 39:05.14] speaker_0: is nomasa sandfor
+[39:05.30 - 39:06.74] speaker_3: i think it's an eritalship model
+[39:06.86 - 39:08.54] speaker_0: onighte
+[39:08.58 - 39:11.28] speaker_1: utsan i think in that case its the bright corpus
+[39:11.46 - 39:18.68] speaker_3: soe night we ar easy rigeis the right co fi to night right corfic and then he got nightright elments anright
+[39:19.58 - 39:21.68] speaker_0: o got lots of none something and then
+[39:21.80 - 39:22.04] speaker_3: night
+[39:22.34 - 39:24.78] speaker_0: and then en someting eren
+[39:24.84 - 39:25.06] speaker_1: ones
+[39:25.08 - 39:25.82] speaker_3: heir interfaces
+[39:25.86 - 39:25.92] speaker_1: in
+[39:25.98 - 39:27.22] speaker_3: the night one one of the ways
+[39:27.30 - 39:27.46] speaker_1: round
+[39:27.54 - 39:28.92] speaker_3: ondering space and one's actually
+[39:28.98 - 39:29.04] speaker_2: an
+[39:29.14 - 39:31.92] speaker_3: implemented curse
+[39:31.98 - 39:32.10] speaker_1: cause
+[39:32.16 - 39:32.22] speaker_2: if
+[39:32.24 - 39:32.50] speaker_1: you go
+[39:32.62 - 39:38.62] speaker_3: back enough an the am t what's his name o weeki the a piis will right but there's not a lot of description in iit's
+[39:38.64 - 39:43.56] speaker_0: very no as you  and most of the descriptions are hints to each other saying
+[39:43.76 - 39:44.10] speaker_1: you've got
+[39:44.10 - 39:46.92] speaker_0: to update this jonathan this is this
+[39:47.14 - 39:47.20] speaker_2: an
+[39:47.44 - 39:50.92] speaker_0: unintelligible
+[39:50.94 - 39:51.38] speaker_1: so on
+[39:51.64 - 39:57.40] speaker_3: sit returns a n textbox okay what's that though it's a imflementation
+[39:57.44 - 39:57.50] speaker_2: of
+[39:57.56 - 40:00.28] speaker_3: an n textye
+[40:00.64 - 40:01.00] speaker_0: ic
+[40:01.02 - 40:12.10] speaker_3: what's that it's a extended versiono
+[40:12.12 - 40:13.22] speaker_1: right
+[40:13.32 - 40:14.52] speaker_3: so
+[40:15.02 - 40:15.18] speaker_1: any
+[40:15.20 - 40:15.64] speaker_0: one else got
+[40:15.70 - 40:15.92] speaker_1: anything
+[40:15.94 - 40:17.48] speaker_0: o say
+[40:17.52 - 40:20.90] speaker_1: not really just going to keep on going
+[40:21.18 - 40:21.32] speaker_2: do
+[40:21.36 - 40:21.42] speaker_0: we
+[40:21.68 - 40:21.78] speaker_1: yeah
+[40:21.98 - 40:22.20] speaker_2: do we
+[40:22.30 - 40:23.18] speaker_0: want another meeting
+[40:23.34 - 40:23.58] speaker_2: at the
+[40:23.64 - 40:27.40] speaker_0: end of the week um with penina
+[40:27.64 - 40:27.84] speaker_2: might
+[40:27.86 - 40:28.60] speaker_3: be useful women
+[40:28.62 - 40:28.72] speaker_2: yeah
+[40:29.00 - 40:29.84] speaker_1: lik friday afternoon
+[40:29.86 - 40:31.16] speaker_0: or something yes i
+[40:31.22 - 40:31.32] speaker_2: mean
+[40:32.10 - 40:33.52] speaker_0: i think i'm going to do quite a bit
+[40:33.56 - 40:33.80] speaker_1: of what
+[40:33.90 - 40:36.86] speaker_0: this week so ia probabl war to talk about
+[40:36.94 - 40:37.28] speaker_3: yes she
+[40:38.64 - 40:42.34] speaker_1: and we won't have to have the meeting with steve on tuesday were at all
+[40:42.46 - 40:43.26] speaker_2: so do
+[40:43.28 - 40:48.24] speaker_1: we want to arrange this get this one earlier i mean three year
+[40:48.40 - 40:48.46] speaker_2: if
+[40:48.52 - 40:48.80] speaker_0: you like
+[40:49.12 - 40:49.18] speaker_2: oh
+[40:49.26 - 40:50.20] speaker_0: we can disl discuss
+[40:50.26 - 40:50.34] speaker_1: on
+[40:50.40 - 40:55.72] speaker_0: friday if we have on botro
+[40:55.94 - 40:56.12] speaker_1: gi
+[40:56.14 - 40:56.52] speaker_2: anya
+[40:56.58 - 40:57.02] speaker_1: triple
+[40:57.04 - 40:57.22] speaker_2: what
+[40:57.26 - 41:02.24] speaker_0: time just
+[41:02.30 - 41:03.00] speaker_1: after
+[41:03.16 - 41:03.98] speaker_2: spt
+[41:05.90 - 41:05.92] speaker_0: 
+[41:05.98 - 41:06.50] speaker_1: possibly
+[41:06.54 - 41:07.00] speaker_3: i hena
+[41:07.04 - 41:09.62] speaker_1: usually by them mad to break
+[41:09.68 - 41:11.20] speaker_3: dear but i me alhough rihwell
+[41:11.30 - 41:15.24] speaker_1: i don't know because it's loud and try and get some work done gfortho
+[41:15.52 - 41:16.72] speaker_3: ask off ye
+[41:17.70 - 41:19.76] speaker_0: i've got a doctor's a pointint ten
+[41:19.82 - 41:21.94] speaker_1: two right
+[41:21.98 - 41:24.58] speaker_3: and
+[41:24.64 - 41:24.82] speaker_1: what
+[41:24.96 - 41:25.22] speaker_2: frindy
+[41:25.24 - 41:26.02] speaker_0: morning
+[41:26.06 - 41:27.44] speaker_3: oh
+[41:27.48 - 41:27.68] speaker_0: reat
+[41:27.90 - 41:31.44] speaker_1: three o'clockwrater you want to get out
+[41:31.62 - 41:33.12] speaker_3: thoug i maybe ide i'm not
+[41:33.22 - 41:33.40] speaker_1: sure
+[41:33.50 - 41:37.52] speaker_3: i et agany
+[41:37.64 - 41:37.82] speaker_2: ause i
+[41:37.90 - 41:44.42] speaker_1: think she's got a class at eleven we've olda clock while three of us have class o twelve
+[41:44.56 - 41:45.10] speaker_0: hama
+[41:45.24 - 41:46.16] speaker_3: we say three o'clock and
+[41:46.20 - 41:46.30] speaker_2: then
+[41:46.50 - 41:47.90] speaker_3: if there's a serioes wol mor
+[41:47.96 - 41:48.78] speaker_1: we could try one
+[41:48.90 - 41:48.96] speaker_2: we
+[41:49.02 - 41:54.14] speaker_1: could try shortly after ol ye yea oh yah wol wouldn't be a long meeting then would you want
+[41:54.14 - 41:54.24] speaker_2: to
+[41:54.88 - 41:58.46] speaker_1: no probably no am if one's bad for you then nah
+[41:58.64 - 41:58.70] speaker_2: no
+[41:58.86 - 42:02.10] speaker_0: that that would only give us like thirty five minutes as
+[42:02.32 - 42:03.38] speaker_1: maco
+[42:03.40 - 42:04.24] speaker_0: well what
+[42:04.40 - 42:05.32] speaker_3: smil on met me mother
+[42:05.50 - 42:07.72] speaker_0: e late night you know five or six
+[42:07.82 - 42:09.04] speaker_3: a hriz burdon fora
+[42:09.04 - 42:11.00] speaker_1: yea
+[42:11.08 - 42:11.26] speaker_2: well
+[42:11.28 - 42:12.16] speaker_0: three o'clock lets say
+[42:12.20 - 42:14.94] speaker_3: a coat si say three o'clock and then um
+[42:15.40 - 42:15.46] speaker_1: if
+[42:15.52 - 42:15.74] speaker_2: there's
+[42:15.78 - 42:21.16] speaker_3: a problem in that then it's three clocks a problem faevher sax will be a problem cause i might be here
+[42:21.58 - 42:21.66] speaker_1: but
+[42:21.74 - 42:25.12] speaker_3: i don't think that will be mor so
+[42:25.18 - 42:29.68] speaker_0: all right um il write this meeting up an al senate to penswell
+[42:29.72 - 42:31.46] speaker_3: is she collecting them
+[42:31.50 - 42:31.60] speaker_0: no
+[42:32.06 - 42:33.60] speaker_3: te he jus san eter especially
+[42:33.70 - 42:35.86] speaker_0: cause she's not hereh
+[42:35.86 - 42:37.74] speaker_3: cole o right o yesl
+[42:37.74 - 42:39.04] speaker_0: ri
+[42:39.06 - 42:40.06] speaker_1: yes
+[42:40.18 - 42:41.18] speaker_3: oco
+[42:41.18 - 42:43.18] speaker_0: meeting something
+[42:43.26 - 42:43.56] speaker_3: i thought
+[42:43.62 - 42:43.90] speaker_1: somebody
+[42:44.02 - 42:46.56] speaker_3: was collecting them l that's wh eo
+[42:46.70 - 42:48.40] speaker_0: we should probably do that deanfe
+[42:48.90 - 42:50.22] speaker_3: then we' know who's missd em
+[42:50.28 - 42:53.72] speaker_0: soove dis can' we just repeat briefly
+[42:53.78 - 42:53.88] speaker_2: what
+[42:53.96 - 42:57.02] speaker_0: we e spoaken about so we didn't donee progress
+[42:57.06 - 42:57.16] speaker_1: on
+[42:57.22 - 42:58.66] speaker_0: the speaker characterization
+[42:58.94 - 42:59.06] speaker_1: who
+[42:59.12 - 43:08.54] speaker_0: does of speaking characterization we mentioned topic labelling with keywerd um
+[43:08.60 - 43:08.70] speaker_1: we
+[43:08.76 - 43:14.52] speaker_0: discussed if the search should be ranked and martha do you have anything
+[43:14.76 - 43:14.90] speaker_2: um
+[43:15.82 - 43:28.64] speaker_1: there's just sort of the basic implementation stuff that i was wondering about but tan should be fone um progressing w do we decide whether to be ranked noh
+[43:28.66 - 43:31.68] speaker_0: well basically not
+[43:32.04 - 43:32.14] speaker_1: not
+[43:32.24 - 43:33.40] speaker_0: unless you've got time for it
+[43:33.44 - 43:34.40] speaker_1: the end well
+[43:34.44 - 43:35.04] speaker_0: i nic sat the
+[43:35.08 - 43:38.08] speaker_1: en kind to think you would complicate things quite a bit
+[43:38.34 - 43:38.42] speaker_2: and
+[43:38.72 - 43:41.98] speaker_1: not bring us a lot just because if
+[43:42.04 - 43:42.10] speaker_2: it
+[43:42.16 - 43:48.04] speaker_1: is like independently doing the words for our particular documents it'its not it's not really getting them together
+[43:48.28 - 43:48.52] speaker_2: like if
+[43:48.64 - 43:50.90] speaker_1: someone's looking for a particular term
+[43:50.96 - 43:51.82] speaker_2: um
+[43:51.94 - 43:55.16] speaker_1: i don't know just just don't know if it would bring us hot much
+[43:55.46 - 43:55.74] speaker_0: i think
+[43:55.78 - 43:58.68] speaker_1: it would howsoe
+[43:58.84 - 43:58.88] speaker_0: i
+[43:58.96 - 43:59.46] speaker_1: think i think
+[43:59.54 - 43:59.60] speaker_2: it
+[43:59.84 - 44:00.06] speaker_1: it would
+[44:00.64 - 44:02.60] speaker_0: it would give you the mase relevant as ol
+[44:02.66 - 44:10.46] speaker_1: if they're looking for t like i say sunny day and you know sunnye shows up in this document day shows up but the nut together um or
+[44:10.54 - 44:10.90] speaker_2: if if
+[44:10.96 - 44:14.06] speaker_1: they are to i know it just doesn't you're looking for that term
+[44:14.28 - 44:14.36] speaker_0: and
+[44:14.48 - 44:18.08] speaker_1: relevance is kind of irrelevant because if the term shows up it shows off
+[44:18.26 - 44:18.74] speaker_2: no but for
+[44:18.82 - 44:21.20] speaker_0: things like if you search for language
+[44:21.30 - 44:21.66] speaker_1: then you
+[44:21.74 - 44:21.88] speaker_0: might
+[44:21.96 - 44:22.52] speaker_1: have you have
+[44:22.60 - 44:23.16] speaker_0: some topics
+[44:23.36 - 44:23.90] speaker_1: which have
+[44:23.98 - 44:24.04] speaker_2: as
+[44:24.14 - 44:26.12] speaker_0: a you know some some meetings which have
+[44:26.40 - 44:26.48] speaker_1: as
+[44:26.56 - 44:30.46] speaker_0: a topic language they specifically speak about language and they use that word
+[44:30.52 - 44:30.64] speaker_1: like
+[44:30.96 - 44:31.02] speaker_2: in
+[44:31.12 - 44:35.62] speaker_0: every sentence and then you've got those that just mentioned you know mention it briefly ac once
+[44:35.66 - 44:35.94] speaker_1: or twice
+[44:36.04 - 44:36.66] speaker_0: saying you
+[44:36.70 - 44:36.80] speaker_1: know
+[44:37.04 - 44:38.16] speaker_0: my language is german
+[44:38.24 - 44:38.34] speaker_1: or
+[44:38.40 - 44:39.12] speaker_0: something stupid
+[44:39.30 - 44:39.36] speaker_2: on
+[44:39.48 - 44:40.32] speaker_0: that you don't really want
+[44:40.62 - 44:40.68] speaker_2: so
+[44:40.74 - 44:42.70] speaker_0: you want to distinguish thos somehow
+[44:42.80 - 44:43.40] speaker_2: oh nice
+[44:43.44 - 44:44.08] speaker_0: anyway
+[44:44.16 - 44:44.26] speaker_2: yeah
+[44:44.34 - 44:46.32] speaker_1: that wouldn't help enog for simsingle for single
+[44:46.40 - 44:51.34] speaker_3: oves it would be aye for multiple terms unless syou want to do something there will
+[44:51.40 - 44:51.46] speaker_2: be
+[44:51.52 - 44:53.78] speaker_3: a way of doing it for alful sense
+[44:54.00 - 44:56.88] speaker_0: oal tes wean just ain really simple i mean
+[44:57.64 - 44:58.16] speaker_3: well you could do
+[44:58.20 - 44:58.26] speaker_1: it
+[44:58.32 - 45:00.38] speaker_3: and override it by the
+[45:00.64 - 45:00.68] speaker_2: e
+[45:01.54 - 45:01.62] speaker_1: you
+[45:01.70 - 45:02.58] speaker_3: can just ignore
+[45:02.68 - 45:02.76] speaker_2: the
+[45:02.96 - 45:05.34] speaker_3: ranking if it doesn't show up together
+[45:06.44 - 45:06.82] speaker_1: or you
+[45:06.90 - 45:07.02] speaker_2: could
+[45:07.20 - 45:08.56] speaker_3: have you qoinalize it you could just
+[45:08.58 - 45:11.54] speaker_1: put wi to do the search hisstilf to do the nnex t search then
+[45:12.00 - 45:12.10] speaker_2: yeah
+[45:12.32 - 45:14.10] speaker_3: do the enetunal ancess it doesn't sound together
+[45:14.14 - 45:14.70] speaker_1: hat e are either
+[45:14.80 - 45:17.44] speaker_3: disregarded or put awaiting again
+[45:17.46 - 45:17.76] speaker_1: if you can
+[45:17.84 - 45:18.58] speaker_3: how many peys you go
+[45:18.68 - 45:21.06] speaker_1: wouldn't show up on the search results if you as lio to think
+[45:21.08 - 45:21.98] speaker_3: so gee to sothin
+[45:22.00 - 45:26.62] speaker_0: j is tis reumy you jest do it very simply you know
+[45:27.50 - 45:27.56] speaker_2: an
+[45:27.62 - 45:33.38] speaker_1: you'll have them mote i'll hove to talk to urno about this ye it es ono seoh she's u d we are using hat i mean
+[45:33.62 - 45:33.68] speaker_2: it
+[45:33.74 - 45:40.04] speaker_1: does make sense for that but uh n actuallyyeah yeah
+[45:40.16 - 45:40.26] speaker_2: it
+[45:40.30 - 45:42.44] speaker_0: doesn't have to be all intelligent
+[45:42.52 - 45:48.96] speaker_3: o it's not like he's going t get a law of results o an if the one t you got just happened to bet at the bottom en it was actually the most relevant one sol thing
+[45:49.06 - 45:54.28] speaker_1: that was all social up i mean if it's well yeah theoko searcoman
+[45:54.36 - 45:54.52] speaker_2: um
+[45:55.06 - 45:56.82] speaker_1: i think we coul actually put that lick on the list
+[45:56.88 - 45:56.94] speaker_2: of
+[45:57.12 - 46:00.52] speaker_1: um meetings that get return if there were fifteen meetings of languages in
+[46:00.58 - 46:00.64] speaker_2: en
+[46:01.02 - 46:04.80] speaker_1: to cana show you those and helang them mister wicheshies missus
+[46:04.80 - 46:06.32] speaker_3: lein saoc
+[46:06.34 - 46:06.60] speaker_1: and um
+[46:07.72 - 46:11.52] speaker_3: also with the something like sunny day the
+[46:11.68 - 46:11.74] speaker_1: um
+[46:12.88 - 46:12.96] speaker_2: if
+[46:13.06 - 46:13.52] speaker_3: sanny and
+[46:13.58 - 46:13.68] speaker_1: a
+[46:13.80 - 46:14.88] speaker_3: aren't mentioned together a lot
+[46:14.94 - 46:15.02] speaker_2: but
+[46:15.12 - 46:16.32] speaker_3: sunny capinibentions wants
+[46:16.42 - 46:16.52] speaker_1: that
+[46:16.72 - 46:20.26] speaker_3: its term will be low and itw'll push down the other one if you combine them ifyouen
+[46:20.28 - 46:22.74] speaker_1: together the things i mean that'll be exactly how we're doing it
+[46:22.84 - 46:22.92] speaker_2: now
+[46:23.06 - 46:31.40] speaker_1: like we're just looking for the two words separately see if they exist in same document if they do them is possibility that they occur together and then we do the anyxce search on that document yea
+[46:31.46 - 46:42.58] speaker_3: y but you have no ranking system of the moment so if somethings ov an amazing highly ranke thing from tivadi if it could just be ignored because it falls off the botto mother consut ony howyoueve could hu return
+[46:42.68 - 46:42.80] speaker_1: all
+[46:42.86 - 46:43.64] speaker_3: results
+[46:44.24 - 46:44.36] speaker_1: for
+[46:44.44 - 46:46.20] speaker_3: all valou type language
+[46:46.26 - 46:46.58] speaker_1: and it
+[46:46.64 - 46:48.12] speaker_3: returns seventy five meetings
+[46:48.26 - 46:48.34] speaker_0: am
+[46:48.70 - 46:51.44] speaker_1: or right bounond not doing anthing soi onwhat
+[46:51.46 - 46:51.86] speaker_0: my smoll
+[46:51.90 - 46:53.38] speaker_1: ain hear
+[46:53.40 - 46:55.04] speaker_3: no arly sa but there are seventy five
+[46:55.10 - 46:56.22] speaker_0: meetings is there re her
+[46:56.28 - 46:56.58] speaker_3: e
+[46:56.76 - 46:59.56] speaker_1: o oeh
+[46:59.92 - 47:04.74] speaker_3: save it so ye if you returne seventy five why where do you stop how do you rank
+[47:04.78 - 47:04.88] speaker_1: them
+[47:05.06 - 47:07.22] speaker_3: or something or returns twenty even if it tess twenty to
+[47:07.24 - 47:09.44] speaker_1: you cut off  the andyou ran en deante
+[47:09.68 - 47:14.80] speaker_3: e was the etrghea
+[47:16.14 - 47:16.20] speaker_0: it
+[47:16.22 - 47:16.40] speaker_1: would
+[47:16.42 - 47:16.48] speaker_3: be
+[47:16.54 - 47:18.54] speaker_0: useful as el for a wordlike language
+[47:18.60 - 47:18.70] speaker_1: that
+[47:18.84 - 47:19.36] speaker_0: might occur
+[47:19.42 - 47:19.48] speaker_2: in
+[47:19.56 - 47:19.66] speaker_1: all
+[47:19.72 - 47:20.68] speaker_0: of them
+[47:20.76 - 47:20.84] speaker_2: but
+[47:20.92 - 47:21.52] speaker_0: you want to find
+[47:22.02 - 47:22.10] speaker_2: the
+[47:22.18 - 47:24.36] speaker_0: one that actually contains
+[47:24.42 - 47:24.48] speaker_1: it
+[47:24.56 - 47:25.76] speaker_0: usefully somehow
+[47:25.86 - 47:29.22] speaker_1: mhm no
+[47:29.30 - 47:29.38] speaker_2: you
+[47:29.40 - 47:34.00] speaker_0: know you still want to be able to search for for the word language
+[47:34.08 - 47:34.16] speaker_2: in
+[47:34.22 - 47:34.26] speaker_1: a
+[47:34.32 - 47:38.30] speaker_0: sensible way
+[47:38.44 - 47:38.62] speaker_2: wat
+[47:38.64 - 47:39.30] speaker_0: we'll discussing
+[47:39.36 - 47:39.42] speaker_2: in
+[47:39.52 - 47:39.58] speaker_1: on
+[47:39.68 - 47:54.86] speaker_0: friday
+[47:54.92 - 47:55.04] speaker_2: is
+[47:55.06 - 47:55.22] speaker_1: that
+[47:55.24 - 47:56.30] speaker_2: it
+[47:56.34 - 47:56.62] speaker_3: yep
+[47:56.72 - 47:57.26] speaker_0: sir
+[47:57.32 - 47:58.44] speaker_1: egon
+[47:58.52 - 47:59.36] speaker_3: tick
+[47:59.44 - 48:01.14] speaker_0: dicki
+[48:01.16 - 49:32.06] speaker_1: oory

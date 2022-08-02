@@ -1,0 +1,20 @@
+pipeline:
+  name: pyannote.audio.pipelines.SpeakerDiarization
+  params:
+    segmentation: pyannote/segmentation@2022.07
+    segmentation_step: 0.1
+    segmentation_batch_size: 32
+    # embedding: speechbrain/spkrec-ecapa-voxceleb@5c0be3875fda05e81f3c004ed8c7c06be308de1e
+    embedding: speechbrain/spkrec-ecapa-voxceleb
+    embedding_exclude_overlap: True
+    embedding_batch_size: 32
+    clustering: HiddenMarkovModelClustering
+
+params:
+  segmentation_onset: 0.58
+  clustering:
+    covariance_type: diag
+    threshold: 0.35
+    single_cluster_detection:
+      quantile: 0.05
+      threshold: 1.15

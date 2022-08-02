@@ -1,0 +1,76 @@
+{
+    "status": "Success",
+    "session_id": "an4_diarize_test",
+    "transcription": "eleven twenty seven fifty seven october twenty fourth nineteen seventy",
+    "speaker_count": 1,
+    "words": [
+        {
+            "word": "eleven",
+            "start_time": 0.4,
+            "end_time": 0.84,
+            "speaker_label": "speaker_0"
+        },
+        {
+            "word": "twenty",
+            "start_time": 0.98,
+            "end_time": 1.34,
+            "speaker_label": "speaker_0"
+        },
+        {
+            "word": "seven",
+            "start_time": 1.38,
+            "end_time": 1.9,
+            "speaker_label": "speaker_0"
+        },
+        {
+            "word": "fifty",
+            "start_time": 1.98,
+            "end_time": 2.32,
+            "speaker_label": "speaker_0"
+        },
+        {
+            "word": "seven",
+            "start_time": 2.36,
+            "end_time": 3.08,
+            "speaker_label": "speaker_0"
+        },
+        {
+            "word": "october",
+            "start_time": 3.18,
+            "end_time": 3.58,
+            "speaker_label": "speaker_0"
+        },
+        {
+            "word": "twenty",
+            "start_time": 3.62,
+            "end_time": 3.88,
+            "speaker_label": "speaker_0"
+        },
+        {
+            "word": "fourth",
+            "start_time": 3.92,
+            "end_time": 4.16,
+            "speaker_label": "speaker_0"
+        },
+        {
+            "word": "nineteen",
+            "start_time": 4.3,
+            "end_time": 4.64,
+            "speaker_label": "speaker_0"
+        },
+        {
+            "word": "seventy",
+            "start_time": 4.66,
+            "end_time": 5.02,
+            "speaker_label": "speaker_0"
+        }
+    ],
+    "sentences": [
+        {
+            "sentence": "eleven twenty seven fifty seven october twenty fourth nineteen seventy",
+            "start_time": 0.4,
+            "end_time": 5.02,
+            "speaker_label": "speaker_0"
+        }
+    ]
+}

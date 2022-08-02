@@ -1,0 +1,1 @@
+{"audio_filepath": "/home/DATA/amit_kesari/SD1/NeMo-ASR_Diar/data/an4_diarize_test.wav", "offset": 0, "duration": null, "label": "infer", "text": "-", "num_speakers": 4, "rttm_filepath": "/home/DATA/amit_kesari/SD1/NeMo-ASR_Diar/data/ES2004a.rttm", "uem_filepath": null}

@@ -1,0 +1,1 @@
+{"audio_filepath": "/home/DATA/amit_kesari/downloaded-big-datasets/voxconverse_test_wav/audio/zzyyo.wav", "offset": 0, "duration": null, "label": "infer", "text": "-", "num_speakers": 12, "rttm_filepath": "/home/DATA/amit_kesari/SD1/NeMo-Nvidia/data/voxconverse/rttms/test/zzyyo.rttm", "uem_filepath": null}

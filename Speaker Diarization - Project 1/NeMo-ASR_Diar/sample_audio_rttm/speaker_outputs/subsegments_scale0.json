@@ -1,0 +1,5 @@
+{"audio_filepath": "/home/DATA/amit_kesari/SD1/NeMo-ASR_Diar/sample_audio_rttm/an4_diarize_test.wav", "offset": 0.4, "duration": 0.44000000000000006, "label": "UNK", "uniq_id": null}
+{"audio_filepath": "/home/DATA/amit_kesari/SD1/NeMo-ASR_Diar/sample_audio_rttm/an4_diarize_test.wav", "offset": 0.98, "duration": 0.9199999999999999, "label": "UNK", "uniq_id": null}
+{"audio_filepath": "/home/DATA/amit_kesari/SD1/NeMo-ASR_Diar/sample_audio_rttm/an4_diarize_test.wav", "offset": 1.98, "duration": 1.1, "label": "UNK", "uniq_id": null}
+{"audio_filepath": "/home/DATA/amit_kesari/SD1/NeMo-ASR_Diar/sample_audio_rttm/an4_diarize_test.wav", "offset": 3.18, "duration": 0.98, "label": "UNK", "uniq_id": null}
+{"audio_filepath": "/home/DATA/amit_kesari/SD1/NeMo-ASR_Diar/sample_audio_rttm/an4_diarize_test.wav", "offset": 4.3, "duration": 0.7199999999999998, "label": "UNK", "uniq_id": null}
