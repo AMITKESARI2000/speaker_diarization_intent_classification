@@ -1,0 +1,70 @@
+,DOCUMENT_CLASS,MISS_COUNT
+0,*Account Details/Updation*,11
+1,*Account Login*,26
+2,*Account*,73
+3,*Alerts/Notification*,81
+4,*App/Website*,98
+5,*Appearance/Ambience/Design*,26
+6,*Authenticity*,7
+7,*Availability*,78
+8,*Career*,25
+9,*Check out*,2
+10,*Cleanliness/Hygiene*,9
+11,*Convenience*,21
+12,*Customer Churn*,120
+13,*Customer Service Quality*,157
+14,*Damage*,31
+15,*Delivery*,152
+16,*Denial of Service*,24
+17,*Discounts/Offers*,86
+18,*Durability*,12
+19,*Entertainment*,8
+20,*Environmental Responsibility*,7
+21,*Exchange/Return/Refund*,125
+22,*Freshness/Stale*,34
+23,*General-Complaints*,137
+24,*General-Praise*,107
+25,*Greetings*,172
+26,*Health/Hazard/Sickness*,4
+27,*Illegal/Unethical activity*,7
+28,*Ingredients*,3
+29,*Labelling and Instructions*,16
+30,*Language Support*,8
+31,*Loyalty Program (LP)*,38
+32,*Maintenance*,8
+33,*Missing Items*,54
+34,*No Response*,92
+35,*Noise/Sound*,11
+36,*Order Cancellation/Failed*,19
+37,*Order Issues*,21
+38,*Order Tracking*,12
+39,*Packaging*,19
+40,*Payment/Billing*,144
+41,*Pick Up Service*,18
+42,*Price/Value*,150
+43,*Product Information*,28
+44,*Progress and Resolution*,48
+45,*Purchase Intent*,116
+46,*Recommend*,123
+47,*Request Contact Details*,115
+48,*Request Help*,99
+49,*Safety/Security*,34
+50,*Service Availability*,10
+51,*Size*,17
+52,*Smell*,5
+53,*Speed of Response/Service*,100
+54,*Staff Skill*,53
+55,*Staff/Service Personnel Behavior*,229
+56,*Status Updates*,47
+57,*Subscription*,12
+58,*Suggestions*,4
+59,*Taste*,22
+60,*Temperature*,76
+61,*Thanks*,212
+62,*Variety*,12
+63,*Wrong Item/Order Accuracy*,38
+64,Delivery,3
+65,Link,1
+66,Order Issues,2
+67,Price,1
+68,Purchase Intent,1
